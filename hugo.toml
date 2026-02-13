@@ -1,0 +1,45 @@
+baseURL = 'https://audiobookitaliani.com/'
+languageCode = 'it-IT'
+title = 'AudioBook Italiani - Recensioni e Guide'
+theme = 'PaperMod'
+
+[params]
+  description = "Recensioni audiobook, libri e guide all'ascolto in italiano"
+  author = "AudioBook Italiani Team"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  defaultTheme = "auto"
+  
+  [params.homeInfoParams]
+    Title = "Benvenuto su AudioBook Italiani 📚🎧"
+    Content = "Scopri recensioni, guide e consigli sui migliori audiobook e libri in italiano. Monetizziamo con Amazon Affiliate per supportare il progetto."
+
+[[params.socialIcons]]
+  name = "telegram"
+  url = "https://t.me/audiobookitaliani_news"
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Archivio"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "Chi Siamo"
+  url = "/about/"
+  weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
