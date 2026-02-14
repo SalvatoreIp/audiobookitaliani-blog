@@ -1,0 +1,13 @@
+---
+title: "Kafka sulla Spiaggia - Audiolibro"
+date: 2026-02-14T10:49:59+00:00
+draft: false
+tags: ["audiolibri", "recensioni"]
+categories: ["recensioni"]
+---
+
+## Recensione
+
+Un viaggio surrealista e introspettivo tipico di Haruki Murakami. La narrazione dell'audiolibro è magistrale e la produzione Audible eccelle in qualità audio. Un'esperienza d'ascolto che cattura e trasporta.
+
+Voto: ⭐⭐⭐⭐⭐ Imperdibile per gli amanti del genere.
