@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script: Pubblica post blog con copertina
+# Script: Pubblica post blog con copertina (PaperMod theme)
 
 TITLE="$1"
 CONTENT="$2"
@@ -13,25 +13,36 @@ echo "📝 Creando post: $TITLE"
 echo "🎨 Generando copertina..."
 COVER_PATH=$($HOME/.openclaw/skills/generate-book-cover.sh "$TITLE" 2>&1 | tail -1)
 
-if [ $? -eq 0 ] && [ -n "$COVER_PATH" ] && [[ "$COVER_PATH" == /images/* ]]; then
-    echo "✅ Copertina generata: $COVER_PATH"
-    CONTENT_WITH_IMAGE="![Copertina $TITLE]($COVER_PATH)
-
-$CONTENT"
-else
-    echo "⚠️  Generazione copertina fallita, procedo senza immagine"
-    CONTENT_WITH_IMAGE="$CONTENT"
-fi
-
-# Crea slug per filename
+# Slug per filename
 SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | \
        sed 's/[àáâä]/a/g; s/[èéêë]/e/g; s/[ìíîï]/i/g; s/[òóôö]/o/g; s/[ùúûü]/u/g' | \
        sed 's/[^a-z0-9]/-/g' | sed 's/--*/-/g' | sed 's/^-//' | sed 's/-$//')
 
 FILENAME="content/posts/${SLUG}.md"
 
-# Crea file Markdown
-cat > "$FILENAME" << MDEOF
+# Crea Markdown con cover per PaperMod
+if [ $? -eq 0 ] && [ -n "$COVER_PATH" ] && [[ "$COVER_PATH" == /images/* ]]; then
+    echo "✅ Copertina generata: $COVER_PATH"
+    # Rimuovi lo slash iniziale per relative path
+    COVER_RELATIVE="${COVER_PATH#/}"
+    
+    cat > "$FILENAME" << MDEOF
+---
+title: "$TITLE"
+date: $(date -u +"%Y-%m-%dT%H:%M:%SZ")
+draft: false
+tags: ["audiolibri", "recensioni"]
+cover:
+    image: "$COVER_RELATIVE"
+    alt: "Copertina $TITLE"
+    relative: false
+---
+
+$CONTENT
+MDEOF
+else
+    echo "⚠️  Generazione copertina fallita, procedo senza immagine"
+    cat > "$FILENAME" << MDEOF
 ---
 title: "$TITLE"
 date: $(date -u +"%Y-%m-%dT%H:%M:%SZ")
@@ -39,8 +50,9 @@ draft: false
 tags: ["audiolibri", "recensioni"]
 ---
 
-$CONTENT_WITH_IMAGE
+$CONTENT
 MDEOF
+fi
 
 echo "✅ Post creato: $FILENAME"
 

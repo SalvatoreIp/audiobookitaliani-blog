@@ -6,7 +6,6 @@ tags: ["audiolibri", "recensioni"]
 cover:
     image: "images/covers/test-post-con-immagine.jpg"
     alt: "Copertina Test Post"
-    caption: "Copertina del libro"
     relative: false
 ---
 
