@@ -1,4 +1,4 @@
-baseURL = 'https://audiobookitaliani.com/'
+baseURL = 'https://www.audiobookitaliani.com/'
 languageCode = 'it-IT'
 title = 'AudioBook Italiani - Recensioni e Guide'
 theme = 'PaperMod'
