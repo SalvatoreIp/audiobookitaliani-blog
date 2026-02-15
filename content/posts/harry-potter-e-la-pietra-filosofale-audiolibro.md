@@ -3,6 +3,10 @@ title: "Harry Potter e la Pietra Filosofale - Audiolibro"
 date: 2026-02-14T21:42:51+00:00
 draft: false
 tags: ["audiolibri", "recensioni"]
+cover:
+  image: /images/harry-potter-e-la-pietra-filosofale-audiolibro.png
+  alt: "Copertina "
+  caption: ""
 categories: ["recensioni"]
 ---
 
