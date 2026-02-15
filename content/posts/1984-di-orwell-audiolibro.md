@@ -1,8 +1,11 @@
 ---
 title: "1984 di Orwell audiolibro"
 date: 2026-02-13T22:49:29+00:00
+author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "
+keywords: ["audiolibro", "recensione", "italiano", "libro audio"]
 categories: ["recensioni"]
 ---
 

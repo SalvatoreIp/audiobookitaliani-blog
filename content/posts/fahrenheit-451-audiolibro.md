@@ -1,6 +1,7 @@
 ---
 title: "Fahrenheit 451 - Audiolibro"
 date: 2026-02-15T14:51:04+00:00
+author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
 cover:

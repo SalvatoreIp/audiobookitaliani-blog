@@ -1,10 +1,12 @@
 ---
 title: "I 10 Migliori Audiobook Italiani del 2026"
 date: 2026-02-13
+author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiobook", "recensioni", "top10"]
 categories: ["Guide"]
 description: "Scopri i migliori audiobook in italiano del 2026 selezionati dal team di AudioBook Italiani"
+keywords: ["audiolibro", "recensione", "italiano", "libro audio"]
 ---
 
 ## I Migliori Audiobook da Ascoltare nel 2026

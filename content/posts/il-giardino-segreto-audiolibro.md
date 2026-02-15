@@ -1,6 +1,7 @@
 ---
 title: "Il Giardino Segreto - Audiolibro"
 date: 2026-02-15T18:56:22+00:00
+author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
 cover:
