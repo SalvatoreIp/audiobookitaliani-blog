@@ -1,16 +1,19 @@
 <!-- Cookie Consent JS -->
 <script defer src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js"></script>
 
-<script defer>
+<script>
 window.addEventListener('load', function() {
     
     // Init Cookie Consent
-    var cc = initCookieConsent();
+    window.CC = initCookieConsent();
     
-    cc.run({
+    window.CC.run({
         current_lang: 'it',
         autoclear_cookies: true,
         page_scripts: true,
+        
+        // IMPORTANTE: Mostra automaticamente se non ha già scelto
+        force_consent: false,
         
         gui_options: {
             consent_modal: {
@@ -27,9 +30,14 @@ window.addEventListener('load', function() {
         onAccept: function(cookie) {
             console.log('Cookie accettati:', cookie);
             
-            // Se analytics accettati, carica Google Analytics o altri
-            if (cc.allowedCategory('analytics')) {
-                // Inserisci qui codice GA se serve
+            // Se analytics accettati, carica servizi
+            if (window.CC.allowedCategory('analytics')) {
+                console.log('Analytics enabled');
+            }
+            
+            // Se marketing accettati
+            if (window.CC.allowedCategory('marketing')) {
+                console.log('Marketing/Affiliate enabled');
             }
         },
 
@@ -41,7 +49,7 @@ window.addEventListener('load', function() {
             'it': {
                 consent_modal: {
                     title: '🍪 Utilizziamo i cookie',
-                    description: 'Questo sito utilizza cookie tecnici essenziali e, previo consenso, cookie analitici e di affiliazione (Amazon). I cookie ci aiutano a migliorare l\'esperienza utente e a guadagnare commissioni sui prodotti che recensiamo. <a href="/privacy" class="cc__link">Leggi la Privacy Policy</a>',
+                    description: 'Questo sito utilizza cookie tecnici essenziali e, previo consenso, cookie analitici e di affiliazione Amazon. I cookie ci aiutano a migliorare l\'esperienza utente e a guadagnare commissioni sui prodotti che recensiamo. <a href="/privacy" class="cc__link">Leggi la Privacy Policy</a>',
                     primary_btn: {
                         text: 'Accetta tutti',
                         role: 'accept_all'
@@ -82,7 +90,15 @@ window.addEventListener('load', function() {
                                 value: 'analytics',
                                 enabled: false,
                                 readonly: false
-                            }
+                            },
+                            cookie_table: [
+                                {
+                                    col1: 'cc_cookie',
+                                    col2: 'audiobookitaliani.com',
+                                    col3: '6 mesi',
+                                    col4: 'Memorizza preferenze cookie'
+                                }
+                            ]
                         }, {
                             title: 'Cookie di Affiliazione',
                             description: 'Utilizziamo cookie di affiliazione Amazon per tracciare i clic sui link affiliati e guadagnare una piccola commissione sugli acquisti, senza costi aggiuntivi per te.',
@@ -90,7 +106,15 @@ window.addEventListener('load', function() {
                                 value: 'marketing',
                                 enabled: false,
                                 readonly: false
-                            }
+                            },
+                            cookie_table: [
+                                {
+                                    col1: 'amazon-tag',
+                                    col2: '.amazon.it',
+                                    col3: '24 ore',
+                                    col4: 'Traccia clic affiliazione'
+                                }
+                            ]
                         }, {
                             title: 'Maggiori informazioni',
                             description: 'Per qualsiasi domanda relativa alla nostra politica sui cookie e alle tue scelte, contattaci a <a class="cc__link" href="mailto:privacy@audiobookitaliani.com">privacy@audiobookitaliani.com</a> o leggi la nostra <a class="cc__link" href="/privacy">Privacy Policy completa</a>.'
