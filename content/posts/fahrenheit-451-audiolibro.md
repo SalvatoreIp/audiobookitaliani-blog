@@ -3,6 +3,10 @@ title: "Fahrenheit 451 - Audiolibro"
 date: 2026-02-15T14:51:04+00:00
 draft: false
 tags: ["audiolibri", "recensioni"]
+cover:
+  image: /images/fahrenheit-451-audiolibro.png
+  alt: "Copertina "
+  caption: ""
 categories: ["recensioni"]
 ---
 
