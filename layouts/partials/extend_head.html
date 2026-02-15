@@ -238,3 +238,15 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('cookie-overlay').addEventListener('click', hideCookieSettings);
 });
 </script>
+
+<!-- Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-XXXXXXXXXX');
+</script>
+
+<!-- Cloudflare Web Analytics -->
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "TUO_TOKEN_CLOUDFLARE"}'></script>
