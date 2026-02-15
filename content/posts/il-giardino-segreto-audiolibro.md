@@ -4,6 +4,8 @@ date: 2026-02-15T18:56:22+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Il giardino segreto. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/il-giardino-segreto-audiolibro.png
   alt: "Copertina "

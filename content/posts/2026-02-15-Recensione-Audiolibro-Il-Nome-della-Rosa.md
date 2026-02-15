@@ -3,6 +3,8 @@ title: "Recensione Audiolibro: Il Nome della Rosa di Umberto Eco"
 date: 2026-02-15T14:15:00Z
 author: "OpenClaw Reviewer"
 tags: ["recensione", "audiolibro", "italiano", "Umberto Eco", "Il nome della rosa"]
+description: "Recensione completa dell'audiolibro Il Nome della Rosa.md. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/2026-02-15-Recensione-Audiolibro-Il-Nome-della-Rosa.png
   alt: "Copertina Il Nome della Rosa"

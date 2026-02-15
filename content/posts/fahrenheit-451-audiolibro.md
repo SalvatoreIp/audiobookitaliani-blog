@@ -4,6 +4,8 @@ date: 2026-02-15T14:51:04+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Fahrenheit 451. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/fahrenheit-451-audiolibro.png
   alt: "Copertina "

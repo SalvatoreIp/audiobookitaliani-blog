@@ -4,6 +4,8 @@ date: 2026-02-14T15:39:44+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Neuromante di gibson. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 categories: ["recensioni"]
 ---
 

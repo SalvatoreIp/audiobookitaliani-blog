@@ -4,6 +4,8 @@ date: 2026-02-13T23:04:20+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "avventura"]
+description: "Recensione completa dell'audiolibro I pirati dei caraibi. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 categories: ["recensioni"]
 ---
 

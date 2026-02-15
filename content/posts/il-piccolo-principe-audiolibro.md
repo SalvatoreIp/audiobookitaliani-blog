@@ -4,6 +4,8 @@ date: 2026-02-15T12:28:54+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Il piccolo principe. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/il-piccolo-principe-audiolibro.png
   alt: "Copertina "

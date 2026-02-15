@@ -4,6 +4,8 @@ date: 2026-02-14T21:42:51+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Harry potter e la pietra filosofale. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/harry-potter-e-la-pietra-filosofale-audiolibro.png
   alt: "Copertina "

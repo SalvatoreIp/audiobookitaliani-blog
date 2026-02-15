@@ -4,6 +4,8 @@ date: 2026-02-15T13:43:40+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Cent anni di solitudine. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/cent-anni-di-solitudine-audiolibro.png
   alt: "Copertina "

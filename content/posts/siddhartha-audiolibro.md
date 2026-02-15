@@ -4,6 +4,8 @@ date: 2026-02-15T14:20:31+00:00
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
+description: "Recensione completa dell'audiolibro Siddhartha. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible."
+keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
   image: /images/siddhartha-audiolibro.png
   alt: "Copertina Siddhartha Audiolibro"
