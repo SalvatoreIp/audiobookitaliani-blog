@@ -1,128 +1,117 @@
-<!-- Cookie Consent JS -->
-<script defer src="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.umd.js"></script>
+<!-- Cookie Banner HTML -->
+<div id="cookie-overlay"></div>
+
+<div id="cookie-banner">
+    <p>🍪 Questo sito utilizza cookie tecnici essenziali e, previo consenso, cookie analitici e di affiliazione Amazon. 
+    <a href="/privacy" style="color: #3498db;">Leggi la Privacy Policy</a></p>
+    <button onclick="acceptAllCookies()">Accetta tutti</button>
+    <button class="btn-secondary" onclick="showCookieSettings()">Personalizza</button>
+    <button class="btn-secondary" onclick="rejectAllCookies()">Rifiuta</button>
+</div>
+
+<div id="cookie-settings">
+    <h2>⚙️ Impostazioni Cookie</h2>
+    <div class="cookie-category">
+        <label>
+            <input type="checkbox" id="cookie-necessary" checked disabled>
+            Cookie Tecnici (Obbligatori)
+        </label>
+        <p>Necessari per il funzionamento del sito. Non possono essere disabilitati.</p>
+    </div>
+    
+    <div class="cookie-category">
+        <label>
+            <input type="checkbox" id="cookie-analytics">
+            Cookie Analitici
+        </label>
+        <p>Ci aiutano a capire come i visitatori interagiscono con il sito.</p>
+    </div>
+    
+    <div class="cookie-category">
+        <label>
+            <input type="checkbox" id="cookie-marketing">
+            Cookie di Affiliazione Amazon
+        </label>
+        <p>Per tracciare i clic sui link affiliati e guadagnare commissioni.</p>
+    </div>
+    
+    <button onclick="saveCustomSettings()" style="background: #27ae60; color: white; border: none; padding: 10px 25px; margin: 10px 5px 0 0; cursor: pointer; border-radius: 5px;">Salva preferenze</button>
+    <button onclick="hideCookieSettings()" style="background: #95a5a6; color: white; border: none; padding: 10px 25px; margin: 10px 0 0 5px; cursor: pointer; border-radius: 5px;">Chiudi</button>
+</div>
 
 <script>
+// Cookie management functions
+function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+}
+
+function setCookie(name, value, days) {
+    const date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    document.cookie = `${name}=${value};expires=${date.toUTCString()};path=/;SameSite=Lax`;
+}
+
+function acceptAllCookies() {
+    setCookie('cookie_consent', 'all', 365);
+    setCookie('cookie_analytics', 'true', 365);
+    setCookie('cookie_marketing', 'true', 365);
+    document.getElementById('cookie-banner').classList.remove('show');
+    console.log('✅ Tutti i cookie accettati');
+}
+
+function rejectAllCookies() {
+    setCookie('cookie_consent', 'necessary', 365);
+    setCookie('cookie_analytics', 'false', 365);
+    setCookie('cookie_marketing', 'false', 365);
+    document.getElementById('cookie-banner').classList.remove('show');
+    console.log('❌ Solo cookie necessari');
+}
+
+function showCookieSettings() {
+    document.getElementById('cookie-settings').classList.add('show');
+    document.getElementById('cookie-overlay').classList.add('show');
+    document.getElementById('cookie-banner').classList.remove('show');
+    
+    // Carica preferenze salvate
+    document.getElementById('cookie-analytics').checked = getCookie('cookie_analytics') === 'true';
+    document.getElementById('cookie-marketing').checked = getCookie('cookie_marketing') === 'true';
+}
+
+function hideCookieSettings() {
+    document.getElementById('cookie-settings').classList.remove('show');
+    document.getElementById('cookie-overlay').classList.remove('show');
+}
+
+function saveCustomSettings() {
+    const analytics = document.getElementById('cookie-analytics').checked;
+    const marketing = document.getElementById('cookie-marketing').checked;
+    
+    setCookie('cookie_consent', 'custom', 365);
+    setCookie('cookie_analytics', analytics, 365);
+    setCookie('cookie_marketing', marketing, 365);
+    
+    hideCookieSettings();
+    console.log('✅ Preferenze salvate:', { analytics, marketing });
+}
+
+// Funzione globale per link footer
+window.openCookieSettings = function() {
+    showCookieSettings();
+};
+
+// Mostra banner se non ha già scelto
 window.addEventListener('load', function() {
-    
-    // Init Cookie Consent
-    window.CC = initCookieConsent();
-    
-    window.CC.run({
-        current_lang: 'it',
-        autoclear_cookies: true,
-        page_scripts: true,
-        
-        // IMPORTANTE: Mostra automaticamente se non ha già scelto
-        force_consent: false,
-        
-        gui_options: {
-            consent_modal: {
-                layout: 'box wide',
-                position: 'bottom center',
-                transition: 'slide'
-            },
-            settings_modal: {
-                layout: 'box',
-                transition: 'slide'
-            }
-        },
-
-        onAccept: function(cookie) {
-            console.log('Cookie accettati:', cookie);
-            
-            // Se analytics accettati, carica servizi
-            if (window.CC.allowedCategory('analytics')) {
-                console.log('Analytics enabled');
-            }
-            
-            // Se marketing accettati
-            if (window.CC.allowedCategory('marketing')) {
-                console.log('Marketing/Affiliate enabled');
-            }
-        },
-
-        onChange: function(cookie, changed_categories) {
-            console.log('Preferenze cambiate:', changed_categories);
-        },
-
-        languages: {
-            'it': {
-                consent_modal: {
-                    title: '🍪 Utilizziamo i cookie',
-                    description: 'Questo sito utilizza cookie tecnici essenziali e, previo consenso, cookie analitici e di affiliazione Amazon. I cookie ci aiutano a migliorare l\'esperienza utente e a guadagnare commissioni sui prodotti che recensiamo. <a href="/privacy" class="cc__link">Leggi la Privacy Policy</a>',
-                    primary_btn: {
-                        text: 'Accetta tutti',
-                        role: 'accept_all'
-                    },
-                    secondary_btn: {
-                        text: 'Personalizza',
-                        role: 'settings'
-                    }
-                },
-                settings_modal: {
-                    title: 'Preferenze Cookie',
-                    save_settings_btn: 'Salva preferenze',
-                    accept_all_btn: 'Accetta tutti',
-                    reject_all_btn: 'Rifiuta tutti',
-                    close_btn_label: 'Chiudi',
-                    cookie_table_headers: [
-                        {col1: 'Nome'},
-                        {col2: 'Dominio'},
-                        {col3: 'Scadenza'},
-                        {col4: 'Descrizione'}
-                    ],
-                    blocks: [
-                        {
-                            title: 'Utilizzo dei Cookie',
-                            description: 'Utilizziamo cookie per garantire le funzionalità di base del sito web e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria di attivare/disattivare quando vuoi.'
-                        }, {
-                            title: 'Cookie Tecnici',
-                            description: 'Questi cookie sono essenziali per il corretto funzionamento del sito. Senza questi cookie, il sito non funzionerebbe correttamente.',
-                            toggle: {
-                                value: 'necessary',
-                                enabled: true,
-                                readonly: true
-                            }
-                        }, {
-                            title: 'Cookie Analitici',
-                            description: 'Questi cookie ci aiutano a capire come i visitatori interagiscono con il sito web raccogliendo e riportando informazioni in forma anonima.',
-                            toggle: {
-                                value: 'analytics',
-                                enabled: false,
-                                readonly: false
-                            },
-                            cookie_table: [
-                                {
-                                    col1: 'cc_cookie',
-                                    col2: 'audiobookitaliani.com',
-                                    col3: '6 mesi',
-                                    col4: 'Memorizza preferenze cookie'
-                                }
-                            ]
-                        }, {
-                            title: 'Cookie di Affiliazione',
-                            description: 'Utilizziamo cookie di affiliazione Amazon per tracciare i clic sui link affiliati e guadagnare una piccola commissione sugli acquisti, senza costi aggiuntivi per te.',
-                            toggle: {
-                                value: 'marketing',
-                                enabled: false,
-                                readonly: false
-                            },
-                            cookie_table: [
-                                {
-                                    col1: 'amazon-tag',
-                                    col2: '.amazon.it',
-                                    col3: '24 ore',
-                                    col4: 'Traccia clic affiliazione'
-                                }
-                            ]
-                        }, {
-                            title: 'Maggiori informazioni',
-                            description: 'Per qualsiasi domanda relativa alla nostra politica sui cookie e alle tue scelte, contattaci a <a class="cc__link" href="mailto:privacy@audiobookitaliani.com">privacy@audiobookitaliani.com</a> o leggi la nostra <a class="cc__link" href="/privacy">Privacy Policy completa</a>.'
-                        }
-                    ]
-                }
-            }
-        }
-    });
+    const consent = getCookie('cookie_consent');
+    if (!consent) {
+        setTimeout(function() {
+            document.getElementById('cookie-banner').classList.add('show');
+        }, 500);
+    }
+    console.log('Cookie consent status:', consent);
 });
+
+// Chiudi modal cliccando overlay
+document.getElementById('cookie-overlay').addEventListener('click', hideCookieSettings);
 </script>
