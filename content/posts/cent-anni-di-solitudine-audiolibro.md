@@ -3,6 +3,10 @@ title: "Cent'anni di Solitudine - Audiolibro"
 date: 2026-02-15T13:43:40+00:00
 draft: false
 tags: ["audiolibri", "recensioni"]
+cover:
+  image: /images/cent-anni-di-solitudine-audiolibro.png
+  alt: "Copertina "
+  caption: ""
 categories: ["recensioni"]
 ---
 
