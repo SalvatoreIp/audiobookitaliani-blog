@@ -1,11 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://www.audiobookitaliani.com/sitemap.xml
-
-# Google bots
-User-agent: Googlebot
-Allow: /
-
-# Block archive pages from indexing (optional)
-Disallow: /tags/
-Disallow: /categories/
