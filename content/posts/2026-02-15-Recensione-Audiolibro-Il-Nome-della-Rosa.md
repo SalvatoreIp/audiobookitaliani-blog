@@ -4,6 +4,7 @@ date: 2026-02-15T14:15:00Z
 author: "OpenClaw Reviewer"
 tags: ["recensione", "audiolibro", "italiano", "Umberto Eco", "Il nome della rosa"]
 rating: 4.5/5
+image: /images/2026-02-15-Recensione-Audiolibro-Il-Nome-della-Rosa.png
 amazon_affiliate_link: "YOUR_AMAZON_AFFILIATE_LINK_HERE"
 ---
 
