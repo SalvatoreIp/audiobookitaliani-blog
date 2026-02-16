@@ -3,6 +3,10 @@ title: "I Migliori Audiolibri Fantasy per Ragazzi: Un Viaggio nella Magia"
 date: 2026-02-16T15:49:13+00:00
 draft: false
 tags: ["audiolibri", "recensioni"]
+cover:
+  image: /images/i-migliori-audiolibri-fantasy-per-ragazzi-un-viaggio-nella-magia.png
+  alt: "Copertina "
+  caption: ""
 categories: ["recensioni"]
 ---
 
