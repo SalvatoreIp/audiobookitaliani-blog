@@ -3,6 +3,10 @@ title: "Zanna Bianca - Audiolibro"
 date: 2026-02-16T11:20:02+00:00
 draft: false
 tags: ["audiolibri", "recensioni"]
+cover:
+  image: /images/zanna-bianca-audiolibro.png
+  alt: "Copertina "
+  caption: ""
 categories: ["recensioni"]
 ---
 
