@@ -17,7 +17,7 @@ theme = 'PaperMod'
   
   [params.homeInfoParams]
     Title = "Benvenuto su AudioBook Italiani 📚🎧"
-    Content = "Scopri recensioni, guide e consigli sui migliori audiobook e libri in italiano. Monetizziamo con Amazon Affiliate per supportare il progetto."
+    Content = "Scopri recensioni, guide e consigli sui migliori audiobook e libri in italiano."
 
 [[params.socialIcons]]
   name = "telegram"
