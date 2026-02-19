@@ -21,4 +21,4 @@ Quest'audiolibro è consigliato a chiunque voglia esplorare i confini dell'immag
 
 **Voto:** ⭐⭐⭐⭐⭐ Un viaggio indimenticabile nella follia creativa.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/4aqwbTL
