@@ -21,4 +21,4 @@ Quest'audiolibro è consigliato a coloro che sono attratti dal misticismo, dalla
 
 **Voto:** ⭐⭐⭐⭐ Un viaggio profondo nell'esoterismo per menti aperte.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** LINK_AMAZON_QUI

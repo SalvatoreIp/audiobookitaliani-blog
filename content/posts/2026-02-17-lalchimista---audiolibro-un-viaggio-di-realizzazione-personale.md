@@ -21,4 +21,4 @@ Quest'audiolibro è vivamente consigliato a chiunque si trovi in un momento di t
 
 **Voto:** ⭐⭐⭐⭐⭐ Un'ispirazione senza tempo per l'anima.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** LINK_AMAZON_QUI

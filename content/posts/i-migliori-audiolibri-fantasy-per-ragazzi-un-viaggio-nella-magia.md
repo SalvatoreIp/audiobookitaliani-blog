@@ -22,7 +22,7 @@ Dall'epico "Harry Potter" (che abbiamo già recensito!) alle fiabe classiche rei
 *   **Accessibilità:** Perfetto per i lunghi viaggi, le pause rilassanti o per chi ha difficoltà visive o di lettura.
 
 **Alcuni consigli per iniziare (placeholder per affiliazione):**
-Scopri la nostra selezione dei migliori audiolibri fantasy per ragazzi, disponibili su Audible. Clicca qui per un mondo di magia e avventura! [Link affiliato Amazon qui]
+Scopri la nostra selezione dei migliori audiolibri fantasy per ragazzi, disponibili su Audible. Clicca qui per un mondo di magia e avventura! LINK_AMAZON_QUI
 
 Continua a seguirci per recensioni approfondite e guide complete sul mondo degli audiolibri.
 

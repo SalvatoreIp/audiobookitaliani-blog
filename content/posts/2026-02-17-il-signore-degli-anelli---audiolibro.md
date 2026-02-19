@@ -21,4 +21,4 @@ Questo audiolibro non è solo una storia, ma un viaggio che invita alla riflessi
 
 **Voto:** ⭐⭐⭐⭐⭐ Un'epica indimenticabile, da ascoltare più volte.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** LINK_AMAZON_QUI

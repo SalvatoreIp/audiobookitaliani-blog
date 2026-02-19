@@ -21,4 +21,4 @@ Quest'audiolibro è consigliato a chiunque apprezzi la grande letteratura, le st
 
 **Voto:** ⭐⭐⭐⭐ Un'epopea marina che sfiora l'infinito.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** LINK_AMAZON_QUI
