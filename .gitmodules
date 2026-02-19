@@ -1,0 +1,6 @@
+[submodule "/home/salvatore/.openclaw/workspace/audiobookitaliani/themes/PaperMod"]
+	path = /home/salvatore/.openclaw/workspace/audiobookitaliani/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "/home/salvatore/.openclaw/workspace/audiobookitaliani-nuovo/themes/PaperMod"]
+	path = /home/salvatore/.openclaw/workspace/audiobookitaliani-nuovo/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
