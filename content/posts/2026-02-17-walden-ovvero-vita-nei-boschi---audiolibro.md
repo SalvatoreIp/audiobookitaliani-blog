@@ -21,4 +21,4 @@ Questo audiolibro è vivamente consigliato a coloro che cercano ispirazione per 
 
 **Voto:** ⭐⭐⭐⭐⭐ Un inno alla vita semplice e consapevole, intramontabile in audiolibro.
 
-**Acquista su Amazon:** LINK_AMAZON_QUI
+**Acquista su Amazon:** https://amzn.to/4tRpdyX
