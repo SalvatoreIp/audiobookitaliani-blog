@@ -21,4 +21,4 @@ Quest'audiolibro è consigliato a chiunque sia affascinato dai romanzi psicologi
 
 **Voto:** ⭐⭐⭐⭐⭐ Un ritratto indimenticabile dell'ambizione umana.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/3MKzWdw
