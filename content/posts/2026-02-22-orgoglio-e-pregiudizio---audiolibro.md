@@ -21,4 +21,4 @@ Quest'audiolibro è consigliato a chiunque ami i romanzi d'amore e di costume, l
 
 **Voto:** ⭐⭐⭐⭐⭐ Un capolavoro senza tempo di amore e ingegno.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/4c8qevX
