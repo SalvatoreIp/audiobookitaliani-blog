@@ -21,4 +21,4 @@ Consigliatissimo a chiunque ami i romanzi storici, le lunghe e complesse narrazi
 
 **Voto:** ⭐⭐⭐⭐⭐ Un'avventura epica e un classico senza tempo.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/3OVqCEl
