@@ -1,6 +1,6 @@
 ---
 title: "Geronimo Stilton - Audiolibro"
-date: 2026-02-22T12:32:28Z
+date: 2026-02-22T12:32:52Z
 draft: false
 tags: ["audiolibri", "recensioni", "romanzi"]
 cover:
