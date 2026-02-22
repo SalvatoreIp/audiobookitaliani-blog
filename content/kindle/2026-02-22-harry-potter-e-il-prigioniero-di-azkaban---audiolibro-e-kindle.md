@@ -21,4 +21,4 @@ La possibilità di leggere su Kindle significa avere sempre a portata di mano l'
 
 **Voto:** ⭐⭐⭐⭐⭐ Un capitolo cruciale e avvincente, perfetto per ogni fan.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/3ZQ1zVG
