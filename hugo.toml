@@ -48,3 +48,15 @@ theme = 'PaperMod'
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
+
+[[menu.main]]
+  identifier = "kindle"
+  name = "Kindle"
+  url = "/kindle/"
+  weight = 25
+
+[[menu.main]]
+  identifier = "libri"
+  name = "Libri Cartacei"
+  url = "/libri/"
+  weight = 27

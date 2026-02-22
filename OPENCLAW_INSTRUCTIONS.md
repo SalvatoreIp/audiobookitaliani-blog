@@ -43,3 +43,17 @@ Acquistando tramite questo link supporti AudioBook Italiani gratuitamente.
 - Generare link Amazon da solo
 - Modificare link esistenti gia approvati
 - Usare link senza tag affiliazione di Salvatore
+
+
+## 🐍 Sostituzioni Testo nei File .md
+NON usare sed per sostituire testo nei file markdown!
+Gli asterischi ** e le parentesi [] fanno crashare sed.
+USA SEMPRE python3 per sostituire testo nei file .md:
+
+python3 -c "
+f = '/path/al/file.md'
+content = open(f).read()
+content = content.replace('TESTO_VECCHIO', 'TESTO_NUOVO')
+open(f, 'w').write(content)
+print('Fatto!')
+"
