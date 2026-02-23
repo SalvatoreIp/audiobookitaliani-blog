@@ -21,4 +21,4 @@ Consigliatissimo a chiunque sia a un bivio della vita, a chi cerca saggezza e is
 
 **Voto:** ⭐⭐⭐⭐⭐ Un classico senza tempo per la ricerca dell'anima.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/4kSE0oQ
