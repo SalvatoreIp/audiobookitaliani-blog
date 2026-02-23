@@ -57,3 +57,34 @@ content = content.replace('TESTO_VECCHIO', 'TESTO_NUOVO')
 open(f, 'w').write(content)
 print('Fatto!')
 "
+
+## 🗂️ SEZIONI DEL SITO - REGOLA FONDAMENTALE
+
+Il comando createBlogPost accetta 3 parametri:
+1. Titolo
+2. Descrizione  
+3. Sezione (NON è il genere letterario!)
+
+### Valori corretti per il 3° parametro:
+- "audiolibri" → pubblica in content/posts/
+- "kindle" → pubblica in content/kindle/
+- "libri" → pubblica in content/libri/
+
+### Esempio corretto:
+createBlogPost 'Il Nome della Rosa' 'Capolavoro di Umberto Eco' 'kindle'
+
+### ❌ NON usare come 3° parametro:
+- fantascienza, fantasy, giallo, classici, horror, romanzi
+- Quelli vanno nei TAG dentro il post, non come sezione!
+
+## ⚠️ NOMI SEZIONI ESATTI
+I nomi delle sezioni sono ESATTAMENTE questi tre:
+- "audiolibri"
+- "kindle"
+- "libri"
+
+NON usare MAI:
+- "libri-cartacei" ❌
+- "libri cartacei" ❌
+- "ebook" ❌
+- "audiobook" ❌
