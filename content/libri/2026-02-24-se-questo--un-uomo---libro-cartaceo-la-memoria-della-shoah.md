@@ -21,4 +21,4 @@ Questo libro è una lettura obbligatoria per tutti, non solo per comprendere la 
 
 **Voto:** ⭐⭐⭐⭐⭐ Un'opera fondamentale, un faro nella storia dell'umanità.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/4aMFnAD
