@@ -21,4 +21,4 @@ Questo romanzo è consigliato a chi cerca una lettura forte, anticonvenzionale e
 
 **Voto:** ⭐⭐⭐⭐ Un racconto potente e indimenticabile di un mondo nascosto.
 
-**Acquista su Amazon:** [Link affiliato Amazon qui]
+**Acquista su Amazon:** https://amzn.to/40wu36Y
