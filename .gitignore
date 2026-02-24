@@ -1,12 +1,1 @@
-public/
-resources/
-.hugo_build.lock
-node_modules/
-.DS_Store
-# Security
-.env
-*.key
-*.pem
-*secret*
-*password*
-config.json
+/scripts/create-post-full.sh.backup
