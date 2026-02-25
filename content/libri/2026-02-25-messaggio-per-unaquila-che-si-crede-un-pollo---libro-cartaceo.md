@@ -1,6 +1,6 @@
 ---
 title: "Messaggio per un'aquila che si crede un pollo - Libro Cartaceo"
-date: 2026-02-25T16:06:25Z
+date: 2026-02-25T16:11:04Z
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
