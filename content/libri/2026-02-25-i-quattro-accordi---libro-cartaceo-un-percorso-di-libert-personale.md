@@ -1,6 +1,6 @@
 ---
 title: "I Quattro Accordi - Libro Cartaceo: Un Percorso di Libertà Personale"
-date: 2026-02-25T21:13:44Z
+date: 2026-02-25T21:14:13Z
 draft: false
 tags: ["audiolibri", "recensioni", "libri"]
 cover:
