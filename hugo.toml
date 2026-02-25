@@ -14,7 +14,7 @@ theme = 'PaperMod'
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   defaultTheme = "auto"
-  
+
   [params.homeInfoParams]
     Title = "Benvenuto su AudioBook Italiani 📚🎧"
     Content = "Scopri recensioni, guide e consigli sui migliori audiobook e libri in italiano."
@@ -25,15 +25,27 @@ theme = 'PaperMod'
 
 [[menu.main]]
   identifier = "home"
-  name = "Home"
+  name = "Audiolibri"
   url = "/"
   weight = 10
+
+[[menu.main]]
+  identifier = "kindle"
+  name = "Kindle"
+  url = "/kindle/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "libri"
+  name = "Libri Cartacei"
+  url = "/libri/"
+  weight = 25
 
 [[menu.main]]
   identifier = "posts"
   name = "Archivio"
   url = "/posts/"
-  weight = 20
+  weight = 27
 
 [[menu.main]]
   identifier = "about"
@@ -48,15 +60,3 @@ theme = 'PaperMod'
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
-
-[[menu.main]]
-  identifier = "kindle"
-  name = "Kindle"
-  url = "/kindle/"
-  weight = 25
-
-[[menu.main]]
-  identifier = "libri"
-  name = "Libri Cartacei"
-  url = "/libri/"
-  weight = 27
