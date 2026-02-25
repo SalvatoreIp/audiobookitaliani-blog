@@ -18,8 +18,6 @@ Un romanzo che esplora i lati oscuri della memoria e della verità, dove ogni ri
 
 📖 Disponibile in formato cartaceo su Amazon: [https://amzn.to/4aCan7L](https://amzn.to/4aCan7L)
 
-Acquistando tramite questo link supporti AudioBook Italiani gratuitamente!: [https://amzn.to/4aCan7L](https://amzn.to/4aCan7L)
-
 Acquistando tramite questo link supporti AudioBook Italiani gratuitamente!
 
 ## Dettagli
