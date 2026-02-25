@@ -6,7 +6,7 @@ draft: false
 tags: ["audiolibri", "recensioni"]
 keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
-  image: 
+  image: /images/2026-02-25-i-quattro-accordi---libro-cartaceo-un-percorso-di-libert-personale.png
   alt: "I Quattro Accordi - Libro Cartaceo: Un Percorso di Libertà Personale - Copertina"
   caption: "Recensione completa dell'audiolibro"
 categories: ["recensioni"]
