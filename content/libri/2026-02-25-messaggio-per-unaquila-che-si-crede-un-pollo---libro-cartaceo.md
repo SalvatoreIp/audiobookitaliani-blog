@@ -6,7 +6,7 @@ draft: false
 tags: ["audiolibri", "recensioni"]
 keywords: ["audiolibro", "recensione", "italiano", "libro audio", "audible"]
 cover:
-  image: 
+  image: /images/2026-02-25-messaggio-per-unaquila-che-si-crede-un-pollo---libro-cartaceo.png
   alt: "Messaggio per un'aquila che si crede un pollo - Libro Cartaceo - Copertina"
   caption: "Recensione completa dell'audiolibro"
 categories: ["recensioni"]
