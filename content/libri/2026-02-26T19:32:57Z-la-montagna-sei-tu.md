@@ -5,7 +5,7 @@ author: "AudioBook Italiani Team"
 draft: false
 tags: ["libri", "crescita personale", "psicologia", "autosabotaggio", "recensioni"]
 cover:
-    image: "https://www.audiobookitaliani.com/images/covers/la-montagna-sei-tu.jpg"
+    image: "/images/covers/la-montagna-sei-tu.jpg"
     alt: "Copertina La montagna sei tu"
 ---
 
