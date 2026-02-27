@@ -11,7 +11,6 @@ SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9
 DATE=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
 FILE="content/$SECTION/$DATE-$SLUG.md"
 
-# IMMAGINE: path SEMPRE relativo - mai URL assoluto!
 mkdir -p static/images/covers
 if [ -n "$IMAGE_PATH" ] && [ -f "$IMAGE_PATH" ]; then
     cp "$IMAGE_PATH" "static/images/covers/$SLUG.jpg"
@@ -32,7 +31,7 @@ $COVER
 
 ## 👉 [Acquista su Amazon]($AMAZON_LINK)
 
-**$DESCRIPTION** - Un'opera imperdibile per ogni appassionato.
+**$DESCRIPTION** per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
 Nato dalla penna di un autore che ha rivoluzionato il panorama letterario, questo libro rappresenta un punto di svolta. L'autore porta un bagaglio di esperienze uniche che si riflettono in ogni pagina.
@@ -52,6 +51,11 @@ Questo libro non è solo una storia, ma un'esperienza che cambia il modo di vede
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**
 MD
+
+# 🔒 FIX PERMESSI (NUOVO!)
+chmod 644 "$FILE"
+chown salvatore:salvatore "$FILE"
+echo "✅ Permessi corretti: $FILE"
 
 echo "✅ $FILE creato PERFETTO!"
 echo "📝 nano $FILE → COMPILA:"
