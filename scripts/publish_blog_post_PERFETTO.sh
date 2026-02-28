@@ -19,6 +19,20 @@ COVER="cover:
     image: '/images/covers/$SLUG.jpg'
     alt: 'Copertina $TITLE'"
 
+# 📚 CORRELATI DINAMICI DA FILE REALI
+CORRELATI=""
+while IFS= read -r f; do
+    SLUG_C=$(basename "$f" | sed 's/^[0-9T:Z-]*-//;s/\.md$//')
+    TITLE_C=$(grep '^title:' "$f" | sed 's/title: //;s/"//g' | xargs)
+    if [ -n "$TITLE_C" ] && [ -n "$SLUG_C" ]; then
+        CORRELATI="$CORRELATI[$TITLE_C](/$SECTION/$SLUG_C/) | "
+    fi
+done < <(ls content/$SECTION/*.md 2>/dev/null | grep -v "$FILE" | shuf | head -3)
+CORRELATI="${CORRELATI%' | '}"
+if [ -z "$CORRELATI" ]; then
+    CORRELATI="[Tutti i libri](/$SECTION/)"
+fi
+
 cat > "$FILE" << MD
 ---
 title: "$TITLE"
@@ -37,7 +51,7 @@ $COVER
 Nato dalla penna di un autore che ha rivoluzionato il panorama letterario, questo libro rappresenta un punto di svolta. L'autore porta un bagaglio di esperienze uniche che si riflettono in ogni pagina.
 
 ### 📚 Libri Correlati
-[Il Nome della Rosa](/libri/il-nome-della-rosa/) | [1984](/libri/1984/) | [Dune](/libri/dune/)
+$CORRELATI
 
 ## 📖 Trama (senza spoiler)
 Il protagonista si trova immerso in un mondo affascinante dove [qui trama principale senza spoiler]. La narrazione scorre fluida, tenendo il lettore incollato alle pagine.
@@ -52,7 +66,7 @@ Questo libro non è solo una storia, ma un'esperienza che cambia il modo di vede
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**
 MD
 
-# 🔒 FIX PERMESSI (NUOVO!)
+# 🔒 FIX PERMESSI
 chmod 644 "$FILE"
 chown salvatore:salvatore "$FILE"
 echo "✅ Permessi corretti: $FILE"
