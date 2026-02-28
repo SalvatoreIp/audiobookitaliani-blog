@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fantasy on AudioBook Italiani - Recensioni e Guide</title>
-    <link>https://www.audiobookitaliani.com/tags/fantasy/</link>
+    <link>http://localhost:1313/tags/fantasy/</link>
     <description>Recent content in Fantasy on AudioBook Italiani - Recensioni e Guide</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Thu, 19 Feb 2026 11:14:07 +0000</lastBuildDate>
-    <atom:link href="https://www.audiobookitaliani.com/tags/fantasy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fantasy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alice nel Paese delle Meraviglie - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/2026-02-19-alice-nel-paese-delle-meraviglie---audiolibro/</link>
+      <link>http://localhost:1313/posts/2026-02-19-alice-nel-paese-delle-meraviglie---audiolibro/</link>
       <pubDate>Thu, 19 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/2026-02-19-alice-nel-paese-delle-meraviglie---audiolibro/</guid>
+      <guid>http://localhost:1313/posts/2026-02-19-alice-nel-paese-delle-meraviglie---audiolibro/</guid>
       <description>Il classico di Lewis Carroll, un viaggio surreale e fantasioso per grandi e piccini.</description>
     </item>
     <item>
       <title>Le Cronache di Narnia - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/2026-02-19-le-cronache-di-narnia---audiolibro/</link>
+      <link>http://localhost:1313/posts/2026-02-19-le-cronache-di-narnia---audiolibro/</link>
       <pubDate>Thu, 19 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/2026-02-19-le-cronache-di-narnia---audiolibro/</guid>
+      <guid>http://localhost:1313/posts/2026-02-19-le-cronache-di-narnia---audiolibro/</guid>
       <description>La saga fantasy di C.S. Lewis, un mondo magico oltre l&amp;#39;armadio.</description>
     </item>
     <item>
       <title>Il Signore degli Anelli - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/2026-02-17-il-signore-degli-anelli---audiolibro/</link>
+      <link>http://localhost:1313/posts/2026-02-17-il-signore-degli-anelli---audiolibro/</link>
       <pubDate>Tue, 17 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/2026-02-17-il-signore-degli-anelli---audiolibro/</guid>
+      <guid>http://localhost:1313/posts/2026-02-17-il-signore-degli-anelli---audiolibro/</guid>
       <description>L&amp;#39;epica saga fantasy di Tolkien.</description>
     </item>
     <item>
       <title>I Migliori Audiolibri Fantasy per Ragazzi: Un Viaggio nella Magia</title>
-      <link>https://www.audiobookitaliani.com/posts/i-migliori-audiolibri-fantasy-per-ragazzi-un-viaggio-nella-magia/</link>
+      <link>http://localhost:1313/posts/i-migliori-audiolibri-fantasy-per-ragazzi-un-viaggio-nella-magia/</link>
       <pubDate>Mon, 16 Feb 2026 15:49:13 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/i-migliori-audiolibri-fantasy-per-ragazzi-un-viaggio-nella-magia/</guid>
+      <guid>http://localhost:1313/posts/i-migliori-audiolibri-fantasy-per-ragazzi-un-viaggio-nella-magia/</guid>
       <description>Guida ai migliori audiolibri fantasy per ragazzi: storie magiche e avventurose per stimolare l&amp;#39;immaginazione dei più giovani.</description>
     </item>
     <item>
       <title>Harry Potter e la Pietra Filosofale - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/harry-potter-e-la-pietra-filosofale-audiolibro/</link>
+      <link>http://localhost:1313/posts/harry-potter-e-la-pietra-filosofale-audiolibro/</link>
       <pubDate>Sat, 14 Feb 2026 21:42:51 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/harry-potter-e-la-pietra-filosofale-audiolibro/</guid>
+      <guid>http://localhost:1313/posts/harry-potter-e-la-pietra-filosofale-audiolibro/</guid>
       <description>Recensione completa dell&amp;#39;audiolibro Harry Potter e la Pietra Filosofale. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible.</description>
     </item>
   </channel>

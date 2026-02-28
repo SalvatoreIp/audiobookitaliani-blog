@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Fantascienza on AudioBook Italiani - Recensioni e Guide</title>
-    <link>https://www.audiobookitaliani.com/tags/fantascienza/</link>
+    <link>http://localhost:1313/tags/fantascienza/</link>
     <description>Recent content in Fantascienza on AudioBook Italiani - Recensioni e Guide</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Sat, 14 Feb 2026 15:39:44 +0000</lastBuildDate>
-    <atom:link href="https://www.audiobookitaliani.com/tags/fantascienza/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/fantascienza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neuromante di Gibson - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/neuromante-di-gibson-audiolibro/</link>
+      <link>http://localhost:1313/posts/neuromante-di-gibson-audiolibro/</link>
       <pubDate>Sat, 14 Feb 2026 15:39:44 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/neuromante-di-gibson-audiolibro/</guid>
+      <guid>http://localhost:1313/posts/neuromante-di-gibson-audiolibro/</guid>
       <description>Recensione completa dell&amp;#39;audiolibro Neuromante di Gibson. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible.</description>
     </item>
   </channel>

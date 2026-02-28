@@ -2,101 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on AudioBook Italiani - Recensioni e Guide</title>
-    <link>https://www.audiobookitaliani.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on AudioBook Italiani - Recensioni e Guide</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 24 Feb 2026 12:45:25 +0000</lastBuildDate>
-    <atom:link href="https://www.audiobookitaliani.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Feb 2026 09:57:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audiolibri</title>
-      <link>https://www.audiobookitaliani.com/tags/audiolibri/</link>
-      <pubDate>Tue, 24 Feb 2026 12:45:25 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/audiolibri/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kindle</title>
-      <link>https://www.audiobookitaliani.com/tags/kindle/</link>
-      <pubDate>Tue, 24 Feb 2026 12:45:25 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/kindle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Recensioni</title>
-      <link>https://www.audiobookitaliani.com/tags/recensioni/</link>
-      <pubDate>Tue, 24 Feb 2026 12:45:25 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/recensioni/</guid>
+      <link>http://localhost:1313/tags/audiolibri/</link>
+      <pubDate>Sat, 28 Feb 2026 09:57:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/audiolibri/</guid>
       <description></description>
     </item>
     <item>
       <title>Libri</title>
-      <link>https://www.audiobookitaliani.com/tags/libri/</link>
-      <pubDate>Tue, 24 Feb 2026 07:38:47 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/libri/</guid>
+      <link>http://localhost:1313/tags/libri/</link>
+      <pubDate>Sat, 28 Feb 2026 09:57:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/libri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recensioni</title>
+      <link>http://localhost:1313/tags/recensioni/</link>
+      <pubDate>Sat, 28 Feb 2026 09:57:27 +0000</pubDate>
+      <guid>http://localhost:1313/tags/recensioni/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Horror</title>
+      <link>http://localhost:1313/tags/horror/</link>
+      <pubDate>Thu, 26 Feb 2026 20:17:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/horror/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Suspense</title>
+      <link>http://localhost:1313/tags/suspense/</link>
+      <pubDate>Thu, 26 Feb 2026 20:17:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/suspense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thriller</title>
+      <link>http://localhost:1313/tags/thriller/</link>
+      <pubDate>Thu, 26 Feb 2026 20:17:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thriller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autosabotaggio</title>
+      <link>http://localhost:1313/tags/autosabotaggio/</link>
+      <pubDate>Thu, 26 Feb 2026 19:32:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/autosabotaggio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crescita Personale</title>
+      <link>http://localhost:1313/tags/crescita-personale/</link>
+      <pubDate>Thu, 26 Feb 2026 19:32:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/crescita-personale/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psicologia</title>
+      <link>http://localhost:1313/tags/psicologia/</link>
+      <pubDate>Thu, 26 Feb 2026 19:32:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/psicologia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Narrativa Contemporanea</title>
+      <link>http://localhost:1313/tags/narrativa-contemporanea/</link>
+      <pubDate>Thu, 26 Feb 2026 13:25:01 +0000</pubDate>
+      <guid>http://localhost:1313/tags/narrativa-contemporanea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kindle</title>
+      <link>http://localhost:1313/tags/kindle/</link>
+      <pubDate>Tue, 24 Feb 2026 12:45:25 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kindle/</guid>
       <description></description>
     </item>
     <item>
       <title>Ragazzi</title>
-      <link>https://www.audiobookitaliani.com/tags/ragazzi/</link>
+      <link>http://localhost:1313/tags/ragazzi/</link>
       <pubDate>Mon, 23 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/ragazzi/</guid>
+      <guid>http://localhost:1313/tags/ragazzi/</guid>
       <description></description>
     </item>
     <item>
       <title>Classici</title>
-      <link>https://www.audiobookitaliani.com/tags/classici/</link>
+      <link>http://localhost:1313/tags/classici/</link>
       <pubDate>Sun, 22 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/classici/</guid>
+      <guid>http://localhost:1313/tags/classici/</guid>
       <description></description>
     </item>
     <item>
       <title>Fantasy</title>
-      <link>https://www.audiobookitaliani.com/tags/fantasy/</link>
+      <link>http://localhost:1313/tags/fantasy/</link>
       <pubDate>Thu, 19 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/fantasy/</guid>
+      <guid>http://localhost:1313/tags/fantasy/</guid>
       <description></description>
     </item>
     <item>
       <title>Romanzi</title>
-      <link>https://www.audiobookitaliani.com/tags/romanzi/</link>
+      <link>http://localhost:1313/tags/romanzi/</link>
       <pubDate>Tue, 17 Feb 2026 11:49:46 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/romanzi/</guid>
+      <guid>http://localhost:1313/tags/romanzi/</guid>
       <description></description>
     </item>
     <item>
       <title>Filosofia</title>
-      <link>https://www.audiobookitaliani.com/tags/filosofia/</link>
+      <link>http://localhost:1313/tags/filosofia/</link>
       <pubDate>Tue, 17 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/filosofia/</guid>
+      <guid>http://localhost:1313/tags/filosofia/</guid>
       <description></description>
     </item>
     <item>
       <title>Fantascienza</title>
-      <link>https://www.audiobookitaliani.com/tags/fantascienza/</link>
+      <link>http://localhost:1313/tags/fantascienza/</link>
       <pubDate>Sat, 14 Feb 2026 15:39:44 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/fantascienza/</guid>
+      <guid>http://localhost:1313/tags/fantascienza/</guid>
       <description></description>
     </item>
     <item>
       <title>Avventura</title>
-      <link>https://www.audiobookitaliani.com/tags/avventura/</link>
+      <link>http://localhost:1313/tags/avventura/</link>
       <pubDate>Fri, 13 Feb 2026 23:04:20 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/avventura/</guid>
+      <guid>http://localhost:1313/tags/avventura/</guid>
       <description></description>
     </item>
     <item>
       <title>Audiobook</title>
-      <link>https://www.audiobookitaliani.com/tags/audiobook/</link>
+      <link>http://localhost:1313/tags/audiobook/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/audiobook/</guid>
+      <guid>http://localhost:1313/tags/audiobook/</guid>
       <description></description>
     </item>
     <item>
       <title>Top10</title>
-      <link>https://www.audiobookitaliani.com/tags/top10/</link>
+      <link>http://localhost:1313/tags/top10/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/tags/top10/</guid>
+      <guid>http://localhost:1313/tags/top10/</guid>
       <description></description>
     </item>
   </channel>

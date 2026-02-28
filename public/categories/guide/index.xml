@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Guide on AudioBook Italiani - Recensioni e Guide</title>
-    <link>https://www.audiobookitaliani.com/categories/guide/</link>
+    <link>http://localhost:1313/categories/guide/</link>
     <description>Recent content in Guide on AudioBook Italiani - Recensioni e Guide</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Fri, 13 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.audiobookitaliani.com/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I 10 Migliori Audiobook Italiani del 2026</title>
-      <link>https://www.audiobookitaliani.com/posts/top-10-audiobook-italiani-2026/</link>
+      <link>http://localhost:1313/posts/top-10-audiobook-italiani-2026/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/top-10-audiobook-italiani-2026/</guid>
+      <guid>http://localhost:1313/posts/top-10-audiobook-italiani-2026/</guid>
       <description>Scopri i migliori audiobook in italiano del 2026 selezionati dal team di AudioBook Italiani.</description>
     </item>
   </channel>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Filosofia on AudioBook Italiani - Recensioni e Guide</title>
-    <link>https://www.audiobookitaliani.com/tags/filosofia/</link>
+    <link>http://localhost:1313/tags/filosofia/</link>
     <description>Recent content in Filosofia on AudioBook Italiani - Recensioni e Guide</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Tue, 17 Feb 2026 11:14:07 +0000</lastBuildDate>
-    <atom:link href="https://www.audiobookitaliani.com/tags/filosofia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/filosofia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;Alchimista - Audiolibro: Un Viaggio di Realizzazione Personale</title>
-      <link>https://www.audiobookitaliani.com/posts/2026-02-17-lalchimista---audiolibro-un-viaggio-di-realizzazione-personale/</link>
+      <link>http://localhost:1313/posts/2026-02-17-lalchimista---audiolibro-un-viaggio-di-realizzazione-personale/</link>
       <pubDate>Tue, 17 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/2026-02-17-lalchimista---audiolibro-un-viaggio-di-realizzazione-personale/</guid>
+      <guid>http://localhost:1313/posts/2026-02-17-lalchimista---audiolibro-un-viaggio-di-realizzazione-personale/</guid>
       <description>Il capolavoro di Paulo Coelho, un viaggio alla ricerca della propria leggenda personale.</description>
     </item>
     <item>
       <title>Walden ovvero Vita nei Boschi - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/2026-02-17-walden-ovvero-vita-nei-boschi---audiolibro/</link>
+      <link>http://localhost:1313/posts/2026-02-17-walden-ovvero-vita-nei-boschi---audiolibro/</link>
       <pubDate>Tue, 17 Feb 2026 11:14:07 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/2026-02-17-walden-ovvero-vita-nei-boschi---audiolibro/</guid>
+      <guid>http://localhost:1313/posts/2026-02-17-walden-ovvero-vita-nei-boschi---audiolibro/</guid>
       <description>Il classico di Thoreau sulla vita semplice a contatto con la natura.</description>
     </item>
     <item>
       <title>Le Porte della Percezione - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/le-porte-della-percezione-audiolibro/</link>
+      <link>http://localhost:1313/posts/le-porte-della-percezione-audiolibro/</link>
       <pubDate>Mon, 16 Feb 2026 07:40:37 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/le-porte-della-percezione-audiolibro/</guid>
+      <guid>http://localhost:1313/posts/le-porte-della-percezione-audiolibro/</guid>
       <description>Recensione dell&amp;#39;audiolibro Le Porte della Percezione di Aldous Huxley.</description>
     </item>
     <item>
       <title>Siddhartha - Audiolibro</title>
-      <link>https://www.audiobookitaliani.com/posts/siddhartha-audiolibro/</link>
+      <link>http://localhost:1313/posts/siddhartha-audiolibro/</link>
       <pubDate>Sun, 15 Feb 2026 14:20:31 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/posts/siddhartha-audiolibro/</guid>
+      <guid>http://localhost:1313/posts/siddhartha-audiolibro/</guid>
       <description>Recensione completa dell&amp;#39;audiolibro Siddhartha. Scopri qualità della narrazione, trama e nostro voto. Ascolta su Audible.</description>
     </item>
   </channel>

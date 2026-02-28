@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Libri on AudioBook Italiani - Recensioni e Guide</title>
-    <link>https://www.audiobookitaliani.com/categories/libri/</link>
+    <link>http://localhost:1313/categories/libri/</link>
     <description>Recent content in Libri on AudioBook Italiani - Recensioni e Guide</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>it-IT</language>
     <lastBuildDate>Tue, 24 Feb 2026 07:38:47 +0000</lastBuildDate>
-    <atom:link href="https://www.audiobookitaliani.com/categories/libri/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/libri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Se questo è un uomo - Libro Cartaceo: La Memoria della Shoah</title>
-      <link>https://www.audiobookitaliani.com/libri/2026-02-24-se-questo--un-uomo---libro-cartaceo-la-memoria-della-shoah/</link>
+      <link>http://localhost:1313/libri/2026-02-24-se-questo--un-uomo---libro-cartaceo-la-memoria-della-shoah/</link>
       <pubDate>Tue, 24 Feb 2026 07:38:47 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/libri/2026-02-24-se-questo--un-uomo---libro-cartaceo-la-memoria-della-shoah/</guid>
+      <guid>http://localhost:1313/libri/2026-02-24-se-questo--un-uomo---libro-cartaceo-la-memoria-della-shoah/</guid>
       <description>Testimonianza indelebile di Primo Levi sulla sua esperienza ad Auschwitz.</description>
     </item>
     <item>
       <title>Siddhartha - Libro Cartaceo: Un Viaggio di Ricerca Spirituale</title>
-      <link>https://www.audiobookitaliani.com/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale/</link>
+      <link>http://localhost:1313/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale/</link>
       <pubDate>Mon, 23 Feb 2026 07:48:36 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale/</guid>
+      <guid>http://localhost:1313/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale/</guid>
       <description>Il classico di Hermann Hesse, un percorso di illuminazione interiore nel formato tradizionale.</description>
     </item>
     <item>
       <title>Il Conte di Montecristo - Libro Cartaceo</title>
-      <link>https://www.audiobookitaliani.com/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/</link>
+      <link>http://localhost:1313/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/</link>
       <pubDate>Sun, 22 Feb 2026 19:26:58 +0000</pubDate>
-      <guid>https://www.audiobookitaliani.com/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/</guid>
+      <guid>http://localhost:1313/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/</guid>
       <description>Un&amp;#39;avventura epica di vendetta, amore e giustizia.</description>
     </item>
   </channel>
