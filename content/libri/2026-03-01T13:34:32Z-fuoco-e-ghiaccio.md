@@ -4,7 +4,9 @@ date: 2026-03-01T13:34:32Z
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "libri"]
-cover: image: '/images/covers/fuoco-e-ghiaccio.jpg' alt: 'Copertina Fuoco e Ghiaccio'
+cover:
+  image: '/images/covers/fuoco-e-ghiaccio.jpg'
+  alt: 'Copertina Fuoco e Ghiaccio'
 ---
 ## 👉 [Acquista su Amazon](https://amzn.to/4r2RSOE)
 Il capolavoro poetico di Robert Frost per ogni appassionato.
