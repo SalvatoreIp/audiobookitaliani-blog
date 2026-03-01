@@ -17,7 +17,7 @@ cover:
 "I sentieri degli aghi di pino" di Maurizio Corona è un'opera che si immerge profondamente nel legame intrinseco tra l'uomo e la natura. Maurizio Corona, alpinista, scultore e scrittore, descrive con autenticità il paesaggio montano. In questo libro offre una meditazione sull'errare, sulla ricerca di sé e sulla riscoperta dei ritmi primari dell'esistenza.
 
 ### 📚 Libri Correlati
-[La montagna sei tu](/libri/2026-02-26t193257z-la-montagna-sei-tu/) | [Fuoco e Ghiaccio](/libri/2026-02-27t194908z-fuoco-e-ghiaccio/) | [Il Palazzo dei Sogni](/libri/2026-02-26t13201z-il-palazzo-dei-sogni/)
+[La montagna sei tu](/libri/2026-02-26t193257z-la-montagna-sei-tu/) | [Fuoco e Ghiaccio](/libri/2026-02-27t194908z-fuoco-e-ghiaccio/) | [Il Palazzo dei Sogni])
 
 ## 📖 Trama (senza spoiler)
 Attraverso racconti e riflessioni personali, Corona guida il lettore lungo i sentieri delle Dolomiti. Non c'è una trama lineare, ma un susseguirsi di incontri e osservazioni sul rapporto tra l'uomo e il mondo naturale. Ogni capitolo è un'escursione fisica ed emotiva.
