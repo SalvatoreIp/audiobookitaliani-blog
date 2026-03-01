@@ -19,20 +19,7 @@ fi
 
 COVER="cover: image: '/images/covers/$SLUG.jpg' alt: 'Copertina $TITLE'"
 
-# 📚 CORRELATI DINAMICI — URL lowercase completo come Hugo genera
 CORRELATI=""
-while IFS= read -r f; do
-    TITLE_C=$(grep '^title:' "$f" | head -1 | sed 's/^title:[[:space:]]*//' | tr -d '"')
-    # Genera lo slug dal titolo del file correlato
-    SLUG_C=$(echo "$TITLE_C" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | sed 's/[^a-z0-9-]//g;s/--*/-/g')
-    if [ -n "$TITLE_C" ] && [ -n "$SLUG_C" ]; then
-        CORRELATI="$CORRELATI[$TITLE_C](/$SECTION/$SLUG_C/) | "
-    fi
-done < <(ls content/$SECTION/*.md 2>/dev/null | grep -v "$FILE" | grep -v '_index.md' | shuf | head -3)
-CORRELATI="${CORRELATI%' | '}"
-if [ -z "$CORRELATI" ]; then
-    CORRELATI="[Tutti i libri](/$SECTION/)"
-fi
 
 cat > "$FILE" << MD
 ---
@@ -48,9 +35,6 @@ $DESCRIPTION per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
 Nato dalla penna di un autore che ha rivoluzionato il panorama letterario, questo libro rappresenta un punto di svolta. L'autore porta un bagaglio di esperienze uniche che si riflettono in ogni pagina.
-
-### 📚 Libri Correlati
-$CORRELATI
 
 ## 📖 Trama (senza spoiler)
 Il protagonista si trova immerso in un mondo affascinante dove [qui trama principale senza spoiler]. La narrazione scorre fluida, tenendo il lettore incollato alle pagine.
