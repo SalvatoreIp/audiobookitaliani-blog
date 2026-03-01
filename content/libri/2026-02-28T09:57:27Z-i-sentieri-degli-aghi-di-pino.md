@@ -3,6 +3,7 @@ title: "I sentieri degli aghi di pino"
 date: 2026-02-28T09:57:27Z
 author: "AudioBook Italiani Team"
 draft: false
+slug: i-sentieri-degli-aghi-di-pino
 tags: ["audiolibri", "recensioni", "libri"]
 cover:
     image: '/images/covers/i-sentieri-degli-aghi-di-pino.jpg'

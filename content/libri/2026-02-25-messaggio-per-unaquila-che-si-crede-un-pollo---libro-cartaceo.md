@@ -3,6 +3,7 @@ title: "Messaggio per un'aquila che si crede un pollo - Libro Cartaceo"
 date: 2026-02-25T16:11:04Z
 author: "AudioBook Italiani Team"
 draft: false
+slug: messaggio-per-unaquila-che-si-crede-un-pollo---libro-cartaceo
 tags: ["audiolibri", "recensioni"]
 keywords: ["libro", "recensione", "crescita personale", "Anthony De Mello", "spirituale"]
 cover:

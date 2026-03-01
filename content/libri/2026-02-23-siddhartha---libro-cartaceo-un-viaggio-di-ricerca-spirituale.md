@@ -2,6 +2,7 @@
 title: "Siddhartha - Libro Cartaceo: Un Viaggio di Ricerca Spirituale"
 date: 2026-02-23T07:48:36Z
 draft: false
+slug: siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale
 tags: ["audiolibri", "recensioni", "libri"]
 cover:
   image: /images/siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale.png
