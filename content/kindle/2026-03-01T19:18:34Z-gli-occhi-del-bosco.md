@@ -4,7 +4,9 @@ date: 2026-03-01T19:18:34Z
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "kindle"]
-cover: image: '/images/covers/gli-occhi-del-bosco.jpg' alt: 'Copertina Gli occhi del bosco'
+cover:
+  image: '/images/covers/gli-occhi-del-bosco.jpg'
+  alt: 'Copertina Gli occhi del bosco'
 ---
 ## 👉 [Acquista su Amazon](https://amzn.to/4r2FZbq)
 Un'indagine sul profondo legame tra l'uomo e la natura per ogni appassionato.
