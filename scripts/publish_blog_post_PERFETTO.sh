@@ -19,15 +19,15 @@ COVER="cover:
     image: '/images/covers/$SLUG.jpg'
     alt: 'Copertina $TITLE'"
 
-# 📚 CORRELATI DINAMICI DA FILE REALI
+# 📚 CORRELATI DINAMICI — URL lowercase completo come Hugo genera
 CORRELATI=""
 while IFS= read -r f; do
-    SLUG_C=$(basename "$f" | sed 's/^[0-9T:Z-]*-//;s/\.md$//')
-    TITLE_C=$(grep '^title:' "$f" | sed 's/title: //;s/"//g' | xargs)
+    SLUG_C=$(basename "$f" .md | tr '[:upper:]' '[:lower:]')
+    TITLE_C=$(grep '^title:' "$f" | head -1 | sed 's/^title:[[:space:]]*//' | tr -d '"')
     if [ -n "$TITLE_C" ] && [ -n "$SLUG_C" ]; then
         CORRELATI="$CORRELATI[$TITLE_C](/$SECTION/$SLUG_C/) | "
     fi
-done < <(ls content/$SECTION/*.md 2>/dev/null | grep -v "$FILE" | shuf | head -3)
+done < <(ls content/$SECTION/*.md 2>/dev/null | grep -v "$FILE" | grep -v '_index.md' | shuf | head -3)
 CORRELATI="${CORRELATI%' | '}"
 if [ -z "$CORRELATI" ]; then
     CORRELATI="[Tutti i libri](/$SECTION/)"
@@ -66,11 +66,9 @@ Questo libro non è solo una storia, ma un'esperienza che cambia il modo di vede
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**
 MD
 
-# 🔒 FIX PERMESSI
 chmod 644 "$FILE"
 chown salvatore:salvatore "$FILE"
 echo "✅ Permessi corretti: $FILE"
-
 echo "✅ $FILE creato PERFETTO!"
 echo "📝 nano $FILE → COMPILA:"
 echo "   - Espandi 'Introduzione e Contesto' (200 parole)"

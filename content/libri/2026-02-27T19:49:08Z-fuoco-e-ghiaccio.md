@@ -17,7 +17,7 @@ cover:
 "Fuoco e Ghiaccio" è una delle poesie più celebri e discusse di Robert Frost, pubblicata per la prima volta nel 1920 nella raccolta "New Hampshire". In soli nove versi, Frost esplora un tema profondo e universale: la fine del mondo. La poesia è notevole per la sua concisione e la sua capacità di evocare immagini potenti e contraddittorie. Frost, figura iconica della poesia americana, è noto per la sua capacità di trasformare il linguaggio colloquiale in arte raffinata, spesso utilizzando la natura come metafora per le grandi questioni dell'esistenza umana. Questo pezzo non fa eccezione, offrendo una meditazione fredda e lucida sulle passioni umane e la loro capacità di distruzione.
 
 ### 📚 Libri Correlati
-[Il Nome della Rosa](/libri/il-nome-della-rosa/) → [Audiolibri consigliati](/libri/)
+[La montagna sei tu](/libri/2026-02-26t19:32:57z-la-montagna-sei-tu/) | [Siddhartha - Libro Cartaceo: Un Viaggio di Ricerca Spirituale](/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale/) | [I sentieri degli aghi di pino](/libri/2026-02-28t09:57:27z-i-sentieri-degli-aghi-di-pino/)
 [1984](/libri/1984/) → [Classici moderni](/tag/classici/)
 [Dune](/libri/dune/) → [Fantascientifici](/tag/fantascienza/)
 

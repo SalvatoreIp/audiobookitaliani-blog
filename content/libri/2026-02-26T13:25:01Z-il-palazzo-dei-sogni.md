@@ -17,7 +17,7 @@ Nato dalla penna di un autore emergente che sta rivoluzionando la narrativa cont
 L'opera nasce dall'intreccio tra psicologia moderna, filosofia esistenziale e una narrazione che sfida i confini tra realtà oggettiva e percezione soggettiva. Un viaggio letterario che invita il lettore a riflettere sui meccanismi della memoria, dell'identità e dei confini labili che separano il sogno dalla realtà.
 
 ### 📚 Libri Correlati
-[Cronache del Sogno Impossibile](/libri/cronache-sogno-impossibile/) | [Metamorfosi dell'Identità](/libri/metamorfosi-identita/) | [I Confini della Mente](/libri/confini-mente/)
+[Se questo è un uomo - Libro Cartaceo: La Memoria della Shoah](/libri/2026-02-24-se-questo--un-uomo---libro-cartaceo-la-memoria-della-shoah/) | [Fuoco e Ghiaccio](/libri/2026-02-27t19:49:08z-fuoco-e-ghiaccio/) | [I sentieri degli aghi di pino](/libri/2026-02-28t09:57:27z-i-sentieri-degli-aghi-di-pino/)
 
 **La Trama: Un Viaggio Nell'Inconscio**
 

@@ -18,7 +18,7 @@ cover:
 "La montagna sei tu" è un libro di crescita personale che affronta uno dei temi più universali e spesso trascurati: l'autosabotaggio. Quante volte ci siamo ritrovati a ostacolare noi stessi, a procrastinare, a fuggire da ciò che desideriamo davvero? Questo libro scava nelle radici profonde di quei comportamenti autodistruttivi che ci impediscono di raggiungere il nostro pieno potenziale. L'autrice, con uno stile diretto e accessibile, ci guida attraverso un percorso di consapevolezza che parte dal riconoscimento dei propri schemi tossici fino alla costruzione di nuove abitudini più sane. Non si tratta dell'ennesimo manuale motivazionale pieno di frasi fatte, ma di un vero e proprio strumento pratico per chi è stanco di stare nel proprio modo e vuole finalmente scalare quella montagna interiore che sembra insormontabile.
 
 ### 📚 Libri Correlati
-[Il Potere delle Abitudini](/libri/il-potere-delle-abitudini/) | [Mindset](/libri/mindset/) | [Il Sottile Arte di Fare Quello che Cazzo ti Pare](/libri/il-sottile-arte/)
+[I sentieri degli aghi di pino](/libri/2026-02-28t09:57:27z-i-sentieri-degli-aghi-di-pino/) | [Il Conte di Montecristo - Libro Cartaceo](/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/) | [Il Palazzo dei Sogni](/libri/2026-02-26t13:25:01z-il-palazzo-dei-sogni/)
 
 ## 📖 Contenuti Principali
 

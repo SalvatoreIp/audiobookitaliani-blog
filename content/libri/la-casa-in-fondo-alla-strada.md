@@ -18,7 +18,7 @@ cover:
 Tutti abbiamo visto quella casa. Quella in fondo alla strada, con le finestre scure e il giardino invaso dalle erbacce. Quella di cui i vicini parlano a mezza voce, quella davanti a cui si accelera il passo senza rendersene conto. "La casa in fondo alla strada" prende quella paura ancestrale — quella sensazione che certi luoghi portino con sé qualcosa di sbagliato — e la trasforma in un racconto che si insinua sotto la pelle. L'autore costruisce un'atmosfera claustrofobica e opprimente fin dalle prime righe, mescolando elementi di thriller psicologico e horror gotico con una maestria rara nel panorama letterario italiano. Non è il solito romanzo dell'orrore: è una discesa controllata nella paranoia, dove il confine tra realtà e percezione si assottiglia pagina dopo pagina.
 
 ### 📚 Libri Correlati
-[L'ultimo segreto](/libri/l-ultimo-segreto/) | [La casa delle voci](/libri/la-casa-delle-voci/) | [Il silenzio dell'acqua](/libri/il-silenzio-dellacqua/)
+[La montagna sei tu](/libri/2026-02-26t19:32:57z-la-montagna-sei-tu/) | [Fuoco e Ghiaccio](/libri/2026-02-27t19:49:08z-fuoco-e-ghiaccio/) | [Messaggio per un'aquila che si crede un pollo - Libro Cartaceo](/libri/2026-02-25-messaggio-per-unaquila-che-si-crede-un-pollo---libro-cartaceo/)
 
 ## 📖 Trama (senza spoiler)
 
