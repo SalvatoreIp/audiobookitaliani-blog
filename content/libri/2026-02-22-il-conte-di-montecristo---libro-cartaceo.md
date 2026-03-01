@@ -2,7 +2,6 @@
 title: "Il Conte di Montecristo - Libro Cartaceo"
 date: 2026-02-22T19:26:58Z
 draft: false
-slug: il-conte-di-montecristo---libro-cartaceo
 tags: ["audiolibri", "recensioni", "libri"]
 cover:
   image: /images/il-conte-di-montecristo---libro-cartaceo.png

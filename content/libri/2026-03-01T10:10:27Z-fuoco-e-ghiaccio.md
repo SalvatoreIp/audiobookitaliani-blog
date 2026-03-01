@@ -3,7 +3,6 @@ title: "Fuoco e Ghiaccio"
 date: 2026-03-01T10:10:27Z
 author: "AudioBook Italiani Team"
 draft: false
-slug: fuoco-e-ghiaccio
 tags: ["audiolibri", "recensioni", "libri"]
 cover: image: '/images/covers/fuoco-e-ghiaccio.jpg' alt: 'Copertina Fuoco e Ghiaccio'
 ---

@@ -3,7 +3,6 @@ title: "Il Palazzo dei Sogni"
 date: 2026-02-26T13:25:01Z
 author: "AudioBook Italiani Team"
 draft: false
-slug: il-palazzo-dei-sogni
 tags: ["audiolibri", "recensioni", "libri", "narrativa contemporanea"]
 ---
 

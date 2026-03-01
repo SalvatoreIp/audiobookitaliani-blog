@@ -3,7 +3,6 @@ title: "La montagna sei tu"
 date: 2026-02-26T19:32:57Z
 author: "AudioBook Italiani Team"
 draft: false
-slug: la-montagna-sei-tu
 tags: ["libri", "crescita personale", "psicologia", "autosabotaggio", "recensioni"]
 cover:
     image: "/images/covers/la-montagna-sei-tu.jpg"

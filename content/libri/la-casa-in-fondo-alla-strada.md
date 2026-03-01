@@ -3,7 +3,6 @@ title: "La casa in fondo alla strada"
 date: 2026-02-26T20:17:00Z
 author: "AudioBook Italiani Team"
 draft: false
-slug: la-casa-in-fondo-alla-strada
 tags: ["libri", "thriller", "horror", "suspense", "recensioni"]
 cover:
     image: "https://www.audiobookitaliani.com/images/covers/la-casa-in-fondo-alla-strada.jpg"
