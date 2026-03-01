@@ -4,7 +4,9 @@ date: 2026-03-01T13:15:23Z
 author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "libri"]
-cover: image: '/images/covers/fuoco-e-ghiaccio.jpg' alt: 'Copertina Fuoco e Ghiaccio'
+cover:
+  image: '/images/covers/fuoco-e-ghiaccio.jpg'
+  alt: 'Copertina Fuoco e Ghiaccio'
 ---
 ## 👉 [Acquista su Amazon](https://amzn.to/4r2RSOE)
 Una raccolta di poesie che esplora temi universali come la natura, l'esistenza e le emozioni umane attraverso la lente di un maestro della parola. per ogni appassionato.
