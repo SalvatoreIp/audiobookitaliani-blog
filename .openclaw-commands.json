@@ -1,0 +1,13 @@
+{
+  "commands": {
+    "createBlogPost": {
+      "script": "/home/salvatore/audiobookitaliani-blog/scripts/create-post-full.sh",
+      "description": "Create blog post with AI cover",
+      "usage": "createBlogPost 'Title' 'Description' 'Category'",
+      "examples": [
+        "createBlogPost 'Dune Audiolibro' 'Epic sci-fi journey' 'fantascienza'",
+        "createBlogPost 'Il Nome della Rosa' 'Mystery medieval' 'giallo'"
+      ]
+    }
+  }
+}
