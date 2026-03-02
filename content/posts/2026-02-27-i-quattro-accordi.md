@@ -1,12 +1,13 @@
 
 ---
-layout: post
 title: "I quattro accordi - Don Miguel Ruiz"
 date: 2026-03-02 09:45:00 +0100
 author: Salvatore
 categories: [audiolibri, crescita-personale]
 tags: [toltechi, saggezza, accordi, vita]
-image: /assets/images/i-quattro-accordi.jpg
+cover:
+  image: /assets/images/i-quattro-accordi.jpg
+  alt: "I Quattro Accordi"
 rating: 5/5
 affiliate_link: "https://amzn.to/474VqsC"
 ---
