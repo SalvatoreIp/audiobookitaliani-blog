@@ -6,7 +6,7 @@ author: Salvatore
 categories: [audiolibri, crescita-personale]
 tags: [toltechi, saggezza, accordi, vita]
 cover:
-  image: /assets/images/i-quattro-accordi.jpg
+  image: /images/i-quattro-accordi---libro-cartaceo-un-percorso-di-libert-personale.png
   alt: "I Quattro Accordi"
 rating: 5/5
 affiliate_link: "https://amzn.to/474VqsC"
