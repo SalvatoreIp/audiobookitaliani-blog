@@ -7,4 +7,6 @@ IDENTITY.md
 SOUL.md
 TOOLS.md
 memory/
-/scripts/create-post-full.sh.backup
+/scripts/create-post-full.sh.backupvenv/
+__pycache__/
+*.pyc
