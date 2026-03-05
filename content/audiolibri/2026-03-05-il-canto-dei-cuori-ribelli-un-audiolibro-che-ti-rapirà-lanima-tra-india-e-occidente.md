@@ -5,7 +5,7 @@ author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni"]
 cover:
-    image: '/images/covers/il-canto-dei-cuori-ribelli-un-audiolibro-che-ti-rapirà-lanima-tra-india-e-occidente.jpg'
+  image: '/images/covers/il-canto-dei-cuori-ribelli-un-audiolibro-che-ti-rapirà-lanima-tra-india-e-occidente.jpg'
   alt: "Copertina Il canto dei cuori ribelli: Un audiolibro che ti rapirà l'anima tra India e Occidente"
 ---
 ## 👉 [Acquista su Amazon](https://www.amazon.it/Il-canto-cuori-ribelli-Audiobook/dp/B0DYJK8R53/)
