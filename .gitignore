@@ -10,3 +10,6 @@ memory/
 /scripts/create-post-full.sh.backupvenv/
 __pycache__/
 *.pyc
+venv/
+__pycache__/
+*.pyc
