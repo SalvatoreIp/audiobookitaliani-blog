@@ -20,3 +20,4 @@ tags: ["audiolibri", "recensioni", "thriller-psicologico"]
 
 ## 👉 [Acquista su Amazon](https://www.amazon.it/Il-canto-cuori-ribelli-Audiobook/dp/B0DYJK8R53/)
 Supporta AudioBook Italiani acquistando tramite i nostri link!
+👉 [Acquista su Amazon](https://amzn.to/4rkDwJA)
