@@ -5,7 +5,7 @@ author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "posts"]
 cover:
-  image: '/images/covers/il-canto-dei-cuori-ribelli.jpg'
+  image: '/images/canto cuori.png'
   alt: 'Copertina Il canto dei cuori ribelli'
 ---
 ## 👉 [Acquista su Amazon](https://amzn.to/4rkDwJA)
