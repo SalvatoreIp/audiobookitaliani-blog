@@ -1,90 +1,63 @@
-# 🐉 OPENCLAW - Guida Gestione Blog Hugo
+# Istruzioni Operative Blog Hugo (AGGIORNATE)
 
-## ❌ NON RIMUOVERE MAI NULLA!
-Il blog è GIÀ CONFIGURATO e FUNZIONANTE!
+## ✅ REGOLE D'ORO PER PUBBLICARE SENZA ERRORI
 
-## 📂 Percorsi Importanti
-- **Blog directory:** `/home/salvatore/audiobookitaliani-blog`
-- **Contenuti:** `content/posts/`
-- **URL live:** https://www.audiobookitaliani.com
+### 1. **SEZIONE CORRETTA** (obbligatorio)
+- **Solo queste cartelle esistono**: `posts`, `kindle`, `libri`
+- **Esempio**: Se vuoi un articolo standard → `SEZIONE=posts`
+- **Verifica**: `ls /home/salvatore/audiobookitaliani-blog/content/`
 
-## ✅ Come Creare Nuovo Post
+### 2. **IMMAGINE PERFETTA**
+- **Percorso fisico**: `static/images/covers/nome-file.jpg`
+- **Nel frontmatter YAML**:
+  ```yaml
+  cover:
+    image: 'images/covers/nome-file.jpg'  # NO SLASH INIZIALE!
+    alt: 'Descrizione accessibile'
+  ```
+- **Attenzione**: Copia SEMPRE l'immagine in `static/` PRIMA della pubblicazione
 
-### Passo 1: Vai nella directory
+### 3. **DESCRIZIONE FORMATTATA** (minimo 400 caratteri totali)
+- **Struttura obbligatoria**:
+  ```
+  [Introduzione e Contesto] (min 200 caratteri)
+
+  [Trama senza spoiler] (min 200 caratteri)
+
+  [Perché leggerlo] (min 150 caratteri)
+  ```
+- **Esempio di BUONA descrizione**:
+  > "Mauro Corona, scrittore e artista italiano noto per la sua profonda connessione con la natura..."
+
+## 🛠 FLUSSO OPERATIVO COMPLETO
 ```bash
-cd /home/salvatore/audiobookitaliani-blog
+# 1. Posiziona l'immagine in static/
+mkdir -p static/images/covers/
+cp /percorso/immagine.jpg static/images/covers/nome-file.jpg
 
+# 2. Esegui lo script con SEZIONE corretta
+./scripts/publish_blog_post_PERFETTO.sh \
+  "Titolo Post" \
+  "Introduzione...\n\nTrama...\n\nPerché leggerlo..." \
+  "https://amzn.to/..." \
+  "posts" \
+  "/cover/nome-file.jpg"
 
-## 🔗 Gestione Link Affiliazione Amazon
+# 3. Verifica il commit prima del push
+git diff
+```
 
-### REGOLA IMPORTANTE:
-NON generare mai link Amazon autonomamente!
-Salvatore ti manda sempre il link corretto via Telegram.
+---
 
-### Come ricevi il link:
-Salvatore scrive su Telegram:
-"Aggiorna post [nome-post] con questo link: https://amzn.to/xxxxx"
+## 🕵️ NAVIGAZIONE STEALTH ANTI-BOT
 
-### Cosa fare quando ricevi il link:
-1. Trova il file in content/posts/ che corrisponde al nome del post
-2. Cerca la sezione "Dove Ascoltare" nel post
-3. Aggiungi il link in questo formato:
+### Quando usarla
+Usa lo script stealth quando un sito blocca il browser normale (Cloudflare, Amazon, IBS, ecc.)
 
-## Dove Ascoltare
+### Comando
+    ~/.openclaw/skills/stealth-browser/generate.sh URL
 
-Ascolta su Audible: https://amzn.to/xxxxx
-Prova gratuita 30 giorni disponibile!
-Acquistando tramite questo link supporti AudioBook Italiani gratuitamente.
-
-4. Fai git add, commit e push
-5. Conferma a Salvatore con il link live del post
-
-### NON fare mai:
-- Generare link Amazon da solo
-- Modificare link esistenti gia approvati
-- Usare link senza tag affiliazione di Salvatore
-
-
-## 🐍 Sostituzioni Testo nei File .md
-NON usare sed per sostituire testo nei file markdown!
-Gli asterischi ** e le parentesi [] fanno crashare sed.
-USA SEMPRE python3 per sostituire testo nei file .md:
-
-python3 -c "
-f = '/path/al/file.md'
-content = open(f).read()
-content = content.replace('TESTO_VECCHIO', 'TESTO_NUOVO')
-open(f, 'w').write(content)
-print('Fatto!')
-"
-
-## 🗂️ SEZIONI DEL SITO - REGOLA FONDAMENTALE
-
-Il comando createBlogPost accetta 3 parametri:
-1. Titolo
-2. Descrizione  
-3. Sezione (NON è il genere letterario!)
-
-### Valori corretti per il 3° parametro:
-- "audiolibri" → pubblica in content/posts/
-- "kindle" → pubblica in content/kindle/
-- "libri" → pubblica in content/libri/
-
-### Esempio corretto:
-createBlogPost 'Il Nome della Rosa' 'Capolavoro di Umberto Eco' 'kindle'
-
-### ❌ NON usare come 3° parametro:
-- fantascienza, fantasy, giallo, classici, horror, romanzi
-- Quelli vanno nei TAG dentro il post, non come sezione!
-
-## ⚠️ NOMI SEZIONI ESATTI
-I nomi delle sezioni sono ESATTAMENTE questi tre:
-- "audiolibri"
-- "kindle"
-- "libri"
-
-NON usare MAI:
-- "libri-cartacei" ❌
-- "libri cartacei" ❌
-- "ebook" ❌
-- "audiobook" ❌
+### Regole ASSOLUTE
+- MAI usare Browser Relay - siamo su VPS, Chrome locale NON ESISTE!
+- MAI chiedere di attivare estensioni Chrome
+- Se un sito blocca -> usa stealth-browser, non il browser interno
