@@ -61,3 +61,13 @@ Usa lo script stealth quando un sito blocca il browser normale (Cloudflare, Amaz
 - MAI usare Browser Relay - siamo su VPS, Chrome locale NON ESISTE!
 - MAI chiedere di attivare estensioni Chrome
 - Se un sito blocca -> usa stealth-browser, non il browser interno
+
+
+---
+
+## LINK AMAZON AFFILIATI
+
+- Il link affiliato corretto e' quello in formato: https://amzn.to/XXXXXXX
+- NON costruire link manuali con /dp/ASIN?tag=...
+- Per ottenere il link corretto: cerca il prodotto su Amazon, clicca Condividi e copia il link amzn.to
+- Salvatore ti fornira' sempre il link amzn.to gia' pronto
