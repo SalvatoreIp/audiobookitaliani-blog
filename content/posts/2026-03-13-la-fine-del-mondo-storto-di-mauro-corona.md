@@ -5,7 +5,7 @@ author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "posts"]
 cover:
-  image: '/images/covers/la-fine-del-mondo-storto-di-mauro-corona.jpg'
+  image: 'images/covers/la-fine-del-mondo-storto-di-mauro-corona.jpg'
   alt: 'Copertina La fine del mondo storto di Mauro Corona'
 ---
 ## 👉 [Acquista su Amazon](https://amzn.to/4lqh9Bp)
