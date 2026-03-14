@@ -12,7 +12,7 @@
 - **Nel frontmatter YAML**:
   ```yaml
   cover:
-    image: 'images/covers/nome-file.jpg'  # NO SLASH INIZIALE!
+    image: /images/covers/nome-file.jpg' 
     alt: 'Descrizione accessibile'
   ```
 - **Attenzione**: Copia SEMPRE l'immagine in `static/` PRIMA della pubblicazione
