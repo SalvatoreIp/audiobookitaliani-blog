@@ -20,14 +20,28 @@
 ### 3. **DESCRIZIONE FORMATTATA** (minimo 400 caratteri totali)
 - **Struttura obbligatoria**:
   ```
-  [Introduzione e Contesto] (min 200 caratteri)
+## 👉 [Acquista su Amazon](https://amzn.to/...)
+[Introduzione libera] (min 200 caratteri)
 
-  [Trama senza spoiler] (min 200 caratteri)
+## 📖 Introduzione e Contesto
+[Contenuto] (min 200 caratteri)
 
-  [Perché leggerlo] (min 150 caratteri)
+## 📖 Trama (senza spoiler)
+[Contenuto] (min 200 caratteri)
+
+## 🎯 Perché leggerlo
+[Contenuto] (min 150 caratteri)
+⭐ VOTO: X/10 - Descrizione breve
+
+## 📚 Libri Correlati
+- [Titolo](/link/)
+
+## 👉 [Acquista su Amazon](https://amzn.to/...)
+Supporta AudioBook Italiani acquistando tramite i nostri link!
   ```
 - **Esempio di BUONA descrizione**:
-  > "Mauro Corona, scrittore e artista italiano noto per la sua profonda connessione con la natura..."
+  > "## 👉 [Acquista su Amazon](https://amzn.to/...)
+Un'opera che insegna a riconoscere la magia nell'ordinario..."
 
 ## 🛠 FLUSSO OPERATIVO COMPLETO
 ```bash
@@ -67,7 +81,16 @@ Usa lo script stealth quando un sito blocca il browser normale (Cloudflare, Amaz
 
 ## LINK AMAZON AFFILIATI
 
-- Il link affiliato corretto e' quello in formato: https://amzn.to/XXXXXXX
-- NON costruire link manuali con /dp/ASIN?tag=...
-- Per ottenere il link corretto: cerca il prodotto su Amazon, clicca Condividi e copia il link amzn.to
-- Salvatore ti fornira' sempre il link amzn.to gia' pronto
+- **Formato obbligatorio**: `## 👉 [Acquista su Amazon](https://amzn.to/XXXXXXX)` (con emoji e formattazione)
+- **Posizione**: All'inizio e alla fine del corpo del post
+- **Testo personalizzato**: Alla fine, aggiungere "Supporta AudioBook Italiani acquistando tramite i nostri link!"
+- **Esempio**:
+  ```markdown
+## 👉 [Acquista su Amazon](https://amzn.to/...)
+Un'opera che insegna a riconoscere la magia nell'ordinario...
+
+... (contenuto del post) ...
+
+## 👉 [Acquista su Amazon](https://amzn.to/...)
+Supporta AudioBook Italiani acquistando tramite i nostri link!
+  ```
