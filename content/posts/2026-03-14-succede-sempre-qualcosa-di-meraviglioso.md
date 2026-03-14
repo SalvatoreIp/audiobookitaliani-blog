@@ -5,7 +5,7 @@ author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "come"]
 cover:
-  image: '/images/covers/succede-sempre-qualcosa-di-meraviglioso.jpg'
+    image: "images/covers/succede_sempre_qualcosa_di_meraviglioso.jpg"
   alt: 'Copertina Succede sempre qualcosa di meraviglioso'
 ---
 ## 👉 [Acquista su Amazon](Rivela)
