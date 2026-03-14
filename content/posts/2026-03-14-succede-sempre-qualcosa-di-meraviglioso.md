@@ -5,8 +5,8 @@ author: "AudioBook Italiani Team"
 draft: false
 tags: ["audiolibri", "recensioni", "come"]
 cover:
-    image: "images/covers/succede_sempre_qualcosa_di_meraviglioso.jpg"
-  alt: 'Copertina Succede sempre qualcosa di meraviglioso'
+    image: "/images/covers/succede_sempre_qualcosa_di_meraviglioso.jpg"
+    alt: 'Copertina Succede sempre qualcosa di meraviglioso'
 ---
 ## 👉 [Acquista su Amazon](Rivela)
 Gianluca Gotto esplora le potenzialità nascoste nell\ordinario. per ogni appassionato.
