@@ -27,9 +27,7 @@ Un fantasy intelligente e spiritoso che sovverte i cliché del genere con elegan
 
 ⭐ VOTO: 9/10 - Un classico imperdibile del fantasy moderno
 
-## 📚 Libri Correlati
-- [Il Castello in Aria](/posts/castello-in-aria-jones/) - Secondo volume della trilogia
-- [La Casa dei Mille Corridoi](/posts/casa-mille-corridoi-jones/) - Terzo volume della trilogia
+
 
 ## 👉 [Acquista su Amazon](https://amzn.to/4sV6mSb)
 Supporta AudioBook Italiani acquistando tramite i nostri link!
