@@ -8,8 +8,8 @@ cover:
   image: /images/covers/lalba-del-vuoto-non-era-dio-ma-ci-amava-di-pietro-dangelo.jpg
   alt: "Copertina L'Alba del vuoto: Non era Dio, ma ci amava! di Pietro D'angelo"
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/3xY7Kp9)
-## 👉 [Acquista su Amazon](https://amzn.to/3xY7Kp9)
+## 👉 [Acquista su Amazon](https://amzn.to/4uXGhUs)
+## 👉 [Acquista su Amazon](https://amzn.to/4uXGhUs)
 
 Un romanzo che ha già conquistato migliaia di lettori in tutta Italia, "L'Alba del vuoto: Non era Dio, ma ci amava!" di Pietro D'angelo si presenta come uno dei libri più discussi e apprezzati dell'anno. Pubblicato nel febbraio 2026, questo lavoro di narrativa contemporanea esplora i temi dell'esistenza, della spiritualità laica e della ricerca di senso in un mondo sempre più complesso e disorientante. Con la sua prosa poetica e introspettiva, D'angelo accompagna il lettore in un viaggio interiore che mette in discussione le certezze più radicate.
 
@@ -28,7 +28,7 @@ Il protagonista, Leonardo, è un insegnante di filosofia in crisi esistenziale d
 - [I silenzi di Roma](/libri/i-silenzi-di-roma/)
 - [Il peso della luce](/libri/il-peso-della-luce/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/3xY7Kp9)
+## 👉 [Acquista su Amazon](https://amzn.to/4uXGhUs)
 Supporta AudioBook Italiani acquistando tramite i nostri link! per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
@@ -47,5 +47,5 @@ Questo libro non è solo una storia, ma un'esperienza che cambia il modo di vede
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 - [Il Rosso e il Nero - Audiolibro](/posts/2026-02-20-il-rosso-e-il-nero---audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/3xY7Kp9)
+## 👉 [Acquista su Amazon](https://amzn.to/4uXGhUs)
 Supporta AudioBook Italiani acquistando tramite i nostri link!
