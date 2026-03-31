@@ -1,15 +1,3 @@
----
-title: "Bushcraft 101: Guida da Campo all'Arte della Sopravvivenza"
-date: 2026-03-31T08:39:35Z
-author: "AudioBook Italiani Team"
-draft: false
-description: "Recensione di 'Bushcraft 101': la guida completa di Dave Canterbury per imparare le tecniche di sopravvivenza e prosperare nella natura selvaggia."
-categories: ["posts"]
-tags: ["audiolibri", "recensioni", "posts"]
-cover:
-  image: '/images/covers/bushcraft-101.jpg'
-  alt: "Copertina Bushcraft 101: Guida da Campo all'Arte della Sopravvivenza"
----
 ## 👉 [Acquista su Amazon](https://amzn.to/4bIEcnO)
 "Bushcraft 101" è una guida completa e pratica all'arte della sopravvivenza nella natura selvaggia, scritta dall'esperto Dave Canterbury. Questo libro si distingue per il suo approccio metodico e accessibile, perfetto sia per i principianti che vogliono iniziare a esplorare il mondo del bushcraft, sia per gli esperti che cercano di affinare le proprie competenze. Attraverso tecniche testate e collaudate, l'autore insegna come sopravvivere e prosperare in ambienti naturali, trasformando sfide apparentemente insormontabili in opportunità di crescita personale e scoperta.
 
@@ -29,4 +17,5 @@ Questo libro è un punto di riferimento fondamentale per chiunque voglia avvicin
 2. **"Left Behind" di Brad Meltzer** - Romanzo thriller che mostra le conseguenze di un collasso tecnologico
 3. **"The Outdoorsman's Handbook" di Tom Wengert** - Guida pratica alle abilità essenziali per vivere in natura
 
-
+## 👉 [Acquista su Amazon](https://amzn.to/4bIEcnO)
+Supporta AudioBook Italiani acquistando tramite i nostri link!

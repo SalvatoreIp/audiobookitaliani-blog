@@ -24,7 +24,7 @@ while IFS= read -r postfile; do
   post_slug=$(basename "$postfile" .md)
   post_title=$(grep '^title:' "$postfile" | head -1 | sed 's/title: *//;s/"//g')
   [ -n "$post_title" ] && CORRELATI="$CORRELATI\n- [$post_title](/posts/$post_slug/)"
-done < <(find content/posts -name "*.md" ! -name ".*" | grep -v "$DATEONLY-$SLUG" | shuf | head -3)
+done < <(find /home/salvatore/audiobookitaliani-blog/content/posts -name "*.md" ! -name ".*" | grep -v "$DATEONLY-$SLUG" | shuf | head -3)
 
 cat > "$FILE" << MD
 ---
@@ -35,7 +35,7 @@ draft: false
 tags: ["audiolibri", "recensioni", "$SECTION"]
 cover:
   image: '/images/covers/$SLUG.jpg'
-  alt: 'Copertina $TITLE'
+  alt: "Copertina $TITLE"
 ---
 ## 👉 [Acquista su Amazon]($AMAZON_LINK)
 $DESCRIPTION per ogni appassionato.
