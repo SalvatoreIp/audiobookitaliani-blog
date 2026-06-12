@@ -69,3 +69,6 @@ relativeURLs = false
   name = "Recensioni"
   url = "/recensioni/"
   weight = 15
+
+[markup.goldmark.renderer]
+  unsafe = true
