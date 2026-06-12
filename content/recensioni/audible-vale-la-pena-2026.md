@@ -121,50 +121,50 @@ I audiolibri sono protetti e non trasferibili fuori dall'ecosistema Audible.
 
 Ecco 5 titoli imperdibili, disponibili con il tuo primo credito gratuito:
 
-### **1. "La Solitudine dei Numeri Primi" - Paolo Giordano**
-**Narratore:** Stefano Fresi  
-**Durata:** 8h 45m  
-**Prezzo:** €24,90  
+### **1. Harry Potter e la Pietra Filosofale - J.K. Rowling**
+**Narratore:** Stephen Fry  
+**Durata:** 9h 30m  
+**Prezzo:** €34,90  
 **Sconto Audible:** -100% (1 credito)  
-[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B00GQZJ3YC?actionCode=AZIOther35606092201BR&tag=audiobook-21)
+[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B075CPFY5Y?actionCode=AZIOther35606092201BR&tag=audiobook-21)
 
-**Perché ascoltarlo:** Premio Strega 2008, narrazione impeccabile di Stefano Fresi, storia d'amore drammatica.
+**Perché ascoltarlo:** L'incipit della saga più famosa al mondo, narrato da Stephen Fry con una voce incantevole che rende ogni personaggio unico. Perfetto per adulti e bambini.
 
-### **2. "La Vida Secreta de las Plantas" - Camilleri**
-**Narratore:** Lino Musca  
-**Durata:** 12h 30m  
-**Prezzo:** €29,90  
-**Sconto Audible:** -100% (1 credito)  
-[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B08XJKM9PL?actionCode=AZIOther35606092201BR&tag=audiobook-21)
-
-**Perché ascoltarlo:** Il Commissario Montalbano in versione audiolibro, perfetto per chi ama i gialli italiani.
-
-### **3. "Habla, Amor Mío" - Elena Ferrante**
+### **2. L'Amica Geniale - Elena Ferrante**
 **Narratore:** Paola Della Passera  
-**Durata:** 10h 15m  
+**Durata:** 11h 15m  
 **Prezzo:** €32,90  
 **Sconto Audible:** -100% (1 credito)  
-[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B07XQWN8MK?actionCode=AZIOther35606092201BR&tag=audiobook-21)
+[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B01BY1JFT0?actionCode=AZIOther35606092201BR&tag=audiobook-21)
 
-**Perché ascoltarlo:** La tetralogia de "L'amica geniale" narrata da un cast di voci eccellenti.
+**Perché ascoltarlo:** Il primo capitolo della tetralogia di Ferrante, una storia potente sull'amicizia tra due ragazze nel Napoli del dopoguerra, narrata con maestria da Paola Della Passera.
 
-### **4. "Il Nome della Rosa" - Umberto Eco**
-**Narratore:** Franco Mannella  
-**Durata:** 28h 50m  
+### **3. I Leoni di Sicilia - Corrado Stajano**
+**Narratore:** Claudio Bigagli  
+**Durata:** 25h 30m  
 **Prezzo:** €44,90  
-**Sconto Audible:** -100% (1 credito + 2 crediti extra se in offerta)  
-[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B00I6X9Y7K?actionCode=AZIOOther35606092201BR&tag=audiobook-21)
+**Sconto Audible:** -100% (1 credito)  
+[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B07VQGMPNJ?actionCode=AZIOther35606092201BR&tag=audiobook-21)
 
-**Perché ascoltarlo:** Capolavoro della letteratura italiana, narrato da una voce perfetta per il medioevo.
+**Perché ascoltarlo:** Epopea familiare che attraversa l'intero '900 italiano, narrata da Claudio Bigagli con un tono maestoso perfetto per un affresco storico di questa portata.
 
-### **5. "C'è ancora domani" - Chiara Valerio**
-**Narratore:** Margherita Vicario  
-**Durata:** 6h 20m  
+### **4. La Chimera - Francesco Guccini e Fabrizio De André**
+**Narratore:** Francesco Guccini  
+**Durata:** 3h 45m  
 **Prezzo:** €19,90  
 **Sconto Audible:** -100% (1 credito)  
-[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B09KMRT8XL?actionCode=AZIOther35606092201BR&tag=audiobook-21)
+[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B072LQBC8Q?actionCode=AZIOther35606092201BR&tag=audiobook-21)
 
-**Perché ascoltarlo:** Saggistica italiana contemporanea, narrazione coinvolgente e informale.
+**Perché ascoltarlo:** L'audiolibro più ascoltato del decennio, narrato dall'autore stesso in una versione intima e commovente di un racconto che mescola realtà e immaginazione.
+
+### **5. Una Questione Privata - Giorgio Vasta**
+**Narratore:** Fabrizio Gifuni  
+**Durata:** 8h 20m  
+**Prezzo:** €24,90  
+**Sconto Audible:** -100% (1 credito)  
+[🔗 Acquistalo su Amazon](https://www.amazon.it/dp/B08NK8TJTD?actionCode=AZIOther35606092201BR&tag=audiobook-21)
+
+**Perché ascoltarlo:** Thriller psicologico contemporaneo con narrazione impeccabile di Fabrizio Gifuni, perfetto per chi ama i romanzi che tengono incollati fino all'ultima pagina.
 
 ---
 
