@@ -63,3 +63,9 @@ theme = 'PaperMod'
 
 canonifyURLs = false
 relativeURLs = false
+
+[[menu.main]]
+  identifier = "recensioni"
+  name = "Recensioni"
+  url = "/recensioni/"
+  weight = 15
