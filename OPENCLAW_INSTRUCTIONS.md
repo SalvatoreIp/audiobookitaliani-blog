@@ -1,96 +1,102 @@
-# Istruzioni Operative Blog Hugo (AGGIORNATE)
+# Istruzioni Operative Blog AudiobookItaliani (v3.0)
+> Leggere INTEGRALMENTE prima di operare. Queste istruzioni sovrascrivono qualsiasi versione precedente.
 
-## ✅ REGOLE D'ORO PER PUBBLICARE SENZA ERRORI
+---
 
-### 1. **SEZIONE CORRETTA** (obbligatorio)
-- **Solo queste cartelle esistono**: `posts`, `kindle`, `libri`
-- **Esempio**: Se vuoi un articolo standard → `SEZIONE=posts`
-- **Verifica**: `ls /home/salvatore/audiobookitaliani-blog/content/`
+## 1. SEZIONI ESISTENTI (non crearne di nuove)
+Le uniche cartelle valide sotto content/ sono:
+- posts/      — articoli generali, guide, liste
+- kindle/     — articoli su ebook e Kindle
+- libri/      — recensioni libri cartacei
+- recensioni/ — recensioni audiolibri e servizi (es. Audible)
 
-### 2. **IMMAGINE PERFETTA**
-- **Percorso fisico**: `static/images/covers/nome-file.jpg`
-- **Nel frontmatter YAML**:
-  ```yaml
-  cover:
-    image: /images/covers/nome-file.jpg' 
-    alt: 'Descrizione accessibile'
-  ```
-- **Attenzione**: Copia SEMPRE l'immagine in `static/` PRIMA della pubblicazione
+---
 
-### 3. **DESCRIZIONE FORMATTATA** (minimo 400 caratteri totali)
-- **Struttura obbligatoria**:
-  ```
-## 👉 [Acquista su Amazon](https://amzn.to/...)
-[Introduzione libera] (min 200 caratteri)
+## 2. FRONTMATTER OBBLIGATORIO
+---
+title: "Titolo SEO max 60 caratteri"
+date: YYYY-MM-DDTHH:MM:SS+02:00
+draft: false
+description: "Descrizione 120-155 caratteri con keyword principale"
+tags: ["tag1", "tag2", "tag3"]
+cover:
+  image: /images/covers/nome-file.jpg
+  alt: "Descrizione immagine"
+---
+MAI usare virgolette singole nel frontmatter — Hugo va in errore.
+Il campo image deve avere lo slash iniziale: /images/covers/...
 
-## 📖 Introduzione e Contesto
-[Contenuto] (min 200 caratteri)
+---
 
-## 📖 Trama (senza spoiler)
-[Contenuto] (min 200 caratteri)
+## 3. IMMAGINI
 
-## 🎯 Perché leggerlo
-[Contenuto] (min 150 caratteri)
-⭐ VOTO: X/10 - Descrizione breve
-
-## 📚 Libri Correlati
-- [Titolo](/link/)
-
-## 👉 [Acquista su Amazon](https://amzn.to/...)
-Supporta AudioBook Italiani acquistando tramite i nostri link!
-  ```
-- **Esempio di BUONA descrizione**:
-  > "## 👉 [Acquista su Amazon](https://amzn.to/...)
-Un'opera che insegna a riconoscere la magia nell'ordinario..."
-
-## 🛠 FLUSSO OPERATIVO COMPLETO
-```bash
-# 1. Posiziona l'immagine in static/
+### Articoli su audiolibri o libri specifici
+NON usare Pixabay — non ha copertine di libri reali.
+Usa la copertina ufficiale Amazon:
 mkdir -p static/images/covers/
-cp /percorso/immagine.jpg static/images/covers/nome-file.jpg
+wget -O static/images/covers/SLUG.jpg "https://images-na.ssl-images-amazon.com/images/P/ASIN.jpg"
+Sostituisci ASIN con il codice reale del prodotto verificato su Amazon.it
 
-# 2. Esegui lo script con SEZIONE corretta
-./scripts/publish_blog_post_PERFETTO.sh \
-  "Titolo Post" \
-  "Introduzione...\n\nTrama...\n\nPerché leggerlo..." \
-  "https://amzn.to/..." \
-  "posts" \
-  "/cover/nome-file.jpg"
+### Articoli generici (guide, liste, confronti)
+Usa Pixabay con keyword in INGLESE generiche:
+- "audiobook headphones"
+- "reading book"
+- "listening music"
+- "library books"
+MAI inventare keyword specifiche per un titolo.
 
-# 3. Verifica il commit prima del push
-git diff
-```
+Comando Pixabay:
+PIXABAY_KEY=$(grep PIXABAY_API_KEY /home/salvatore/audiobookitaliani-blog/.env | cut -d= -f2)
+URL=$(wget -qO- "https://pixabay.com/api/?key=$PIXABAY_KEY&q=audiobook+headphones&image_type=photo&orientation=horizontal&per_page=3" \
+  | python3 -c "import sys,json; d=json.load(sys.stdin); print(d['hits'][0]['largeImageURL'])")
+wget -O static/images/covers/SLUG.jpg "$URL"
 
 ---
 
-## 🕵️ NAVIGAZIONE STEALTH ANTI-BOT
+## 4. LINK AFFILIAZIONE — REGOLE CRITICHE
 
-### Quando usarla
-Usa lo script stealth quando un sito blocca il browser normale (Cloudflare, Amazon, IBS, ecc.)
+MAI usare link abbreviati amzn.to — non sono tracciabili e possono perdere il tag affiliazione.
 
-### Comando
-    ~/.openclaw/skills/stealth-browser/generate.sh URL
+Formato obbligatorio per prodotti Amazon standard:
+https://www.amazon.it/dp/ASIN?tag=audiobook-21
 
-### Regole ASSOLUTE
-- MAI usare Browser Relay - siamo su VPS, Chrome locale NON ESISTE!
+Formato obbligatorio per audiolibri Audible:
+https://www.amazon.it/dp/ASIN?actionCode=AZIOther35606092201BR&tag=audiobook-21
+
+Workflow link obbligatorio — MAI scrivere link Amazon a mano:
+1. Scrivi nell'articolo link di ricerca generici: [Acquistalo su Amazon](https://www.amazon.it/s?k=TITOLO+LIBRO&i=audible)
+2. Dopo aver salvato il file esegui lo script corretto:
+   - Per Audible:  python3 /home/salvatore/fix-audible-links.py percorso/file.md
+   - Per prodotti: python3 /home/salvatore/fix-amazon-links.py percorso/file.md
+3. Gli script verificano gli ASIN reali su Amazon e inseriscono i link corretti con tag e actionCode automaticamente.
+
+Posizione link nell'articolo:
+- Un link all'inizio del corpo articolo
+- Un link alla fine prima della conclusione
+- Testo finale: "Supporta AudioBook Italiani acquistando tramite i nostri link!"
+
+---
+
+## 5. NAVIGAZIONE STEALTH ANTI-BOT
+
+Usa lo script stealth quando un sito blocca il browser normale (Cloudflare, Amazon, ecc.):
+~/.openclaw/skills/stealth-browser/generate.sh URL
+
+Regole assolute:
+- MAI usare Browser Relay — siamo su VPS, Chrome locale NON ESISTE
 - MAI chiedere di attivare estensioni Chrome
-- Se un sito blocca -> usa stealth-browser, non il browser interno
-
+- Se un sito blocca → usa stealth-browser, non il browser interno
 
 ---
 
-## LINK AMAZON AFFILIATI
+## 6. PIPELINE DEPLOY OBBLIGATORIA (ordine esatto)
 
-- **Formato obbligatorio**: `## 👉 [Acquista su Amazon](https://amzn.to/XXXXXXX)` (con emoji e formattazione)
-- **Posizione**: All'inizio e alla fine del corpo del post
-- **Testo personalizzato**: Alla fine, aggiungere "Supporta AudioBook Italiani acquistando tramite i nostri link!"
-- **Esempio**:
-  ```markdown
-## 👉 [Acquista su Amazon](https://amzn.to/...)
-Un'opera che insegna a riconoscere la magia nell'ordinario...
+cd /home/salvatore/audiobookitaliani-blog
+rm -rf public/
+hugo --minify
+npx wrangler pages deploy public --project-name audiobookitaliani-blog --commit-dirty=true
+git add .
+git commit -m "Descrizione articolo"
+git push
 
-... (contenuto del post) ...
-
-## 👉 [Acquista su Amazon](https://amzn.to/...)
-Supporta AudioBook Italiani acquistando tramite i nostri link!
-  ```
+MAI fare solo git push senza wrangler deploy — Cloudflare può essere lenta o non rispondere.
