@@ -58,10 +58,10 @@ wget -O static/images/covers/SLUG.jpg "$URL"
 MAI usare link abbreviati amzn.to — non sono tracciabili e possono perdere il tag affiliazione.
 
 Formato obbligatorio per prodotti Amazon standard:
-https://www.amazon.it/dp/ASIN?tag=audiobook-21
+https://www.amazon.it/dp/ASIN?tag=audiobookit-21
 
 Formato obbligatorio per audiolibri Audible:
-https://www.amazon.it/dp/ASIN?actionCode=AZIOther35606092201BR&tag=audiobook-21
+https://www.amazon.it/dp/ASIN?actionCode=AZIOther35606092201BR&tag=audiobookit-21
 
 Workflow link obbligatorio — MAI scrivere link Amazon a mano:
 1. Scrivi nell'articolo link di ricerca generici: [Acquistalo su Amazon](https://www.amazon.it/s?k=TITOLO+LIBRO&i=audible)
@@ -100,3 +100,14 @@ git commit -m "Descrizione articolo"
 git push
 
 MAI fare solo git push senza wrangler deploy — Cloudflare può essere lenta o non rispondere.
+
+## TITOLI PIN PINTEREST — REGOLA AGGIORNATA
+SCHEMA TITOLO CHE FUNZIONA:
+- Curiosità: "Sapevi che Fahrenheit 451 fu scritto in soli 9 giorni?"
+- Beneficio: "Come ascoltare L'Alchimista e cambiare prospettiva sulla vita"
+- Domanda: "Audible vale davvero la pena? La risposta onesta"
+- Emozione: "Il libro che ha cambiato la vita a milioni di persone"
+
+TITOLI DA EVITARE:
+- "Fahrenheit 451 audiolibro italiano 2026" → SEO arido, nessuna emozione
+- "Dove ascoltare L'Alchimista su Audible" → istruzione, non hook
