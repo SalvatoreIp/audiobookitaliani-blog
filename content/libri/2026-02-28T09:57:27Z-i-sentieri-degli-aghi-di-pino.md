@@ -9,7 +9,9 @@ cover:
     alt: 'Copertina I sentieri degli aghi di pino'
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/4rHS4nT)
+<div class="cta-box">
+<a href="https://amzn.to/4rHS4nT" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Un viaggio introspettivo nella natura selvaggia e nell'animo umano, firmato da Maurizio Corona.**
 
@@ -27,6 +29,8 @@ Questo libro è un invito a rallentare, osservare e ascoltare. La prosa di Coron
 
 ⭐ **VOTO: 8.5/10 - Un balsamico abbraccio alla natura e all'anima.**
 
-## 👉 [Acquista su Amazon](https://amzn.to/4rHS4nT)
+<div class="cta-box">
+<a href="https://amzn.to/4rHS4nT" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**

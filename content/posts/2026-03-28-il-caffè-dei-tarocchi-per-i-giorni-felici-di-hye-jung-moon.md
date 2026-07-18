@@ -8,7 +8,9 @@ cover:
   image: /images/covers/il-caffe-dei-tarocchi-per-i-giorni-felici-di-hye-jung-moon.jpg
   alt: "Copertina Il caffè dei tarocchi per i giorni felici di Hye-jung Moon"
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4sHbVUG)
+<div class="cta-box">
+<a href="https://amzn.to/4sHbVUG" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 "Il caffè dei tarocchi per i giorni felici" di Hye-jung Moon, tradotto da Claudia Soddu, è un'opera che porta il lettore in un viaggio introspettivo attraverso i simboli dei tarocchi, reinterpretati non come strumenti di divinazione ma come specchi dell'anima e mappe per navigare le complessità della vita quotidiana. Pubblicato nel 2025 da una casa editrice italiana specializzata in spiritualità contemporanea, il libro combina elementi di psicologia umanistica, filosofia orientale e tradizione esoterica occidentale, offrendo un approccio fresco e accessibile a uno degli strumenti di crescita personale più antichi e discussi della storia umana.
 

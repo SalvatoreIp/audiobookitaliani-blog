@@ -8,7 +8,9 @@ cover:
   alt: "Copertina libro Succede sempre qualcosa di meraviglioso di Gianluca Gotto"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/3P05Vrc)
+<div class="cta-box">
+<a href="https://amzn.to/3P05Vrc" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un'opera che insegna a riconoscere la magia nell'ordinario, dove ogni pagina diventa uno specchio per riflettere sulla bellezza nascosta delle piccole cose. Gotto ci guida con maestria verso una rinnovata consapevolezza del presente.
 
 ## 📖 Introduzione e Contesto
@@ -27,5 +29,7 @@ Questo libro è una bussola per chi si sente perso nell'incertezza del quotidian
 - [Le Porte della Percezione - Audiolibro](/posts/le-porte-della-percezione-audiolibro/)
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/3P05Vrc)
+<div class="cta-box">
+<a href="https://amzn.to/3P05Vrc" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

@@ -9,7 +9,9 @@ cover:
   alt: "Copertina Un animale selvaggio di Joël Dicker"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/3PRlIbW)
+<div class="cta-box">
+<a href="https://amzn.to/3PRlIbW" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 Joël Dicker torna con un thriller mozzafiato che conferma il suo talento come maestro del mistero. "Un animale selvaggio" è stato il libro più venduto in Italia nel 2024, un romanzo che esplora gli abissi dell'animo umano attraverso una rapina che sconvolge l'apparente perfezione di una famiglia borghese. Un'opera che unisce suspense psicologica a una scrittura raffinata, dimostrando ancora una volta perché l'autore svizzero-francese è tra i più amati e discussi del panorama letterario contemporaneo.
 
@@ -27,5 +29,7 @@ Sophie e Arpad formano una coppia all'apparenza perfetta: bellissima e conturban
 
 ⭐ VOTO: 9/10 - Un thriller psicologico magistrale che lascia il segno
 
-## 👉 [Acquista su Amazon](https://amzn.to/3PRlIbW)
+<div class="cta-box">
+<a href="https://amzn.to/3PRlIbW" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

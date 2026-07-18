@@ -8,7 +8,9 @@ cover:
   image: /images/covers/lalba-del-vuoto-non-era-dio-ma-ci-amava-di-pietro-dangelo.jpg
   alt: "Copertina L'Alba del vuoto: Non era Dio, ma ci amava! di Pietro D'angelo"
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4uXGhUs)
+<div class="cta-box">
+<a href="https://amzn.to/4uXGhUs" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 "L'Alba del vuoto: Non era Dio, ma ci amava!" è un'opera che sta già facendo parlare di sé nel panorama letterario italiano del 2026. Pietro D'angelo, con questo suo secondo romanzo, conferma di essere una delle voci più originali e profonde della narrativa contemporanea, capace di mescolare filosofia, spiritualità e introspezione psicologica in una trama che cattura dalla prima all'ultima pagina. Un libro che non si limita a raccontare una storia, ma invita il lettore a un percorso di crescita interiore.
 
@@ -31,5 +33,7 @@ Questo romanzo merita di essere letto non solo per la bellezza della prosa – r
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 - [Il Rosso e il Nero - Audiolibro](/posts/2026-02-20-il-rosso-e-il-nero---audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/4uXGhUs)
+<div class="cta-box">
+<a href="https://amzn.to/4uXGhUs" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

@@ -8,7 +8,9 @@ cover:
   image: '/images/covers/la-ragazza-nel-giardino-degli-ulivi.jpg'
   alt: 'Copertina La ragazza nel giardino degli ulivi'
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/3PCpE0m)
+<div class="cta-box">
+<a href="https://amzn.to/3PCpE0m" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un romanzo delicato e profondo che esplora i legami familiari, i segreti sepolti e il potere della natura nel guarire le ferite dell'anima. Ambientato tra gli ulivi secolari della campagna toscana, questa storia toccante accompagna il lettore in un viaggio di scoperta e redenzione, dove ogni foglia sembra custodire un mistero e ogni ricordo nasconde una verità da svelare per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
@@ -26,5 +28,7 @@ Questo romanzo è un'esperienza immersiva che trascina il lettore nella calda at
 - [La casa degli spiriti](/posts/la-casa-degli-spiriti/)
 - [L'amica geniale](/posts/lamica-geniale/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/3PCpE0m)
+<div class="cta-box">
+<a href="https://amzn.to/3PCpE0m" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

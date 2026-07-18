@@ -10,7 +10,9 @@ cover:
   image: '/images/covers/la-gioia-di-correre-in-salita.jpg'
   alt: "Copertina La gioia di correre in salita: Recensione"
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/3OaAEBB)
+<div class="cta-box">
+<a href="https://amzn.to/3OaAEBB" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 "La gioia di correre in salita" è un'autobiografia che racconta il viaggio straordinario di un corridore amatoriale che trasforma la sua passione per la corsa in una filosofia di vita. Tra vette conquistate e sfide interiori, l'autore esplora come le salite - metafora delle difficoltà quotidiane - possano diventare opportunità di crescita personale. Un libro che unisce respiro narrativo e profondità riflessiva, perfetto per chi cerca ispirazione oltre la pista.
 
 ## 📖 Introduzione e Contesto

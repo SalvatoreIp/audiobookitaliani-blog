@@ -8,7 +8,9 @@ cover:
   image: '/images/covers/fuoco-e-ghiaccio.jpg'
   alt: 'Copertina Fuoco e Ghiaccio'
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4r2RSOE)
+<div class="cta-box">
+<a href="https://amzn.to/4r2RSOE" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Il capolavoro poetico di Robert Frost per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
@@ -24,5 +26,7 @@ La poesia "Fuoco e Ghiaccio" non racconta una trama nel senso tradizionale, ma e
 "Fuoco e Ghiaccio" è una lettura essenziale per chiunque voglia avvicinarsi alla poesia di Robert Frost e, più in generale, per chi ama le riflessioni profonde e concise. La sua brevità nasconde una complessità tematica che invita alla meditazione sulle forze distruttive della natura umana. Con un linguaggio evocativo e diretto, Frost riesce a esplorare concetti come il desiderio e l'odio, rendendoli universali e incredibilmente attuali. È un piccolo gioiello che offre spunti di riflessione duraturi e dimostra come la grande poesia possa essere allo stesso tempo accessibile e profondamente significativa.
 ⭐ VOTO: 9.5/10 - Un capolavoro di concisione e profondità.
 
-## 👉 [Acquista su Amazon](https://amzn.to/4r2RSOE)
+<div class="cta-box">
+<a href="https://amzn.to/4r2RSOE" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

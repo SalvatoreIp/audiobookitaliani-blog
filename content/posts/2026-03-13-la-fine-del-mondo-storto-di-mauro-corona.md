@@ -8,7 +8,9 @@ cover:
   image: 'images/covers/la-fine-del-mondo-storto-di-mauro-corona.jpg'
   alt: 'Copertina La fine del mondo storto di Mauro Corona'
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4lqh9Bp)
+<div class="cta-box">
+<a href="https://amzn.to/4lqh9Bp" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un viaggio poetico tra le montagne e le radici dell'uomo moderno, dove Mauro Corona esplora con maestria la crisi ecologica e l'identità contemporanea. Le sue parole diventano ponte tra passato e presente, invitando a riscoprire l'essenziale.\n\nAttraverso una narrazione che fonde autobiografia e filosofia, l'autore ci accompagna in un percorso di riflessione sul rapporto uomo-natura. Con malinconia e speranza, Corona svela l'urgenza di riconnettersi con i ritmi della terra e con i valori dimenticati: la lentezza, il rispetto per la natura, la bellezza delle piccole cose.\n\nOpera necessaria per chi cerca un rifugio dalla frenesia del mondo, 'La fine del mondo storto' è una chiamata all'azione per riallinearsi con se stessi e con il pianeta. per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
@@ -27,5 +29,7 @@ Questo libro non è solo una storia, ma un'esperienza che cambia il modo di vede
 - [Le Porte della Percezione - Audiolibro](/posts/le-porte-della-percezione-audiolibro/)
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/4lqh9Bp)
+<div class="cta-box">
+<a href="https://amzn.to/4lqh9Bp" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

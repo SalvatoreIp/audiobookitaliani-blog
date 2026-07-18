@@ -6,7 +6,9 @@ draft: false
 tags: ["audiolibri", "recensioni", "libri", "narrativa contemporanea"]
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/3xYZ123)
+<div class="cta-box">
+<a href="https://amzn.to/3xYZ123" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Un romanzo che esplora i confini tra realtà e immaginazione** - Un'opera imperdibile che esplora temi profondi e universali.
 
@@ -33,6 +35,8 @@ La forza del libro risiede nella sua capacità di destabilizzare il lettore, inv
 
 ⭐ **VOTO: 9/10 - Un'opera trasformativa che ridefinisce i confini della narrativa contemporanea**
 
-## 👉 [Acquista su Amazon](https://amzn.to/3xYZ123)
+<div class="cta-box">
+<a href="https://amzn.to/3xYZ123" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**

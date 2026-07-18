@@ -9,7 +9,9 @@ cover:
   alt: "Copertina Il Castello Errante di Howl di Diana Wynne Jones"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/4sV6mSb)
+<div class="cta-box">
+<a href="https://amzn.to/4sV6mSb" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 Diana Wynne Jones ci regala un'avventura fantasy indimenticabile che ha conquistato lettori di ogni età e ispirato uno dei più amati film dello Studio Ghibli. Un romanzo dove la magia si intreccia con l'ironia britannica, creando un mondo incantato dove nulla è come appare e persino una maledizione può trasformarsi in un'opportunità di scoperta.
 
@@ -29,5 +31,7 @@ Un fantasy intelligente e spiritoso che sovverte i cliché del genere con elegan
 
 
 
-## 👉 [Acquista su Amazon](https://amzn.to/4sV6mSb)
+<div class="cta-box">
+<a href="https://amzn.to/4sV6mSb" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

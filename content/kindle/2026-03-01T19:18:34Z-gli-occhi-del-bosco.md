@@ -8,7 +8,9 @@ cover:
   image: '/images/covers/gli-occhi-del-bosco.jpg'
   alt: 'Copertina Gli occhi del bosco'
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4r2FZbq)
+<div class="cta-box">
+<a href="https://amzn.to/4r2FZbq" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un'indagine sul profondo legame tra l'uomo e la natura per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
@@ -21,5 +23,7 @@ In "Gli occhi del bosco", Mauro Corona ci guida attraverso una serie di racconti
 Leggere "Gli occhi del bosco" significa intraprendere un viaggio in una dimensione autentica e selvaggia, lontana dalle complessità della vita moderna. Mauro Corona con la sua prosa diretta, essenziale e ricca di immagini potenti, riesce a trasportare il lettore tra i sentieri e i segreti delle sue amate montagne. È un libro che non solo intrattiene, ma educa, risvegliando la consapevolezza dell'importanza di un rapporto armonioso con la natura. Perfetto per chi cerca storie vere, riflessioni profonde e una boccata d'aria fresca in un mondo sempre più artificiale. Un'opera che affascina e fa riflettere sul significato profondo dell'esistenza e del legame con la terra.
 ⭐ VOTO: 8.8/10 - Autentico e Profondamente Rivelatore
 
-## 👉 [Acquista su Amazon](https://amzn.to/4r2FZbq)
+<div class="cta-box">
+<a href="https://amzn.to/4r2FZbq" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

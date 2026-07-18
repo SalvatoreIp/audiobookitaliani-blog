@@ -10,7 +10,9 @@ cover:
   image: '/images/covers/fiori-sopra-linferno-di-ilaria-tuti-recensione.jpg'
   alt: "Copertina Fiori sopra l'inferno di Ilaria Tuti: Recensione"
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4sIfLgk)
+<div class="cta-box">
+<a href="https://amzn.to/4sIfLgk" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 "Fiori sopra l'inferno" di Ilaria Tuti è un thriller psicologico che ti trascina in un vortice di suspense e tensione fin dalle prime pagine. Il commissario protagonista, specializzato in profiling, si trova a indagare su un misterioso caso tra le montagne, dove ogni passo potrebbe essere l'ultimo. Un romanzo che esplora le profondità della mente umana e i demoni che ci abitano, mantenendo il lettore con il fiato sospeso fino all'ultima riga. Per gli amanti del genere, questo libro rappresenta una lettura imperdibile che fonde abilmente introspezione psicologica e ritmo narrativo serrato.
 
 ## 📖 Introduzione e Contesto

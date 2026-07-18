@@ -9,7 +9,9 @@ cover:
     alt: "Copertina La montagna sei tu"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/4kTAGts)
+<div class="cta-box">
+<a href="https://amzn.to/4kTAGts" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Trasformare l'autosabotaggio in autocontrollo** - Un'opera imperdibile per chiunque voglia smettere di essere il proprio peggior nemico.
 
@@ -30,6 +32,8 @@ Se ti sei mai chiesto perché continui a ripetere gli stessi errori, perché fug
 
 ⭐ **VOTO: 9/10 - Un libro trasformativo che parla dritto alla parte di te che ha bisogno di sentirsi dire la verità**
 
-## 👉 [Acquista su Amazon](https://amzn.to/4kTAGts)
+<div class="cta-box">
+<a href="https://amzn.to/4kTAGts" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**

@@ -8,7 +8,9 @@ cover:
   image: '/images/Canto cuori.png'
   alt: 'Copertina Il canto dei cuori ribelli'
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/4rkDwJA)
+<div class="cta-box">
+<a href="https://amzn.to/4rkDwJA" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un audiolibro che ti immerge in una storia potente di sacrificio, coraggio e amore tra India e Occidente per ogni appassionato.
 
 ## 📖 Introduzione e Contesto
@@ -27,5 +29,7 @@ Esplora temi universali come la violenza di genere, le disuguaglianze sociali e 
 - [Le Cronache di Narnia - Audiolibro](/posts/2026-02-19-le-cronache-di-narnia---audiolibro/)
 - [Orgoglio e Pregiudizio - Audiolibro](/posts/2026-02-22-orgoglio-e-pregiudizio---audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/4rkDwJA)
+<div class="cta-box">
+<a href="https://amzn.to/4rkDwJA" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

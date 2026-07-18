@@ -8,7 +8,9 @@ cover:
   image: '/images/covers/storia-di-un-cuore.jpg'
   alt: 'Copertina Storia di un cuore'
 ---
-## 👉 [Acquista su Amazon](https://amzn.to/3O2Q1vU)
+<div class="cta-box">
+<a href="https://amzn.to/3O2Q1vU" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 "Storia di un cuore" non è solo un romanzo: è un viaggio dentro le pieghe più profonde dell’anima umana, un racconto che si insinua lentamente tra i pensieri e non li lascia più andare. Con una scrittura evocativa e intensa, l’autore dipinge un ritratto nitido di solitudine, desiderio e ricerca di senso, accompagnando il lettore attraverso momenti di struggente malinconia e lampi improvvisi di speranza. L’audiolibro, in particolare, esalta ogni sfumatura emotiva grazie a una narrazione vocale calibrata, che sa dosare pause, toni e respiri come un vero strumento musicale. È il tipo di storia che ascolti con gli occhi chiusi, lasciandoti trasportare da ogni parola, consapevole che non stai solo sentendo una vicenda, ma vivendo un’esperienza intima e trasformativa.
 
@@ -32,6 +34,8 @@ Un racconto intimo e potente, reso ancora più incisivo dall’esperienza dell�
 - [Le cose che restano di Jon Krause](https://www.audiobookitaliani.com/posts/cose-che-restano)  
 - [Chiamami col tuo nome di André Aciman](https://www.audiobookitaliani.com/posts/chiamami-col-tuo-nome)  
 
-## 👉 [Acquista su Amazon](https://amzn.to/3O2Q1vU)
+<div class="cta-box">
+<a href="https://amzn.to/3O2Q1vU" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!  
 

@@ -8,7 +8,9 @@ cover:
   alt: "Copertina libro Il giro del mondo in 80 giorni di Jules Verne"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/47vBj7a)
+<div class="cta-box">
+<a href="https://amzn.to/47vBj7a" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un'avventura senza tempo che ha ispirato generazioni di lettori, dove Phileas Fogg e il fedele Passepartout sfidano orari ferroviari, monsoni e rapimenti per vincere una scommessa apparentemente impossibile.
 
 ## 📖 Introduzione e Contesto
@@ -27,5 +29,7 @@ Questo capolavoro è una lettura imprescindibile per gli amanti delle avventure 
 - [Le Porte della Percezione - Audiolibro](/posts/le-porte-della-percezione-audiolibro/)
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/47vBj7a)
+<div class="cta-box">
+<a href="https://amzn.to/47vBj7a" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

@@ -8,7 +8,9 @@ cover:
   alt: "Copertina libro Il sistema JoJo. Volume 1 di Hirohiko Araki"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/4rAnsn7)
+<div class="cta-box">
+<a href="https://amzn.to/4rAnsn7" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Un'opera iconica che rivoluziona il mondo dei manga con stili artistici audaci e trame avvincenti. La prima parte della saga introduce personaggi memorabili e battaglie epiche che hanno definito un'era.
 
 ## 📖 Introduzione e Contesto
@@ -27,5 +29,7 @@ Questo manga è una pietra miliare per chiunque ami il medium: la combinazione d
 - [Le Porte della Percezione - Audiolibro](/posts/le-porte-della-percezione-audiolibro/)
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 
-## 👉 [Acquista su Amazon](https://amzn.to/4rAnsn7)
+<div class="cta-box">
+<a href="https://amzn.to/4rAnsn7" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

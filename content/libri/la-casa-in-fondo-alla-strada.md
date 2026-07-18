@@ -9,7 +9,9 @@ cover:
     alt: "Copertina La casa in fondo alla strada"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/3N7ukdD)
+<div class="cta-box">
+<a href="https://amzn.to/3N7ukdD" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Un thriller oscuro dove ogni porta nasconde un segreto** - Un romanzo che ti terrà sveglio fino all'ultima pagina.
 
@@ -30,6 +32,8 @@ Se ami i thriller che ti lasciano con la luce accesa di notte, questo è il libr
 
 ⭐ **VOTO: 8/10 - Un thriller gotico che non lascia scampo, perfetto per le serate in cui vuoi avere paura davvero**
 
-## 👉 [Acquista su Amazon](https://amzn.to/3N7ukdD)
+<div class="cta-box">
+<a href="https://amzn.to/3N7ukdD" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**
