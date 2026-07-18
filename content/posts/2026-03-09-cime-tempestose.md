@@ -22,4 +22,6 @@ In conclusione, l'audiolibro di "Cime Tempestose" non è una semplice lettura, m
 
 **Rating:** ⭐⭐⭐⭐⭐ (5/5)
 
-👉 [Acquista su Amazon](https://amzn.to/4rWQaj7)
+<div class="cta-box">
+<a href="https://amzn.to/4rWQaj7" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>

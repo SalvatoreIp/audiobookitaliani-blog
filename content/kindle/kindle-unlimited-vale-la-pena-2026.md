@@ -326,7 +326,10 @@ Amazon offre **due servizi di lettura**:
 
 Prova **Kindle Unlimited gratis per 30 giorni** e scopri se fa per te:
 
-[**👉 Clicca qui per provare Kindle Unlimited gratis**](https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21)
+<div class="cta-box">
+<p><strong>📚 Oltre 1 milione di titoli, primo mese gratis</strong></p>
+<a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Prova Kindle Unlimited gratis →</a>
+</div>
 
 **Importante:** Ricorda di disdire prima del 30° giorno se decidi di non continuare!
 

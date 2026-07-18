@@ -435,7 +435,10 @@ Kindle Unlimited è un servizio **eccellente per lettori voraci** che vogliono e
 
 ## 📚 Inizia Oggi Stesso
 
-[**👉 Clicca qui per provare Kindle Unlimited gratis per 30 giorni**](https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21)
+<div class="cta-box">
+<p><strong>📚 Oltre 1 milione di titoli, primo mese gratis</strong></p>
+<a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Prova Kindle Unlimited gratis →</a>
+</div>
 
 **Ricorda:** Disdici prima del 30° giorno se decidi di non continuare!
 
