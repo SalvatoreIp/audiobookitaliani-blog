@@ -17,7 +17,10 @@ categories: ["recensioni"]
 
 "Il Piccolo Principe" di Antoine de Saint-Exupéry è uno dei libri più letti e amati al mondo, un racconto poetico e filosofico che parla di amicizia, amore e del significato della vita con una semplicità disarmante. Ascoltarlo in audiolibro è un'esperienza toccante e indimenticabile, che esalta la delicatezza e la profondità del messaggio dell'autore.
 
-👉 **[Acquista Il Piccolo Principe su Amazon](https://amzn.to/4aOZONl)**
+<div class="cta-box">
+<p><strong>🎧 Il Piccolo Principe — audiolibro e cartaceo</strong></p>
+<a href="https://amzn.to/4aOZONl" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 📚 **Potrebbero piacerti anche:** [Il Giardino Segreto audiolibro](/posts/il-giardino-segreto-audiolibro) · [Siddhartha audiolibro](/posts/siddhartha-audiolibro) · [altri classici per tutti](/tags/classici)
 

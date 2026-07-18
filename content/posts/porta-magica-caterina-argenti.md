@@ -9,7 +9,10 @@ cover:
   alt: "Copertina La porta magica di Caterina Argenti"
 ---
 
-## 👉 [Acquista su Amazon](https://amzn.to/41jWUMi)
+<div class="cta-box">
+<p><strong>🎧 La Porta Magica — disponibile su Amazon</strong></p>
+<a href="https://amzn.to/41jWUMi" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 La porta magica di Caterina Argenti è un romanzo fantasy per ragazzi che racconta l'avventura di due giovani protagonisti, Tom e Laura, alla scoperta di un mondo nascosto oltre una porta magica. Un libro che unisce magia, mistero e importanti valori educativi, adatto a lettori dagli 8 ai 12 anni.
 
@@ -27,5 +30,8 @@ Un libro perfetto per avvicinare i giovani alla lettura grazie a una trama avvin
 
 ⭐ VOTO: 8/10 - Un fantasy educativo con valori importanti
 
-## 👉 [Acquista su Amazon](https://amzn.to/41jWUMi)
+<div class="cta-box">
+<p><strong>🎧 La Porta Magica — disponibile su Amazon</strong></p>
+<a href="https://amzn.to/41jWUMi" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

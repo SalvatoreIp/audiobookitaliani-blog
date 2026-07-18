@@ -17,7 +17,10 @@ categories: ["recensioni"]
 
 "Neuromante" di William Gibson è il romanzo che ha fondato il genere cyberpunk e rivoluzionato la fantascienza moderna, un'opera visionaria che ha anticipato concetti come il cyberspazio e la realtà virtuale decenni prima che diventassero realtà. Ascoltarlo in audiolibro è un'esperienza immersiva e adrenalinica, che trasporta l'ascoltatore in un futuro oscuro e affascinante.
 
-👉 **[Acquista Neuromante su Amazon](https://amzn.to/4rDdVNb)**
+<div class="cta-box">
+<p><strong>🎧 Neuromante — audiolibro e cartaceo</strong></p>
+<a href="https://amzn.to/4rDdVNb" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+</div>
 
 📚 **Potrebbero piacerti anche:** [Fahrenheit 451 audiolibro](/posts/fahrenheit-451-audiolibro) · [audiolibri di fantascienza](/tags/recensioni) · [altri classici contemporanei](/categories/recensioni)
 
