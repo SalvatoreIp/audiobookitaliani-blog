@@ -11,6 +11,8 @@ Uso interno del cron giornaliero (non è un articolo). Formato:
 
 - [x] Audiolibri per dormire: storie e meditazioni su Audible | posts | audiolibri-per-dormire-2026 | "audiolibri per dormire" | 2026-09-26, scelta senza dati di volume. Titoli presi dalle pagine editoriali Audible.it (blog/audiolibri-per-dormire e storie-per-dormire); tutti i link sono di ricerca Audible, nessun ASIN verificato.
 
+- [x] Come ascoltare audiolibri in auto: guida 2026 | posts | ascoltare-audiolibri-in-auto | "ascoltare audiolibri in auto" | 2026-09-26, scelta senza dati di volume. Metodi presi dalla pagina di aiuto ufficiale aiuto.audible.it (Ascoltare Audible in auto); tutti i link sono di ricerca Audible, nessun ASIN.
+
 ## Quando la coda è vuota
 
 1. Scegli tra questi filoni, alternandoli: audiolibro di un libro molto letto in Italia ("<titolo> audiolibro italiano"), novità e classifiche del mese, guide pratiche (Audible prova gratuita, Kindle Unlimited conviene, come ascoltare audiolibri in auto), liste tematiche ("audiolibri per dormire", "gialli da ascoltare").
