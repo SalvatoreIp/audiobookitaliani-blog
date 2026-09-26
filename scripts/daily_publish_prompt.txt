@@ -1,0 +1,27 @@
+Sei incaricato di pubblicare UN nuovo articolo oggi sul blog Hugo in questo repository (www.audiobookitaliani.com). Leggi prima CLAUDE.md nella root del repo: contiene le regole editoriali obbligatorie e il comando esatto del ciclo di pubblicazione. Seguile alla lettera.
+
+SCOPE: modifichi SOLO (1) un nuovo file in content/<sezione>/ con la sua copertina in static/images/covers/ e (2) content-queue.md. Non toccare altri articoli, hugo.toml, layouts/, scripts/ né i file sparsi nella root: segnala eventuali problemi nel riepilogo finale.
+
+PASSO 1 — Argomento: apri content-queue.md e prendi il primo elemento `- [ ]` in "Da pubblicare". Se non ce ne sono, segui "Quando la coda è vuota" nello stesso file. Controlla titoli e slug in content/*/ per non duplicare un libro o una ricerca già coperti.
+
+PASSO 2 — Ricerca: con WebSearch verifica autore, anno, narratore, durata, editore e disponibilità su Audible/Kindle Unlimited. Cerca il prodotto reale su Amazon.it ("site:amazon.it <titolo> audiolibro"): usa l'ASIN solo se lo trovi davvero, nel formato di CLAUDE.md con tag audiobookit-21; altrimenti link di ricerca. Mai ASIN, trame o dati inventati.
+
+PASSO 3 — Scrivi l'articolo seguendo CLAUDE.md (900-1400 parole, frontmatter con virgolette doppie, box CTA dopo l'introduzione, link affiliato all'inizio e prima della conclusione, 2-3 link interni verso articoli esistenti trovati con grep in content/). Nessun segnaposto, nessun link vuoto.
+
+Copertina con ElevenLabs (~185 crediti):
+1. mcp__claude_ai_ElevenLabs__creative_add_flow_node con flow_id "n07uEq7EjK5kolgOBEfD", node_type "image-generation", model_id "gpt-image-2", model_parameters {"aspect_ratio": "16:9", "resolution": "1K", "quality": "medium"} e un prompt IN INGLESE: fotografia editoriale realistica e accogliente che evochi il tema del libro o dell'articolo (atmosfera, luogo, oggetti simbolici, cuffie, libri, lettura), luce calda naturale. MAI riprodurre la copertina reale del libro, titoli o nomi di autori; nessuna persona riconoscibile. Chiudi con "No text, no logos, no watermarks."
+2. mcp__claude_ai_ElevenLabs__creative_run_flow_nodes con generations_count 1 (SEMPRE 1).
+3. mcp__claude_ai_ElevenLabs__creative_get_flow_run_status finché all_completed o has_failures è true (`sleep 5` in Bash tra un controllo e l'altro).
+4. Subito dopo: `python3 scripts/salva_immagine.py "<url dell'immagine>" "<slug>"`.
+5. Se bloccata dal filtro, riformula e riprova UNA volta sola. Se fallisce ancora, riusa una copertina generica già presente in static/images/covers/ e segnalalo. Mai più di 2 generazioni.
+
+PASSO 4 — Verifica e pubblica:
+- Conta le parole del corpo (tra 900 e 1400).
+- `set -a; . /home/salvatore/risparmio-energetico/.env; set +a` e poi il ciclo ESATTO di CLAUDE.md (rm -rf public/ && hugo --minify && npx wrangler pages deploy ... && git add content static content-queue.md && git commit && git push).
+- Se hugo o wrangler falliscono NON fare push: fermati e spiega nel riepilogo. Non lasciare il repo a metà.
+- Verifica che esista public/<sezione>/<slug>/index.html.
+
+PASSO 5 — In content-queue.md segna l'argomento `- [x]` con data e note utili (o aggiungilo come fatto se non era in coda), nello stesso commit. Messaggio di commit: "Aggiunto: <titolo>", corpo con keyword target, e ultima riga:
+Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
+
+Riepilogo finale breve: titolo, URL live, keyword target, problemi incontrati.

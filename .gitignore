@@ -14,4 +14,4 @@ venv/
 __pycache__/
 *.pyc
 public/
-resources/_gen/
+resources/_gen/logs/
