@@ -9,6 +9,8 @@ Uso interno del cron giornaliero (non è un articolo). Formato:
 
 ## Pubblicati
 
+- [x] Il nome della rosa audiolibro: narratore e durata | recensioni | il-nome-della-rosa-audiolibro-italiano-2026 | "il nome della rosa audiolibro" | 2026-09-27, scelta senza dati di volume (coda vuota, filone "audiolibro di un libro molto letto in Italia"). Narratore Tommaso Ragno, edizione integrale Emons (2016, ~20h23m) verificata su Audible/Amazon.it; ASIN B08YYWDN4Z verificato per l'edizione Audible su Amazon.it.
+
 - [x] Audiolibri per dormire: storie e meditazioni su Audible | posts | audiolibri-per-dormire-2026 | "audiolibri per dormire" | 2026-09-26, scelta senza dati di volume. Titoli presi dalle pagine editoriali Audible.it (blog/audiolibri-per-dormire e storie-per-dormire); tutti i link sono di ricerca Audible, nessun ASIN verificato.
 
 - [x] Come ascoltare audiolibri in auto: guida 2026 | posts | ascoltare-audiolibri-in-auto | "ascoltare audiolibri in auto" | 2026-09-26, scelta senza dati di volume. Metodi presi dalla pagina di aiuto ufficiale aiuto.audible.it (Ascoltare Audible in auto); tutti i link sono di ricerca Audible, nessun ASIN.
