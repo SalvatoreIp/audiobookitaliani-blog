@@ -9,6 +9,8 @@ Uso interno del cron giornaliero (non è un articolo). Formato:
 
 ## Pubblicati
 
+- [x] Migliori audiolibri horror da ascoltare: 5 classici da brivido | posts | migliori-audiolibri-horror | "audiolibri horror" | 2026-09-28, scelta senza dati di volume (coda vuota, filone "liste tematiche"; evitato il filone "audiolibro di libro molto letto" già usato ieri, ed evitato l'argomento gialli/thriller perché già coperto da migliori-audiolibri-thriller-italiani-2026). Titoli e dati (narratore, durata, editore, ASIN) verificati via web search e pagine Audible.it/Amazon.it: Dracula (Paolo Pierobon, Emons, ASIN B0BJS77S21), Frankenstein (Massimo Popolizio, Emons, 9h32m, ASIN B07YQ4GZGP), Il richiamo di Cthulhu (Librinpillole, Vizi Editore, 1h37m, ASIN B09T3DQ8FF), Racconti del terrore di Poe (Troiano/Mancioppi, GoodMood, 1h28m, ASIN B01BY1V1F6). Per Il giro di vite (Lalle/Riva, Saga Egmont) non ho trovato un ASIN amazon.it affidabile: link di ricerca.
+
 - [x] Il nome della rosa audiolibro: narratore e durata | recensioni | il-nome-della-rosa-audiolibro-italiano-2026 | "il nome della rosa audiolibro" | 2026-09-27, scelta senza dati di volume (coda vuota, filone "audiolibro di un libro molto letto in Italia"). Narratore Tommaso Ragno, edizione integrale Emons (2016, ~20h23m) verificata su Audible/Amazon.it; ASIN B08YYWDN4Z verificato per l'edizione Audible su Amazon.it.
 
 - [x] Audiolibri per dormire: storie e meditazioni su Audible | posts | audiolibri-per-dormire-2026 | "audiolibri per dormire" | 2026-09-26, scelta senza dati di volume. Titoli presi dalle pagine editoriali Audible.it (blog/audiolibri-per-dormire e storie-per-dormire); tutti i link sono di ricerca Audible, nessun ASIN verificato.
