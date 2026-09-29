@@ -43,7 +43,7 @@ cover:
 
 ## Regole editoriali
 
-- Italiano, 900-1400 parole, testo originale. Mai segnaposto tipo "[qui trama]" o link vuoti `()`.
+- Italiano, 900-1400 parole, testo originale. Tono concreto e credibile: dati del libro, perché ascoltarlo, per chi è adatto; niente enfasi romantica o aggettivi a effetto ("magico", "indimenticabile", "viaggio emozionante"). Mai segnaposto tipo "[qui trama]" o link vuoti `()`.
 - Dati sui libri (autore, anno, narratore, durata, editore) solo se verificati sul web; mai trame o premi inventati. Niente spoiler senza avviso.
 - Link affiliati con tag `audiobookit-21` (voluto). Audible: `https://www.amazon.it/dp/ASIN?actionCode=AZIOther35606092201BR&tag=audiobookit-21`; prodotti: `https://www.amazon.it/dp/ASIN?tag=audiobookit-21`. ASIN solo se trovato davvero; altrimenti link di ricerca `https://www.amazon.it/s?k=TITOLO&i=audible&tag=audiobookit-21`. Mai `amzn.to`.
 - Box CTA dopo l'introduzione:
