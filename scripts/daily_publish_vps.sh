@@ -17,3 +17,6 @@ PROMPT="$(cat scripts/daily_publish_prompt.txt)"
   --model claude-sonnet-5 \
   --allowedTools "Bash Read Write Edit Glob Grep WebSearch WebFetch ToolSearch mcp__claude_ai_ElevenLabs__creative_add_flow_node mcp__claude_ai_ElevenLabs__creative_run_flow_nodes mcp__claude_ai_ElevenLabs__creative_get_flow_run_status" \
   --permission-mode bypassPermissions
+
+# Avvisa Bing & co. (IndexNow) delle pagine nuove/cambiate: legge public/sitemap.xml appena pubblicata (dal 06/10/2026)
+python3 scripts/indexnow.py || echo "IndexNow non riuscito (riprova al prossimo giro)"
