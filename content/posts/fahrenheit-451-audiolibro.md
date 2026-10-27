@@ -19,7 +19,7 @@ categories: ["recensioni"]
 
 <div class="cta-box">
 <p><strong>🎧 Fahrenheit 451 — audiolibro e cartaceo</strong></p>
-<a href="https://amzn.to/4qVVaU4" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8804783494?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [distopie e memoria storica](/libri/2026-02-24-se-questo--un-uomo---libro-cartaceo-la-memoria-della-shoah) · [audiolibri di fantascienza](/tags/recensioni) · [altri classici imperdibili](/categories/recensioni)
@@ -30,4 +30,4 @@ Consigliato a tutti, in particolare agli amanti della fantascienza e della lette
 
 **Voto:** ⭐⭐⭐⭐⭐ Imperdibile per chi ama la fantascienza e la riflessione sociale.
 
-**Acquista su Amazon:** https://amzn.to/4qVVaU4
+**Acquista su Amazon:** https://www.amazon.it/dp/8804783494?tag=audiobookit-21

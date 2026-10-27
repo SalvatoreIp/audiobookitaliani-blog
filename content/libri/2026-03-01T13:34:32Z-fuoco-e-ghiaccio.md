@@ -9,7 +9,7 @@ cover:
   alt: 'Copertina Fuoco e Ghiaccio'
 ---
 <div class="cta-box">
-<a href="https://amzn.to/4r2RSOE" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8845936503?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Il capolavoro poetico di Robert Frost per ogni appassionato.
 
@@ -27,6 +27,6 @@ La poesia "Fuoco e Ghiaccio" non racconta una trama nel senso tradizionale, ma e
 ⭐ VOTO: 9.5/10 - Un capolavoro di concisione e profondità.
 
 <div class="cta-box">
-<a href="https://amzn.to/4r2RSOE" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8845936503?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

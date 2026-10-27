@@ -227,7 +227,7 @@ cover:
 3. Clicca su "Restituisci questo libro"
 
 #### **Su Browser:**
-1. Vai su [amazon.it/mykd](https://www.amazon.it/mykd)
+1. Vai su [amazon.it/mykd](https://www.amazon.it/mykd?tag=audiobookit-21)
 2. Trova il libro
 3. Clicca su "Restituisci"
 

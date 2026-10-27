@@ -9,10 +9,10 @@ cover:
   alt: "Copertina audiolibro Fahrenheit 451"
 ---
 
-<p class="lead">Fahrenheit 451 di Ray Bradbury è uno dei capolavori letterari del XX secolo. Scopr i dove ascoltarlo in audiolibro italiano, la qualità della narrazione e perché rimane rilevante nel 2026.</p>
+<p class="lead">Fahrenheit 451 di Ray Bradbury è uno dei capolavori letterari del XX secolo. Scopri dove ascoltarlo in audiolibro italiano, la qualità della narrazione e perché rimane rilevante nel 2026.</p>
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/s?k=Fahrenheit+451+audiolibro&i=audible" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta Fahrenheit 451 su Audible</a>
+  <a href="https://www.amazon.it/s?k=Fahrenheit+451+audiolibro&i=audible&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta Fahrenheit 451 su Audible</a>
 </div>
 
 
@@ -106,7 +106,7 @@ In un'epoca di **fake news, algoritmi che filtrano, e verità manipolate**, Fahr
 
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/s?k=Fahrenheit+451+audiolibro&i=audible" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta Fahrenheit 451 su Audible</a>
+  <a href="https://www.amazon.it/s?k=Fahrenheit+451+audiolibro&i=audible&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta Fahrenheit 451 su Audible</a>
 </div>
 
 ## Qualità della narrazione italiana
@@ -266,7 +266,7 @@ Fahrenheit 451 non è solo fantascienza: è un **monito sulla società**.
 Scopri Fahrenheit 451 in audiolibro italiano:
 
 <div class="cta-box">
-  <a href="https://www.amazon.it/s?k=Fahrenheit+451+audiolibro&i=audible" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta Fahrenheit 451 su Audible</a>
+  <a href="https://www.amazon.it/s?k=Fahrenheit+451+audiolibro&i=audible&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta Fahrenheit 451 su Audible</a>
 </div>
 
 ---

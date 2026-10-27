@@ -16,10 +16,10 @@ description: "Il capolavoro di Herman Melville, un'epica caccia alla balena bian
 "Moby Dick" di Herman Melville è uno dei più grandi romanzi della letteratura americana, un'opera monumentale che esplora l'ossessione, il destino e la lotta dell'uomo contro le forze della natura. Ascoltarlo in audiolibro trasforma questa epica caccia alla balena bianca in un'esperienza sonora straordinaria, dove la potenza della prosa di Melville si amplifica attraverso la voce narrante.
 
 <div class="cta-box">
-<a href="https://amzn.to/4cDoAm9" class="cta-button" rel="nofollow sponsored">Acquista Moby Dick su Amazon →</a>
+<a href="https://www.amazon.it/dp/B01BY213MQ?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista Moby Dick su Amazon →</a>
 </div>
 
-📚 **Potrebbero piacerti anche:** [grandi classici della letteratura](/tags/classici) · [altri audiolibri avventurosi](/posts/2026-02-22-il-conte-di-montecristo---libro-cartaceo) · [audiolibri epici da ascoltare](/categories/recensioni)
+📚 **Potrebbero piacerti anche:** [grandi classici della letteratura](/tags/classici) · [altri audiolibri avventurosi](/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/) · [audiolibri epici da ascoltare](/categories/recensioni)
 
 La storia segue Ismaele, un marinaio che si imbarca sulla baleniera Pequod comandata dal capitano Achab, un uomo consumato dall'ossessione di vendicarsi sulla balena bianca che gli ha strappato una gamba. Il viaggio diventa una metafora della condizione umana, della hybris e della ricerca di significato in un universo indifferente. La versione audiolibro rende giustizia alla ricchezza del linguaggio di Melville, con descrizioni dei mari e delle creature marine che sembrano prendere vita attraverso l'ascolto. Ogni capitolo è un affresco letterario che merita di essere assaporato con calma.
 
@@ -27,4 +27,4 @@ Consigliato a chi ama i classici della letteratura, le narrazioni epiche e le st
 
 **Voto:** ⭐⭐⭐⭐⭐ Un capolavoro assoluto della letteratura mondiale.
 
-**Acquista su Amazon:** https://amzn.to/4cDoAm9
+**Acquista su Amazon:** https://www.amazon.it/dp/B01BY213MQ?tag=audiobookit-21

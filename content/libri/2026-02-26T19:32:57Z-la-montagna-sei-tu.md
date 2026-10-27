@@ -10,7 +10,7 @@ cover:
 ---
 
 <div class="cta-box">
-<a href="https://amzn.to/4kTAGts" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8845410048?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 **Trasformare l'autosabotaggio in autocontrollo** - Un'opera imperdibile per chiunque voglia smettere di essere il proprio peggior nemico.
@@ -19,10 +19,7 @@ cover:
 
 "La montagna sei tu" è un libro di crescita personale che affronta uno dei temi più universali e spesso trascurati: l'autosabotaggio. Quante volte ci siamo ritrovati a ostacolare noi stessi, a procrastinare, a fuggire da ciò che desideriamo davvero? Questo libro scava nelle radici profonde di quei comportamenti autodistruttivi che ci impediscono di raggiungere il nostro pieno potenziale. L'autrice, con uno stile diretto e accessibile, ci guida attraverso un percorso di consapevolezza che parte dal riconoscimento dei propri schemi tossici fino alla costruzione di nuove abitudini più sane. Non si tratta dell'ennesimo manuale motivazionale pieno di frasi fatte, ma di un vero e proprio strumento pratico per chi è stanco di stare nel proprio modo e vuole finalmente scalare quella montagna interiore che sembra insormontabile.
 
-### 📚 Libri Correlati
-[I sentieri degli aghi di pino](/libri/2026-02-28t09:57:27z-i-sentieri-degli-aghi-di-pino/) | [Il Conte di Montecristo - Libro Cartaceo](/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/) | [Il Palazzo dei Sogni](/libri/2026-02-26t13:25:01z-il-palazzo-dei-sogni/)
-
-## 📖 Contenuti Principali
+### 📚 Libri Correlati  [Il Conte di Montecristo - Libro Cartaceo](/libri/2026-02-22-il-conte-di-montecristo---libro-cartaceo/) ## 📖 Contenuti Principali
 
 Il libro si struttura come un viaggio di trasformazione personale. Si parte dall'analisi dei meccanismi di autosabotaggio: perché ci autosabotiamo? Quali sono le paure nascoste dietro la procrastinazione, il perfezionismo paralizzante e le relazioni tossiche che scegliamo inconsciamente? L'autrice smonta pezzo per pezzo le convinzioni limitanti che ci portiamo dietro dall'infanzia, mostrando come molti dei nostri comportamenti distruttivi siano in realtà strategie di protezione ormai obsolete. La seconda parte del libro è dedicata alla ricostruzione: esercizi pratici, tecniche di autoanalisi e strategie concrete per trasformare l'autosabotaggio in autocontrollo. Non promette miracoli, ma offre strumenti reali per iniziare a cambiare.
 
@@ -33,7 +30,7 @@ Se ti sei mai chiesto perché continui a ripetere gli stessi errori, perché fug
 ⭐ **VOTO: 9/10 - Un libro trasformativo che parla dritto alla parte di te che ha bisogno di sentirsi dire la verità**
 
 <div class="cta-box">
-<a href="https://amzn.to/4kTAGts" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8845410048?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**

@@ -10,7 +10,7 @@ cover:
 ---
 
 <div class="cta-box">
-<a href="https://amzn.to/4sT6xxe" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8806269682?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 Larry McMurtry, premio Pulitzer per la narrativa, ci regala una biografia breve ma straordinariamente potente del leggendario guerriero Sioux Cavallo Pazzo. Un libro che sfida le convenzioni del genere biografico, ammettendo fin dall'inizio l'impossibilità di conoscere davvero il suo protagonista, e proprio per questo riuscendo a restituirne l'essenza più autentica.
@@ -30,10 +30,10 @@ McMurtry compie un'operazione coraggiosa: invece di aggiungere strati al mito, l
 ⭐ VOTO: 8/10 - Biografia essenziale e poetica di un eroe tragico
 
 ## 📚 Libri Correlati
-- [Lonesome Dove](/posts/lonesome-dove-mcmurtry/) - Il capolavoro western di McMurtry
-- [Seppellite il mio cuore a Wounded Knee](/posts/seppellite-cuore-wounded-knee/) - La storia dei nativi americani
+- Lonesome Dove - Il capolavoro western di McMurtry
+- Seppellite il mio cuore a Wounded Knee - La storia dei nativi americani
 
 <div class="cta-box">
-<a href="https://amzn.to/4sT6xxe" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8806269682?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

@@ -83,7 +83,7 @@ Se invece il genere che ti intriga è più il giallo investigativo che l'orrore 
 
 ## Dove ascoltarli
 
-Tutti i titoli di questa lista sono disponibili su **Audible**, alcuni inclusi nell'abbonamento Premium Plus, altri acquistabili singolarmente o con un credito mensile. Se non hai ancora un abbonamento attivo e vuoi capire se conviene per il tuo modo di ascoltare, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta prezzi, vantaggi e alternative.
+Tutti i titoli di questa lista sono disponibili su **Audible**, alcuni inclusi nel catalogo dell'abbonamento, altri acquistabili singolarmente o con un credito mensile. Se non hai ancora un abbonamento attivo e vuoi capire se conviene per il tuo modo di ascoltare, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta prezzi, vantaggi e alternative.
 
 ## Domande frequenti
 

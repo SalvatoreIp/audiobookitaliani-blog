@@ -9,7 +9,7 @@ cover:
   alt: 'Copertina Il canto dei cuori ribelli'
 ---
 <div class="cta-box">
-<a href="https://amzn.to/4rkDwJA" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/B07ND328D4?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Un audiolibro che ti immerge in una storia potente di sacrificio, coraggio e amore tra India e Occidente per ogni appassionato.
 
@@ -30,6 +30,6 @@ Esplora temi universali come la violenza di genere, le disuguaglianze sociali e 
 - [Orgoglio e Pregiudizio - Audiolibro](/posts/2026-02-22-orgoglio-e-pregiudizio---audiolibro/)
 
 <div class="cta-box">
-<a href="https://amzn.to/4rkDwJA" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/B07ND328D4?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

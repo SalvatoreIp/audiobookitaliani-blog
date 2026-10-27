@@ -9,7 +9,7 @@ cover:
 ---
 
 <div class="cta-box">
-<a href="https://amzn.to/47vBj7a" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/885801796X?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Un'avventura senza tempo che ha ispirato generazioni di lettori, dove Phileas Fogg e il fedele Passepartout sfidano orari ferroviari, monsoni e rapimenti per vincere una scommessa apparentemente impossibile.
 
@@ -30,6 +30,6 @@ Questo capolavoro è una lettura imprescindibile per gli amanti delle avventure 
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 
 <div class="cta-box">
-<a href="https://amzn.to/47vBj7a" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/885801796X?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

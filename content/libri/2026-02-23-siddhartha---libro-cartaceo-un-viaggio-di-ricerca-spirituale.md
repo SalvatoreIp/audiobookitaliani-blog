@@ -16,7 +16,7 @@ description: "Il classico di Hermann Hesse, un percorso di illuminazione interio
 "Siddhartha" di Hermann Hesse è un romanzo breve ma profondamente significativo che racconta il viaggio di un giovane bramino alla ricerca dell'illuminazione spirituale. Pubblicato per la prima volta nel 1922, questo capolavoro continua a risuonare con lettori di ogni età, invitandoli a riflettere sul significato dell'esistenza, sulla natura del desiderio e sulla via verso la saggezza interiore. L'esperienza di leggere "Siddhartha" in formato cartaceo è particolarmente ricca, permettendo una contemplazione profonda delle parole di Hesse.
 
 <div class="cta-box">
-<a href="https://amzn.to/4kSE0oQ" class="cta-button" rel="nofollow sponsored">Acquista Siddhartha su Amazon →</a>
+<a href="https://www.amazon.it/dp/884590184X?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista Siddhartha su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [Siddhartha in versione audiolibro](/posts/siddhartha-audiolibro) · [romanzi di ricerca spirituale](/posts/2026-02-17-lalchimista---audiolibro-un-viaggio-di-realizzazione-personale) · [libri filosofici da ascoltare](/tags/filosofia)
@@ -27,4 +27,4 @@ Consigliatissimo a chiunque sia a un bivio della vita, a chi cerca saggezza e is
 
 **Voto:** ⭐⭐⭐⭐⭐ Un classico senza tempo per la ricerca dell'anima.
 
-**Acquista su Amazon:** https://amzn.to/4kSE0oQ
+**Acquista su Amazon:** https://www.amazon.it/dp/884590184X?tag=audiobookit-21

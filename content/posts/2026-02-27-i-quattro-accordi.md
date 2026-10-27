@@ -9,7 +9,7 @@ cover:
   image: /images/i-quattro-accordi---libro-cartaceo-un-percorso-di-libert-personale.png
   alt: "I Quattro Accordi"
 rating: 5/5
-affiliate_link: "https://amzn.to/474VqsC"
+affiliate_link: "https://www.amazon.it/dp/B07C819M5C?tag=audiobookit-21"
 ---
 
 Appassionati di crescita personale e benessere!
@@ -29,6 +29,6 @@ L'esperienza dell'audiolibro di "I quattro accordi" è particolarmente consiglia
 
 Per approfondire e iniziare il vostro percorso con "I quattro accordi", potete trovare il libro su Amazon:
 
-[Link affiliato Amazon: I quattro accordi](https://amzn.to/474VqsC)
+[Link affiliato Amazon: I quattro accordi](https://www.amazon.it/dp/B07C819M5C?tag=audiobookit-21)
 
 Buona esplorazione e buona trasformazione!

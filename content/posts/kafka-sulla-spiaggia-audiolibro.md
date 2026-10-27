@@ -18,7 +18,7 @@ categories: ["recensioni"]
 "Kafka sulla Spiaggia" di Haruki Murakami è uno dei romanzi più affascinanti e misteriosi della letteratura contemporanea, un viaggio surrealista e introspettivo che mescola realtà e fantasia in modo magistrale. Ascoltarlo in audiolibro è un'esperienza ipnotica, che amplifica la natura onirica e poetica della narrazione di Murakami.
 
 <div class="cta-box">
-<a href="https://amzn.to/4b6qg6y" class="cta-button" rel="nofollow sponsored">Acquista Kafka sulla Spiaggia su Amazon →</a>
+<a href="https://www.amazon.it/dp/8806216945?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista Kafka sulla Spiaggia su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [Le Porte della Percezione audiolibro](/posts/le-porte-della-percezione-audiolibro) · [audiolibri filosofici](/tags/filosofia) · [altri romanzi contemporanei](/categories/recensioni)
@@ -29,4 +29,4 @@ Consigliato agli amanti della letteratura giapponese, del realismo magico e dell
 
 **Voto:** ⭐⭐⭐⭐⭐ Imperdibile per gli amanti del genere.
 
-**Acquista su Amazon:** https://amzn.to/4b6qg6y
+**Acquista su Amazon:** https://www.amazon.it/dp/8806216945?tag=audiobookit-21

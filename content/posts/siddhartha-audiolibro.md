@@ -18,7 +18,7 @@ categories: ["recensioni"]
 "Siddhartha" di Hermann Hesse è un viaggio spirituale e filosofico che affascina da generazioni, un romanzo breve ma denso di significato che accompagna il lettore lungo il percorso di illuminazione del suo protagonista. Ascoltarlo in audiolibro è un'esperienza meditativa e profonda, perfetta per momenti di riflessione e introspezione.
 
 <div class="cta-box">
-<a href="https://amzn.to/4c9tgQE" class="cta-button" rel="nofollow sponsored">Acquista Siddhartha su Amazon →</a>
+<a href="https://www.amazon.it/dp/888828544X?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista Siddhartha su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [Siddhartha in versione cartacea](/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale) · [L'Alchimista audiolibro](/posts/2026-02-17-lalchimista---audiolibro-un-viaggio-di-realizzazione-personale) · [audiolibri filosofici](/tags/filosofia)
@@ -29,4 +29,4 @@ Consigliato a chi è in cerca di ispirazione spirituale, a chi si trova a un biv
 
 **Voto:** ⭐⭐⭐⭐⭐ Un'esperienza illuminante per l'anima.
 
-**Acquista su Amazon:** https://amzn.to/4c9tgQE
+**Acquista su Amazon:** https://www.amazon.it/dp/888828544X?tag=audiobookit-21

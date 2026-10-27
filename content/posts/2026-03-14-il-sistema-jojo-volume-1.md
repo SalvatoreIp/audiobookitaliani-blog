@@ -9,7 +9,7 @@ cover:
 ---
 
 <div class="cta-box">
-<a href="https://amzn.to/4rAnsn7" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/4087825914?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Un'opera iconica che rivoluziona il mondo dei manga con stili artistici audaci e trame avvincenti. La prima parte della saga introduce personaggi memorabili e battaglie epiche che hanno definito un'era.
 
@@ -30,6 +30,6 @@ Questo manga è una pietra miliare per chiunque ami il medium: la combinazione d
 - [Il Piccolo Principe - Audiolibro](/posts/il-piccolo-principe-audiolibro/)
 
 <div class="cta-box">
-<a href="https://amzn.to/4rAnsn7" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/4087825914?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

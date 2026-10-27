@@ -92,7 +92,7 @@ L'audiolibro di L'Alchimista non è solo una lettura: è un'**esperienza trasfor
 ---
 
 <div class="cta-box">
-<a href="https://www.amazon.it/s?k=alchimista+audiolibro&i=audible" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta L'Alchimista su Audible</a>
+<a href="https://www.amazon.it/s?k=alchimista+audiolibro&i=audible&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta L'Alchimista su Audible</a>
 </div>
 
 ---
@@ -184,7 +184,7 @@ Disponibile in formato **MP3 audiolibro** su Amazon Audible Italia.
 ---
 
 <div class="cta-box">
-<a href="https://www.amazon.it/s?k=alchimista+audiolibro&i=audible" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta L'Alchimista su Audible</a>
+<a href="https://www.amazon.it/s?k=alchimista+audiolibro&i=audible&tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">🎧 Ascolta L'Alchimista su Audible</a>
 </div>
 
 ---
@@ -200,12 +200,11 @@ Disponibile in formato **MP3 audiolibro** su Amazon Audible Italia.
 
 **Link:** [https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21](https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21)
 
-### **Opzione 2: Audible Plus**
+### **Opzione 2: Abbonamento Audible**
 
-Con l'abbonamento **Audible Plus** (€7,99/mese):
-- Accesso a **migliaia di audiolibri** inclusi
-- **Sconti** sugli acquisti aggiuntivi
-- **Nessun credito** necessario per i titoli inclusi
+L'abbonamento Audible costa **9,99 euro al mese** (prezzo indicativo ottobre 2026) e comprende:
+- un **credito al mese** per un titolo a scelta, che resta tuo
+- un **catalogo incluso** da ascoltare senza limiti finché l'abbonamento è attivo
 
 ### **Opzione 3: Acquisto singolo**
 
@@ -301,7 +300,7 @@ Se hai già Kindle Unlimited:
 
 Scopri L'Alchimista in audiolibro italiano:
 
-[**🎧 Acquistalo su Audible Italia**](https://www.amazon.it/s?k=alchimista+audiolibro&i=audible)
+[**🎧 Acquistalo su Audible Italia**](https://www.amazon.it/s?k=alchimista+audiolibro&i=audible&tag=audiobookit-21)
 
 ---
 

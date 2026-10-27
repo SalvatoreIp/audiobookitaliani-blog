@@ -19,10 +19,10 @@ categories: ["recensioni"]
 
 <div class="cta-box">
 <p><strong>🎧 Il Piccolo Principe — audiolibro e cartaceo</strong></p>
-<a href="https://amzn.to/4aOZONl" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8828214856?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
-📚 **Potrebbero piacerti anche:** [Il Giardino Segreto audiolibro](/posts/il-giardino-segreto-audiolibro) · [Siddhartha audiolibro](/posts/siddhartha-audiolibro) · [altri classici per tutti](/tags/classici)
+📚 **Potrebbero piacerti anche:** Il Giardino Segreto audiolibro · [Siddhartha audiolibro](/posts/siddhartha-audiolibro) · [altri classici per tutti](/tags/classici)
 
 La storia segue un aviatore che si schianta nel deserto del Sahara e incontra un misterioso bambino proveniente da un piccolo asteroide. Attraverso i suoi viaggi e i personaggi incontrati, il Piccolo Principe svela verità profonde sulla natura umana, sull'amore e sull'essenziale invisibile agli occhi. La narrazione audiolibro è delicata e toccante, con una voce narrante capace di trasmettere tutta la malinconia e la tenerezza della storia. Ogni parola di Saint-Exupéry acquista una dimensione nuova quando viene recitata ad alta voce.
 
@@ -30,4 +30,4 @@ Consigliato a grandi e piccini, a chi cerca una storia che parli al cuore e alla
 
 **Voto:** ⭐⭐⭐⭐⭐ Un capolavoro da ascoltare e riascoltare!
 
-**Acquista su Amazon:** https://amzn.to/4aOZONl
+**Acquista su Amazon:** https://www.amazon.it/dp/8828214856?tag=audiobookit-21

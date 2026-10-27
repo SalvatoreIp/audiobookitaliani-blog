@@ -17,7 +17,7 @@ description: "Il capolavoro di Paulo Coelho, un viaggio alla ricerca della propr
 
 <div class="cta-box">
 <p><strong>🎧 L’Alchimista — audiolibro e cartaceo</strong></p>
-<a href="https://amzn.to/46h1e1R" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/B0FJMNHYKB?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [romanzi di ricerca spirituale](/libri/2026-02-23-siddhartha---libro-cartaceo-un-viaggio-di-ricerca-spirituale) · [audiolibri filosofici](/tags/filosofia) · [altri audiolibri ispiranti](/categories/recensioni)
@@ -28,4 +28,4 @@ Consigliato a chiunque sia in cerca di ispirazione, a chi si trova a un bivio de
 
 **Voto:** ⭐⭐⭐⭐⭐ Un classico moderno che ispira e commuove.
 
-**Acquista su Amazon:** https://amzn.to/46h1e1R
+**Acquista su Amazon:** https://www.amazon.it/dp/B0FJMNHYKB?tag=audiobookit-21

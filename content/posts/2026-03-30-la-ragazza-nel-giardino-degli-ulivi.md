@@ -9,7 +9,7 @@ cover:
   alt: 'Copertina La ragazza nel giardino degli ulivi'
 ---
 <div class="cta-box">
-<a href="https://amzn.to/3PCpE0m" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8822740475?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Un romanzo delicato e profondo che esplora i legami familiari, i segreti sepolti e il potere della natura nel guarire le ferite dell'anima. Ambientato tra gli ulivi secolari della campagna toscana, questa storia toccante accompagna il lettore in un viaggio di scoperta e redenzione, dove ogni foglia sembra custodire un mistero e ogni ricordo nasconde una verità da svelare per ogni appassionato.
 
@@ -24,11 +24,11 @@ Questo romanzo è un'esperienza immersiva che trascina il lettore nella calda at
 ⭐ VOTO: 9/10
 
 ## 📚 Libri Correlati
-- [Il nome della rosa](/posts/il-nome-della-rosa/)
-- [La casa degli spiriti](/posts/la-casa-degli-spiriti/)
-- [L'amica geniale](/posts/lamica-geniale/)
+- [Il nome della rosa](/recensioni/il-nome-della-rosa-audiolibro-italiano-2026/)
+- La casa degli spiriti
+- [L'amica geniale](/recensioni/amica-geniale-audiolibro-italiano-2026/)
 
 <div class="cta-box">
-<a href="https://amzn.to/3PCpE0m" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8822740475?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

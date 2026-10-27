@@ -41,7 +41,7 @@ Su Amazon.it è disponibile anche un'altra edizione italiana, narrata da Daniele
 
 ## Dove ascoltarlo
 
-L'audiolibro è incluso nell'abbonamento Audible Premium Plus o acquistabile come titolo singolo con un credito. Se non hai ancora un abbonamento e ti stai chiedendo se convenga per ascoltare un classico come questo, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta costi, pro e contro del servizio.
+L'audiolibro è su Audible: si ascolta con l'abbonamento (9,99 euro al mese, prezzo indicativo ottobre 2026), usando il credito mensile oppure gratis se il titolo è nel catalogo incluso, o si compra singolarmente. Se non hai ancora un abbonamento e ti stai chiedendo se convenga per ascoltare un classico come questo, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta costi, pro e contro del servizio.
 
 Se invece preferisci partire da una lista più breve prima di affrontare un romanzo così denso, dai un'occhiata alla nostra classifica dei [10 migliori audiobook italiani](/posts/top-10-audiobook-italiani-2026/), utile anche per farti un'idea del genere distopico e di cosa aspettarti dall'ascolto.
 

@@ -47,7 +47,7 @@ Chi arriva alla fine di "Se questo è un uomo" spesso cerca il seguito: "La treg
 
 ## Dove ascoltarlo
 
-"Se questo è un uomo" letto da Roberto Saviano è disponibile su Audible, incluso nell'abbonamento Premium Plus o acquistabile come titolo singolo con un credito mensile. Se non hai ancora un abbonamento attivo e vuoi capire se conviene per il tuo modo di ascoltare, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta prezzi, vantaggi e alternative.
+"Se questo è un uomo" letto da Roberto Saviano è su Audible: si ascolta con l'abbonamento (9,99 euro al mese, prezzo indicativo ottobre 2026), usando il credito mensile oppure gratis se il titolo è nel catalogo incluso, o si compra singolarmente. Se non hai ancora un abbonamento attivo e vuoi capire se conviene per il tuo modo di ascoltare, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta prezzi, vantaggi e alternative.
 
 ## In sintesi
 

@@ -10,7 +10,7 @@ cover:
 ---
 
 <div class="cta-box">
-<a href="https://amzn.to/3N7ukdD" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/B0C9P789CH?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 **Un thriller oscuro dove ogni porta nasconde un segreto** - Un romanzo che ti terrà sveglio fino all'ultima pagina.
@@ -20,7 +20,7 @@ cover:
 Tutti abbiamo visto quella casa. Quella in fondo alla strada, con le finestre scure e il giardino invaso dalle erbacce. Quella di cui i vicini parlano a mezza voce, quella davanti a cui si accelera il passo senza rendersene conto. "La casa in fondo alla strada" prende quella paura ancestrale — quella sensazione che certi luoghi portino con sé qualcosa di sbagliato — e la trasforma in un racconto che si insinua sotto la pelle. L'autore costruisce un'atmosfera claustrofobica e opprimente fin dalle prime righe, mescolando elementi di thriller psicologico e horror gotico con una maestria rara nel panorama letterario italiano. Non è il solito romanzo dell'orrore: è una discesa controllata nella paranoia, dove il confine tra realtà e percezione si assottiglia pagina dopo pagina.
 
 ### 📚 Libri Correlati
-[La montagna sei tu](/libri/2026-02-26t19:32:57z-la-montagna-sei-tu/) | [Fuoco e Ghiaccio](/libri/2026-02-27t19:49:08z-fuoco-e-ghiaccio/) | [Messaggio per un'aquila che si crede un pollo - Libro Cartaceo](/libri/2026-02-25-messaggio-per-unaquila-che-si-crede-un-pollo---libro-cartaceo/)
+[La montagna sei tu](/libri/2026-02-26t193257z-la-montagna-sei-tu/) | [Fuoco e Ghiaccio](/libri/2026-03-01t133432z-fuoco-e-ghiaccio/) | [Messaggio per un'aquila che si crede un pollo - Libro Cartaceo](/libri/2026-02-25-messaggio-per-unaquila-che-si-crede-un-pollo---libro-cartaceo/)
 
 ## 📖 Trama (senza spoiler)
 
@@ -33,7 +33,7 @@ Se ami i thriller che ti lasciano con la luce accesa di notte, questo è il libr
 ⭐ **VOTO: 8/10 - Un thriller gotico che non lascia scampo, perfetto per le serate in cui vuoi avere paura davvero**
 
 <div class="cta-box">
-<a href="https://amzn.to/3N7ukdD" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/B0C9P789CH?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 **Supporta AudioBook Italiani acquistando tramite i nostri link!**

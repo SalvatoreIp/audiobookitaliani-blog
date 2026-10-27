@@ -16,7 +16,7 @@ description: "Testimonianza indelebile di Primo Levi sulla sua esperienza ad Aus
 "Se questo è un uomo" di Primo Levi è una delle più importanti testimonianze letterarie dell'Olocausto, un'opera d'arte e di memoria che va oltre la semplice narrazione autobiografica per diventare un'indagine profonda sulla natura umana e sulla dignità in condizioni estreme. La lettura di questo libro, specialmente in formato cartaceo, è un atto di rispetto e un'esperienza formativa essenziale, che permette di confrontarsi direttamente con la potenza delle parole di Levi.
 
 <div class="cta-box">
-<a href="https://amzn.to/4aMFnAD" class="cta-button" rel="nofollow sponsored">Acquista Se questo è un uomo su Amazon →</a>
+<a href="https://www.amazon.it/dp/881708400X?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista Se questo è un uomo su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [distopie e memoria storica nei libri](/posts/fahrenheit-451-audiolibro) · [altri libri classici da leggere](/categories/libri) · [i grandi classici della letteratura](/tags/classici)
@@ -27,4 +27,4 @@ Questo libro è una lettura obbligatoria per tutti, non solo per comprendere la 
 
 **Voto:** ⭐⭐⭐⭐⭐ Un'opera fondamentale, un faro nella storia dell'umanità.
 
-**Acquista su Amazon:** https://amzn.to/4aMFnAD
+**Acquista su Amazon:** https://www.amazon.it/dp/881708400X?tag=audiobookit-21

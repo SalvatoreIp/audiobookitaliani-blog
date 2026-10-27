@@ -10,7 +10,7 @@ cover:
 ---
 
 <div class="cta-box">
-<a href="https://amzn.to/4byYWwQ" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8807036428?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 Andrea Bajani torna con un romanzo che ha conquistato la critica e i lettori, vincendo il prestigioso Premio Strega 2025. "L'anniversario" è un'immersione profonda nelle dinamiche familiari, un'esplorazione del potere e del controllo che si esercitano tra le mura domestiche e le conseguenze di una rottura necessaria. Un libro che parla di eredità emotiva, di legami che opprimono e del coraggio necessario per spezzarli, scritto con una lucidità chirurgica che non lascia scampo alle ipocrisie.
@@ -30,6 +30,6 @@ Un romanzo necessario per chiunque abbia mai cercato una via d'uscita da legami 
 ⭐ VOTO: 9/10 - Un romanzo necessario che parla al cuore della famiglia italiana
 
 <div class="cta-box">
-<a href="https://amzn.to/4byYWwQ" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8807036428?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

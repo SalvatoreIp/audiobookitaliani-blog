@@ -16,7 +16,7 @@ description: "Le avventure del topo giornalista più famoso d'Italia, perfette d
 "Geronimo Stilton" è una delle serie per ragazzi più amate e vendute in Italia e nel mondo, con le avventure del simpatico topo giornalista che hanno conquistato il cuore di milioni di bambini. Ascoltare le sue storie in audiolibro è un'esperienza divertente e coinvolgente, perfetta per avvicinare i più piccoli al piacere della lettura e dell'ascolto.
 
 <div class="cta-box">
-<a href="https://amzn.to/4tWuZ2j" class="cta-button" rel="nofollow sponsored">Acquista Geronimo Stilton su Amazon →</a>
+<a href="https://www.amazon.it/dp/B0F38MMHND?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista Geronimo Stilton su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [audiolibri fantasy per ragazzi](/posts/i-migliori-audiolibri-fantasy-per-ragazzi-un-viaggio-nella-magia) · [Alice nel Paese delle Meraviglie](/posts/2026-02-19-alice-nel-paese-delle-meraviglie---audiolibro) · [Le Cronache di Narnia](/posts/2026-02-19-le-cronache-di-narnia---audiolibro)
@@ -27,4 +27,4 @@ Consigliato a bambini dai 6 anni in su e a tutta la famiglia. Geronimo Stilton �
 
 **Voto:** ⭐⭐⭐⭐⭐ Divertente e coinvolgente, perfetto per i più piccoli.
 
-**Acquista su Amazon:** https://amzn.to/4tWuZ2j
+**Acquista su Amazon:** https://www.amazon.it/dp/B0F38MMHND?tag=audiobookit-21

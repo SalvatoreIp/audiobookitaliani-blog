@@ -43,7 +43,7 @@ Se hai attivato Audible dentro l'app Google Play Store o Apple App Store, la dis
 
 ## Cosa succede ai crediti non usati
 
-Qui la distinzione importante è tra crediti e titoli del catalogo incluso. I **crediti non spesi** al momento della disdetta vengono persi: non vengono rimborsati né convertiti in denaro. Fa eccezione il piano Premium Plus, dove i crediti si accumulano fino a 12 mesi, ma solo finché l'abbonamento resta attivo. Per questo, se stai pensando di disdire, conviene spendere i crediti rimasti prima di confermare la cancellazione.
+Qui la distinzione importante è tra crediti e titoli del catalogo incluso. I **crediti non spesi** al momento della disdetta vengono persi: non vengono rimborsati né convertiti in denaro. Finché l'abbonamento è attivo i crediti non usati restano disponibili per un periodo limitato (la scadenza di ciascuno è indicata nella pagina dell'account), ma con la disdetta si perdono. Per questo, se stai pensando di disdire, conviene spendere i crediti rimasti prima di confermare la cancellazione.
 
 ## Cosa succede agli audiolibri già acquistati
 

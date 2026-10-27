@@ -9,7 +9,7 @@ cover:
   alt: 'Copertina Gli occhi del bosco'
 ---
 <div class="cta-box">
-<a href="https://amzn.to/4r2FZbq" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8804765909?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Un'indagine sul profondo legame tra l'uomo e la natura per ogni appassionato.
 
@@ -24,6 +24,6 @@ Leggere "Gli occhi del bosco" significa intraprendere un viaggio in una dimensio
 ⭐ VOTO: 8.8/10 - Autentico e Profondamente Rivelatore
 
 <div class="cta-box">
-<a href="https://amzn.to/4r2FZbq" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8804765909?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 Supporta AudioBook Italiani acquistando tramite i nostri link!

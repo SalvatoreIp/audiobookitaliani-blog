@@ -12,7 +12,7 @@ cover:
 
 ## Acquista su Amazon
 
-[https://amzn.to/4dv13EH](https://amzn.to/4dv13EH)
+[https://www.amazon.it/dp/8830462705?tag=audiobookit-21](https://www.amazon.it/dp/8830462705?tag=audiobookit-21)
 
 ## Introduzione e Contesto
 
@@ -48,6 +48,6 @@ VOTO: 8.5/10
 
 ## Acquista su Amazon
 
-[https://amzn.to/4dv13EH](https://amzn.to/4dv13EH)
+[https://www.amazon.it/dp/8830462705?tag=audiobookit-21](https://www.amazon.it/dp/8830462705?tag=audiobookit-21)
 
 Supporta AudioBook Italiani acquistando tramite i nostri link!

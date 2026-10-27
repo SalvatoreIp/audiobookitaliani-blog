@@ -41,7 +41,7 @@ Su Amazon.it sono disponibili anche altre edizioni italiane, tra cui quella lett
 
 ## Dove ascoltarlo
 
-L'audiolibro è incluso nell'abbonamento Audible Premium Plus o acquistabile come titolo singolo con un credito. Se non hai ancora un abbonamento e ti stai chiedendo se convenga per ascoltare un classico come questo, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta costi, pro e contro del servizio.
+L'audiolibro è su Audible: si ascolta con l'abbonamento (9,99 euro al mese, prezzo indicativo ottobre 2026), usando il credito mensile oppure gratis se il titolo è nel catalogo incluso, o si compra singolarmente. Se non hai ancora un abbonamento e ti stai chiedendo se convenga per ascoltare un classico come questo, la nostra recensione [Audible vale la pena nel 2026?](/recensioni/audible-vale-la-pena-2026/) confronta costi, pro e contro del servizio.
 
 Se invece cerchi altri classici dell'Ottocento in audiolibro con protagoniste femminili, [Orgoglio e Pregiudizio](/posts/2026-02-22-orgoglio-e-pregiudizio---audiolibro/) di Jane Austen è un ottimo passo successivo, così come la nostra classifica dei [10 migliori audiobook italiani](/posts/top-10-audiobook-italiani-2026/) per farti un'idea di cosa ascoltare dopo.
 

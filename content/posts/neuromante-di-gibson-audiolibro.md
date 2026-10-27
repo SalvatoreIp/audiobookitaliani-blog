@@ -19,7 +19,7 @@ categories: ["recensioni"]
 
 <div class="cta-box">
 <p><strong>🎧 Neuromante — audiolibro e cartaceo</strong></p>
-<a href="https://amzn.to/4rDdVNb" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
+<a href="https://www.amazon.it/dp/8804752238?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Acquista su Amazon →</a>
 </div>
 
 📚 **Potrebbero piacerti anche:** [Fahrenheit 451 audiolibro](/posts/fahrenheit-451-audiolibro) · [audiolibri di fantascienza](/tags/recensioni) · [altri classici contemporanei](/categories/recensioni)
@@ -30,4 +30,4 @@ Consigliato agli appassionati di fantascienza, cyberpunk e a chi ama le storie c
 
 **Voto:** ⭐⭐⭐⭐ Imperdibile per gli appassionati del genere.
 
-**Acquista su Amazon:** https://amzn.to/4rDdVNb
+**Acquista su Amazon:** https://www.amazon.it/dp/8804752238?tag=audiobookit-21
