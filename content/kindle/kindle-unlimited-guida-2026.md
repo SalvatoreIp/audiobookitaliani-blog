@@ -1,447 +1,72 @@
 ---
-title: "Come funziona Kindle Unlimited: guida completa per iniziare 2026"
+title: "Come funziona Kindle Unlimited (ora Kindle+): guida pratica"
 date: 2026-06-14T22:20:00+02:00
+lastmod: 2026-10-27T10:00:00+01:00
 draft: false
-description: "Come funziona Kindle Unlimited: guida passo passo. Iscriversi, usare su smartphone senza Kindle, disdire, titoli italiani disponibili."
-tags: ["kindle", "kindle unlimited", "guida", "abbonamento", "ebook", "2026", "tutorial"]
+description: "Kindle Unlimited, ora Kindle+: 9,99 euro al mese, 20 titoli in prestito, 30 giorni di prova. Come iscriversi, leggere senza Kindle, restituire e disdire."
+tags: ["kindle", "kindle unlimited", "kindle+", "guida", "abbonamento", "ebook"]
 cover:
   image: /images/covers/kindle-unlimited-guida-2026.jpg
   alt: "Guida pratica all'uso di Kindle Unlimited su dispositivi vari"
 ---
 
-<p class="lead">Kindle Unlimited ti permette di leggere e ascoltare milioni di titoli per 9,99€/mese. Questa guida completa ti spiega come iscriverti, usarlo su smartphone senza Kindle, disdire e scoprire i migliori titoli italiani.</p>
-
-## Cos'è Kindle Unlimited?
-
-**Kindle Unlimited** è il servizio di abbonamento di Amazon per lettori digitali. Per **9,99€/mese** ottieni:
-
-- **2+ milioni di ebook** a disposizione
-- **2+ milioni di audiolibri** inclusi
-- **Lettura illimitata:** nessun limite di titoli
-- **30 giorni gratuiti** per nuovi utenti
-- **Disdetta in qualsiasi momento:** niente contratti
-
-**Ideale per:** Chi legge 2+ libri al mese e vuole risparmiare sugli ebook.
-
----
-
-## Come Iscriversi a Kindle Unlimited: Passo Passo
-
-### **Metodo 1: Tramite Amazon.it (Consigliato)**
-
-#### **Passo 1: Vai alla pagina Kindle Unlimited**
-1. Apri il tuo browser
-2. Vai su: [amazon.it/kindle-dbs/hz/signup](https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21)
-
-#### **Passo 2: Clicca su "Inizia la prova gratuita di 30 giorni"**
-- Il pulsante è verde e ben visibile
-- Clicca sopra
-
-#### **Passo 3: Accedi al tuo account Amazon**
-- Se non hai un account: creane uno nuovo (gratis)
-- Se hai già un account: inserisci email e password
-
-#### **Passo 4: Inserisci i dati di pagamento**
-- Amazon richiede carta di credito o debito
-- **NON ti addebiterà nulla** durante i 30 giorni gratuiti
-- Riceverai email di conferma
-
-#### **Passo 5: Conferma l'iscrizione**
-- Leggere i termini e condizioni
-- Cliccare su "Conferma e inizia"
-
-#### **Passo 6: Hai finito!**
-- L'abbonamento è attivo immediatamente
-- Hai 30 giorni per valutare
-- Puoi disdire in qualsiasi momento
-
----
-
-### **Metodo 2: Tramite App Kindle (iOS/Android)**
-
-1. **Scarica l'app Kindle**
-   - iOS: App Store
-   - Android: Google Play
-
-2. **Apri l'app e accedi con account Amazon**
-
-3. **Cerca "Kindle Unlimited"**
-   - Menu → Kindle Unlimited
-
-4. **Clicca su "Prova gratuita 30 giorni"**
-
-5. **Segui la procedura di pagamento**
-
-6. **Attivazione immediata**
-
----
-
-### **Metodo 3: Tramite Dispositivo Kindle**
-
-1. **Accendi il tuo Kindle**
-2. **Collegali a Wi-Fi**
-3. **Menu → Impostazioni → Kindle Unlimited**
-4. **Clicca su "Attiva ora"**
-5. **Accedi con account Amazon**
-6. **Inserisci dati pagamento**
-7. **Conferma attivazione**
-
----
-
-## Come Usare Kindle Unlimited Senza Kindle Fisico
-
-**Puoi usare Kindle Unlimited su QUALSIASI dispositivo** con le app gratuite!
-
-### **📱 Su Smartphone (iOS e Android)**
-
-#### **Passo 1: Scarica l'App Kindle**
-- **iOS:** App Store → cerca "Amazon Kindle"
-- **Android:** Google Play → cerca "Amazon Kindle"
-
-#### **Passo 2: Accedi con il tuo account Amazon**
-- Usa le stesse credenziali dell'abbonamento KU
-
-#### **Passo 3: Vai nella sezione Kindle Unlimited**
-- Menu in basso → "KU" o "Kindle Unlimited"
-- Oppure: Menu → "Esplora" → "Kindle Unlimited"
-
-#### **Passo 4: Cerca e scarica libri**
-- Cerca il titolo che ti interessa
-- Clicca su "Prova ora" o "Leggi ora"
-- Il libro si scarica automaticamente
-
-#### **Passo 5: Leggi offline**
-- I libri scaricati sono disponibili offline
-- Nessuna connessione richiesta per la lettura
-
-**Vantaggi:**
-- Leggero e portatile
-- Sincronizzazione automatica del punto di lettura
-- Possibilità di ascoltare audiolibri (se inclusi)
-
----
-
-### **💻 Su Computer (Windows e Mac)**
-
-#### **Passo 1: Scarica Kindle for PC/Mac**
-- Vai su: [amazon.com/kindle-dbs/software](https://www.amazon.com/kindle-dbs/software)
-- Scarica per il tuo sistema operativo
-
-#### **Passo 2: Installa e apri l'app**
-- Seguì le istruzioni di installazione
-- Avvia Kindle for PC/Mac
-
-#### **Passo 3: Accedi con account Amazon**
-
-#### **Passo 4: Naviga su Kindle Unlimited**
-- Menu → "Kindle Unlimited"
-- Esplora i titoli disponibili
-
-#### **Passo 5: Scarica e leggi**
-- Clicca su qualsiasi libro
-- Si scarica sul tuo computer
-
-**Alternative:**
-- **Browser web:** Vai su [read.amazon.com](https://read.amazon.com)
-- **Leggere direttamente nel browser** (nessuna installazione)
-
----
-
-### **📱 Su Tablet (iPad e Android)**
-
-#### **Passo 1: Scarica app Kindle**
-- **iPad:** App Store → "Amazon Kindle"
-- **Android:** Google Play → "Amazon Kindle"
-
-#### **Passo 2: Accedi al tuo account**
-
-#### **Passo 3: Cerca e scarica libri KU**
-
-#### **Passo 4: Lettura ottimizzata per tablet**
-- Schermo grande più comodo per la lettura
-- Possibilità di guardare copertine in grande
-
-**Vantaggi:**
-- Schermo più grande del telefono
-- Più portatile del PC
-- Perfetto per leggere a letto o in viaggio
-
----
-
-### **📚 Su Kindle Fisico (se ne possiedi uno)**
-
-#### **Passo 1: Accendi il Kindle**
-
-#### **Passo 2: Connettiti a Wi-Fi**
-
-#### **Passo 3: Vai a Kindle Unlimited**
-- Menu principale → "Kindle Unlimited"
-
-#### **Passo 4: Sfogli e scarica**
-- Cerca per genere, autore, popolarità
-- Clicca su un libro → si scarica automaticamente
-
-#### **Passo 5: Leggi sul tuo e-reader**
-- Schermo e-ink (comodo come carta)
-- Batteria dura settimane
-
----
-
-## Come Cercare e Scegliere Libri su Kindle Unlimited
-
-### **1. Per Genere**
-- **Menu → Kindle Unlimited → Genere**
-- Scegli tra: Narrativa, Gialli, Fantascienza, Romanzi Rosa, Saggistica, ecc.
-
-### **2. Per Popolarità**
-- **Menu → Kindle Unlimited → Bestseller**
-- Vedi i libri più letti dagli altri membri
-
-### **3. Per Autore**
-- Cerca l'autore nella barra di ricerca
-- Se ha libri KU, apparirà un badge "Incluso in KU"
-
-### **4. Per Novità**
-- **Menu → Kindle Unlimited → Novità**
-- Ultimi titoli aggiunti al servizio
-
-### **5. Per Serie**
-- Cerca una serie completa
-- Spesso gli autori caricano tutte le opere in una volta
-
----
-
-## Limiti di Kindle Unlimited
-
-### **10 Libri in Prestito Attivo**
-
-- Puoi avere **10 libri in prestito** contemporaneamente
-- **Non è un limite di lettura** — puoi leggere quanti libri vuoi
-- **Devi restituire** un libro per aggiungerne un nuovo
-
-### **Come Restituire Libri**
-
-#### **Su App Kindle:**
-1. Apri la libreria
-2. Tieni premuto sul libro
-3. Clicca su "Restituisci questo libro"
-
-#### **Su Browser:**
-1. Vai su [amazon.it/mykd](https://www.amazon.it/mykd?tag=audiobookit-21)
-2. Trova il libro
-3. Clicca su "Restituisci"
-
-#### **Su Kindle Fisico:**
-1. Tieni premuto sul libro
-2. Clicca su "Rimuovi dal dispositivo"
-3. Conferma la restituzione
-
-**Importante:** La restituzione è immediata e libera un slot per nuovi libri.
-
----
-
-## Come Disdire Kindle Unlimited
-
-### **Procedura Passo Passo**
-
-#### **Passo 1: Vai su Amazon.it**
-- Accedi al tuo account
-
-#### **Passo 2: Vai a "I miei contenuti e dispositivi"**
-- Menu → Account e liste → I miei contenuti e dispositivi
-
-#### **Passo 3: Clicca su "Kindle Unlimited"**
-- Troverai la sezione abbonamenti
-
-#### **Passo 4: Clicca su "Disdici abbonamento"**
-- Il pulsante è in evidenza
-
-#### **Passo 5: Conferma la disdetta**
-- Leggi le informazioni
-- Clicca su "Conferma disdetta"
-
-### **Cosa Succede Dopo la Disdetta**
-
-- **Mantieni l'accesso** fino alla data di rinnovo successiva
-- **Perdi l'accesso** a tutti i libri non acquistati singolarmente
-- **Nessun rimborso** per il periodo già pagato
-
-### **Ricorda:**
-
-- **Disdici almeno 2 giorni prima** della scadenza per sicurezza
-- **Controlla le email di promemoria** (Amazon invia a 27-28 giorni)
-- **La disdetta non è immediata** — hai accesso fino alla fine del periodo
-
----
-
-## Titoli Italiani Disponibili su Kindle Unlimited
-
-### **Autori Italiani Popolari:**
-
-- **Valerio Varesi** — Gialli e noir
-- **Giancarlo De Cataldo** — Romanzi polizieschi
-- **Paolo Giordano** — Narrativa contemporanea
-- **Alessandro Baricco** — Romanzi letterari (alcuni titoli)
-- **Andrea Camilleri** — Montalbano (alcuni titoli)
-
-### **Bestseller Internazionali (in italiano):**
-
-- **Stephen King** — Molti thriller inclusi
-- **Dan Brown** — Romanzi thriller
-- **Gillian Flynn** — Thriller psicologici
-- **Lee Child** — Jack Reacher
-- **James Patterson** — Millecollaborazioni
-
-### **Saggistica e Self-Help:**
-
-- **Libri di business** — Management, imprenditoria
-- **Auto-aiuto** — Crescita personale, produttività
-- **Cucina** — Ricette e guide culinarie
-- **Viaggi** — Guide turistiche, esperienze
-
-### **Classici Italiani (Dominio Pubblico):**
-
-- **Dante Alighieri** — La Divina Commedia
-- **Alessandro Manzoni** — I Promessi Sposi
-- **Giacomo Leopardi** — Poesie e prosa
-- **Italo Calvino** — Romanzi e racconti
-- **Luigi Pirandello** — Opere teatrali e romanzi
-
----
-
-## Titoli in Inglese Disponibili
-
-### **Bestseller English:**
-
-- **Stephen King** — Catalogo esteso
-- **George R.R. Martin** — A Song of Ice and Fire (alcuni)
-- **James Patterson** — Tutte le serie
-- **Dan Brown** — Robert Langdon series
-- **John Grisham** — Romanzi legali
-
-### **Fantasy e Fantascienza:**
-
-- **Brandon Sanderson** — Molti titoli
-- **N.K. Jemisin** — Serie dell'In Broken Earth
-- **Becky Chambers** — Sci-fi暖心
-- **Andy Weir** — The Martian, Artemis
-
-### **Romanzi Rosa:**
-
-- **Nora Roberts** — Catalogo completo
-- **Silvia Salemi** — Romanzi rosa italiani
-- **Elin Hilderbrand** — Romanzi estivi
-
----
-
-## Audiolibri Inclusi: Whispersync
-
-### **Cos'è Whispersync for Voice?**
-
-Whispersync ti permette di **passare dall'ebook all'audiolibro** senza perdere il punto di lettura:
-
-- **Inizia a leggere** un ebook su Kindle
-- **Passa all'audiolibro** e trovi esattamente dove eri
-- **Continua ad ascoltare** mentre guidi o cammini
-- **Torna a leggere** — il punto è sincronizzato
-
-### **Audiolibri Inclusi in KU:**
-
-- **2+ milioni di audiolibri**
-- **Narratori professionisti**
-- **Disponibili in inglese e italiano**
-- **Nessun costo aggiuntivo** — inclusi nell'abbonamento
-
-### **Come Usare gli Audiolibri:**
-
-1. **Cerca un libro con icona "Ascolta"**
-2. **Clicca su "Ascolta ora"**
-3. **Scarica l'audiolibro** (come un normale libro)
-4. **Ascolta con cuffie** — il punto è sincronizzato
-
----
-
-## Consigli per Sfruttare al Massimo Kindle Unlimited
-
-### **1. Sfrutta i 30 Giorni Gratuiti**
-
-- **Giorno 1-3:** Iscriviti e scarica 10 libri
-- **Giorno 4-10:** Leggi rapidamente per testare il servizio
-- **Giorno 11-25:** Valuta se vuoi continuare
-- **Giorno 26-28:** Disdici se non soddisfacente
-
-### **2. Segui Autori Preferiti**
-
-- **Clicca su "Segui"** accanto agli autori
-- Riceverai notifiche sui nuovi titoli in KU
-
-### **3. Esplora Generi Diversi**
-
-- KU è perfetto per **provare nuovi generi**
-- Non rischi denaro — prova e cambia se non ti piace
-
-### **4. Leggi Serie Completa**
-
-- Molti autori pubblicano **serie intere** in KU
-- Perfetto per **binge-reading** (leggere tutto in una volta)
-
-### **5. Usa le Raccomandazioni**
-
-- **Amazon suggerisce** titoli basati sulle tue letture
-- Controlla regolarmente la sezione "Consigliati per te"
-
-### **6. Partecipa alle Recensioni**
-
-- Recensisci i libri che leggi
-- Aiuta altri lettori e ricevi suggerimenti migliori
-
----
-
-## Domande Frequenti (FAQ)
-
-### **Q: Posso avere più di 10 libri in prestito?**
-**R:** No, il limite è 10 simultanei. Devi restituire un libro per aggiungerne uno nuovo.
-
-### **Q: Cosa succede se disdico e poi mi reiscrivo?**
-**R:** Puoi disdire e reiscrivere, ma avrai diritto a **30 giorni gratuiti solo una volta**. La seconda volta pagherai immediatamente.
-
-### **Q: Posso leggere su più dispositivi?**
-**R:** Sì, puoi sincronizzare fino a **20 dispositivi**. Il punto di lettura è automatico.
-
-### **Q: Gli audiolibri sono inclusi o a parte?**
-**R:** Gli audiolibri sono **completamente inclusi** in KU — nessun costo extra.
-
-### **Q: Posso tenere i libri dopo la disdetta?**
-**R:** No, perdi l'accesso a tutti i libri **non acquistati singolarmente**. Solo i libri che hai comprato restano tuoi.
-
-### **Q: Kindle Unlimited è lo stesso di Prime Reading?**
-**R:** No. **Prime Reading** è incluso con Amazon Prime (circa 1.000 titoli). **Kindle Unlimited** costa 9,99€/mese ma include 2+ milioni di titoli + audiolibri.
-
-### **Q: Posso acquistare ebook individualmente mentre ho KU?**
-**R:** Sì, puoi acquistare ebook singoli. Se il libro è già in KU, Amazon ti fa uno sconto (di solito 30-50%).
-
-### **Q: Kindle Unlimited funziona offline?**
-**R:** Sì, se **hai scaricato i libri** prima, puoi leggere senza connessione internet.
-
----
-
-## Conclusione
-
-Kindle Unlimited è un servizio **eccellente per lettori voraci** che vogliono esplorare senza limiti. Con **2+ milioni di ebook**, **2+ milioni di audiolibri** e **nessun limite di lettura**, è il servizio di lettura più completo disponibile.
-
-**Il mio consiglio:** Sfrutta i **30 giorni gratuiti**, leggi molto per testarlo, e se leggi 2+ libri al mese, **mantieni l'abbonamento**. Altrimenti, disdici e torna ai singoli acquisti.
-
----
-
-## 📚 Inizia Oggi Stesso
+Kindle Unlimited è l'abbonamento di Amazon per leggere ebook, riviste e fumetti a prezzo fisso. A fine ottobre 2026 Amazon ha cambiato il nome del servizio in **Kindle+**: per chi è già iscritto non cambia niente, né il prezzo né i titoli né le letture salvate. In questa guida trovi come funziona, come iscriversi, come leggere anche senza un lettore Kindle e come disdire. I dati sono aggiornati a ottobre 2026.
 
 <div class="cta-box">
-<p><strong>📚 Oltre 1 milione di titoli, primo mese gratis</strong></p>
-<a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21" class="cta-button" rel="nofollow sponsored">Prova Kindle Unlimited gratis →</a>
+  <a href="https://www.amazon.it/kindle-dbs/hz/signup?tag=audiobookit-21" target="_blank" rel="nofollow sponsored" class="cta-button">📚 Prova Kindle Unlimited (Kindle+) per 30 giorni</a>
 </div>
 
-**Ricorda:** Disdici prima del 30° giorno se decidi di non continuare!
+## Le regole in breve
 
----
+| | |
+|---|---|
+| **Prezzo** | 9,99 euro al mese (invariato con il nuovo nome) |
+| **Prova gratuita** | 30 giorni per chi non è mai stato iscritto (a volte Amazon offre promozioni più lunghe) |
+| **Cosa comprende** | milioni di ebook, riviste e fumetti del catalogo incluso |
+| **Titoli in prestito insieme** | fino a 20; per prenderne uno nuovo se ne restituisce uno |
+| **Scadenza dei prestiti** | nessuna, finché l'abbonamento è attivo |
+| **Audiolibri** | all'estero sono in arrivo con Kindle+, in Italia per ora non risultano inclusi |
 
-*Fonti: amazon.it/kindle-unlimited, guide ufficiali Kindle 2026, recensioni utenti*
+Il punto da capire subito: il catalogo incluso **non è tutto il negozio Kindle**. Ci sono molti autori indipendenti, saggi, manuali, fumetti e una parte dei libri delle case editrici. Molte novità dei grandi editori invece mancano. Prima di abbonarti, cerca nel negozio Kindle i titoli che vorresti leggere e controlla se hanno la scritta "Kindle Unlimited" (o "Kindle+") accanto al prezzo.
+
+## Come iscriversi
+
+1. Vai sulla pagina dell'abbonamento su amazon.it (è il link del pulsante qui sopra) ed entra con il tuo account Amazon.
+2. Premi il pulsante per iniziare la prova gratuita.
+3. Conferma il metodo di pagamento. Durante la prova non viene addebitato nulla: il primo addebito di 9,99 euro arriva alla fine dei 30 giorni, se non disdici prima.
+
+Ci si può iscrivere anche da un lettore Kindle, dal negozio integrato. Dalle app per iPhone e iPad invece non sempre si possono comprare abbonamenti, per le regole dell'App Store: in quel caso conviene passare dal sito.
+
+## Leggere senza un Kindle
+
+Un lettore Kindle non è obbligatorio. Puoi leggere i titoli in prestito:
+
+- **sul telefono o sul tablet**, con l'app gratuita "Amazon Kindle" per iPhone, iPad e Android;
+- **sul computer**, con l'app Kindle per Windows e Mac oppure direttamente dal browser su read.amazon.it;
+- **su un lettore Kindle**, che con lo schermo a inchiostro elettronico stanca meno gli occhi e ha una batteria che dura settimane.
+
+Il punto in cui sei arrivato si sincronizza da solo tra i dispositivi: inizi sul telefono in treno e continui sul Kindle la sera.
+## Prendere e restituire i titoli
+
+Accanto a ogni titolo incluso trovi il pulsante per leggerlo gratis con l'abbonamento: il libro si scarica e compare nella tua libreria. Puoi tenere fino a **20 titoli** insieme, e anche le riviste contano nel totale. Quando arrivi al limite e vuoi un titolo nuovo, Amazon ti chiede quale restituire.
+
+Per restituire un titolo a mano: dal sito vai in "Account e liste", poi "Gestisci contenuti e dispositivi", trovi il libro e scegli "Restituisci". Dall'app Kindle e dal lettore si fa tenendo premuto sulla copertina.
+
+## Come disdire
+
+1. Su amazon.it apri "Account e liste" e poi "Abbonamenti e iscrizioni" (oppure la pagina "Gestisci la tua iscrizione a Kindle Unlimited").
+2. Scegli di annullare l'iscrizione e conferma.
+
+Dopo la disdetta continui a leggere fino alla fine del periodo già pagato. Poi i titoli in prestito spariscono dalla libreria: restano solo gli ebook comprati. Se disdici durante la prova, non paghi nulla.
+
+## Kindle Unlimited e Prime Reading
+
+Sono due cose diverse. **Prime Reading** è compreso nell'abbonamento Amazon Prime (49,90 euro all'anno o 4,99 euro al mese, prezzi in vigore dal 2022) e offre una selezione molto più piccola di ebook e riviste, che cambia nel tempo. **Kindle Unlimited** è un abbonamento a parte, con un catalogo molto più ampio. Se hai già Prime, prova prima Prime Reading: se ti basta, non serve altro.
+
+## Conviene?
+
+Dipende da quanti titoli del catalogo incluso leggerai davvero. Per un calcolo con qualche esempio e per capire chi ci guadagna e chi no, leggi [Kindle Unlimited vale la pena?](/kindle/kindle-unlimited-vale-la-pena-2026/). Chi preferisce ascoltare invece di leggere deve guardare altrove, perché in Italia gli audiolibri non sono compresi: le alternative sono Audible (ne parliamo in [Audible vale la pena](/recensioni/audible-vale-la-pena-2026/)), Storytel e, da ottobre 2026, [gli audiolibri su Spotify](/recensioni/spotify-audiolibri-italia-2026/).
+
+Supporta AudioBook Italiani acquistando tramite i nostri link!
+
+*Fonti: Punto Informatico (22 ottobre 2026, cambio di nome in Kindle+, prezzo e limite di 20 titoli), pagine di aiuto di Amazon, prezzi Amazon Prime in vigore dal 15 settembre 2022.*
