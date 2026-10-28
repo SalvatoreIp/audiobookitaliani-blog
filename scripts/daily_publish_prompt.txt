@@ -5,10 +5,15 @@ SCOPE: modifichi SOLO (1) un nuovo file in content/<sezione>/ con la sua coperti
 PASSO 1 — Argomento: apri content-queue.md e prendi il primo elemento `- [ ]` in "Da pubblicare". Se non ce ne sono, segui "Quando la coda è vuota" nello stesso file. Controlla titoli e slug in content/*/ per non duplicare un libro o una ricerca già coperti.
 
 PASSO 2 — Ricerca: con WebSearch verifica autore, anno, narratore, durata, editore e disponibilità su Audible/Kindle Unlimited. Cerca il prodotto reale su Amazon.it ("site:amazon.it <titolo> audiolibro"): usa l'ASIN solo se lo trovi davvero, nel formato di CLAUDE.md con tag audiobookit-21; altrimenti link di ricerca. Mai ASIN, trame o dati inventati.
+REGOLE ANTI-INVENZIONE (dal 28/10/2026, dopo che sul sito erano state trovate recensioni di libri inesistenti e narratori sbagliati):
+- Il libro deve risultare in almeno un catalogo vero (audible.it, amazon.it o il sito dell'editore) con lo stesso titolo E lo stesso autore. Se non trovi conferme, scarta l'argomento, annotalo in content-queue.md e passa al successivo.
+- Narratore e durata leggili da audible.it con WebFetch su https://www.audible.it/search?keywords=<titolo+autore> (se risponde 503 riprova una volta; in alternativa le schede Audible di altri paesi o dell'editore). Se in nessuna fonte trovi il narratore o la durata, NON scriverli: scrivi che il dato non è indicato.
+- Le edizioni in altre lingue (per esempio Stephen Fry per Harry Potter in inglese) vanno sempre dichiarate come tali, mai presentate come edizione italiana.
+- Termini aggiornati: Audible in Italia ha un solo abbonamento a 9,99 euro al mese (mai "Premium Plus" o "Audible Plus"); Kindle Unlimited dal 22/10/2026 si chiama Kindle+ e in Italia NON include audiolibri; Spotify Premium include 12 ore di audiolibri al mese dal 7/10/2026. Ricontrolla sul web se il dato è cambiato.
 
 DATA DELL'ARTICOLO: nel frontmatter usa l'ora attuale presa con `date +%Y-%m-%dT%H:%M:%S%:z`, mai un orario futuro (Hugo non pubblica gli articoli con data futura). L'orario del cron citato in CLAUDE.md non c'entra.
 
-PASSO 3 — Scrivi l'articolo seguendo CLAUDE.md (900-1400 parole, frontmatter con virgolette doppie, box CTA dopo l'introduzione, link affiliato all'inizio e prima della conclusione, 2-3 link interni verso articoli esistenti trovati con grep in content/). Nessun segnaposto, nessun link vuoto.
+PASSO 3 — Scrivi l'articolo seguendo CLAUDE.md (900-1400 parole, frontmatter con virgolette doppie, box CTA dopo l'introduzione, link affiliato all'inizio e prima della conclusione, 2-3 link interni verso articoli esistenti trovati con grep in content/). Nessun segnaposto, nessun link vuoto. Ogni prezzo va datato ("prezzo indicativo <mese anno>"). L'articolo termina con la riga `*Fonti: ...*` con le fonti consultate e il mese della verifica.
 
 Copertina con ElevenLabs (~185 crediti):
 1. mcp__claude_ai_ElevenLabs__creative_add_flow_node con flow_id "n07uEq7EjK5kolgOBEfD", node_type "image-generation", model_id "gpt-image-2", model_parameters {"aspect_ratio": "16:9", "resolution": "1K", "quality": "medium"} e un prompt IN INGLESE: fotografia editoriale realistica e accogliente che evochi il tema del libro o dell'articolo (atmosfera, luogo, oggetti simbolici, cuffie, libri, lettura), luce calda naturale. MAI riprodurre la copertina reale del libro, titoli o nomi di autori; nessuna persona riconoscibile. Chiudi con "No text, no logos, no watermarks."
@@ -19,6 +24,7 @@ Copertina con ElevenLabs (~185 crediti):
 
 PASSO 4 — Verifica e pubblica:
 - Conta le parole del corpo (tra 900 e 1400).
+- Controllo automatico: `grep -nE "amzn\.to|Premium Plus|Audible Plus|\]\(\)|\[qui |inserire|lorem" <file>` deve restituire NIENTE, e il file deve contenere la riga `*Fonti:`. Se il controllo fallisce, correggi prima di pubblicare.
 - `set -a; . /home/salvatore/risparmio-energetico/.env; set +a` e poi il ciclo ESATTO di CLAUDE.md (rm -rf public/ && hugo --minify && npx wrangler pages deploy ... && git add content static content-queue.md && git commit && git push).
 - Se hugo o wrangler falliscono NON fare push: fermati e spiega nel riepilogo. Non lasciare il repo a metà.
 - Verifica che esista public/<sezione>/<slug>/index.html.

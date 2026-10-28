@@ -54,3 +54,5 @@ cover:
   ```
 - Chiusura con "Supporta AudioBook Italiani acquistando tramite i nostri link!". 2-3 link interni ad articoli correlati.
 - Slug: minuscolo e trattini, niente accenti né apostrofi. Mai post di prova.
+- Dal 28/10/2026: un libro si recensisce solo se risulta in un catalogo vero (audible.it, amazon.it, editore) con stesso titolo e autore; narratore e durata solo se letti in una fonte (audible.it via WebFetch su /search?keywords=...), altrimenti si scrive che non sono indicati. Prezzi sempre datati, riga finale `*Fonti: ...*`. Audible ha un solo abbonamento (9,99 €/mese); Kindle Unlimited si chiama Kindle+ e in Italia non include audiolibri.
+- Menu (28/10/2026): Recensioni · Guide e classifiche (/posts/) · Kindle · Chi siamo. La sezione `libri` resta online ma è fuori dal menu. La home mostra "Da dove iniziare" da `params.homeInfoParams` in hugo.toml: aggiornare quella lista quando nasce una guida migliore.
