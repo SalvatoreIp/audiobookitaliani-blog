@@ -16,42 +16,50 @@ theme = 'PaperMod'
   defaultTheme = "auto"
 
   [params.homeInfoParams]
-    Title = "Benvenuto su AudioBook Italiani 📚🎧"
-    Content = "Scopri recensioni, guide e consigli sui migliori audiobook e libri in italiano."
+    Title = "AudioBook Italiani"
+    Content = """Guide pratiche e recensioni di audiolibri in italiano: chi li legge, quanto durano, dove ascoltarli e quanto costano. Narratori, durate e prezzi li controlliamo sui cataloghi ufficiali e indichiamo sempre il mese della verifica.
+
+**Da dove iniziare**
+
+- [Audible vale la pena? Prezzi e quando conviene](/recensioni/audible-vale-la-pena-2026/)
+- [Audiolibri gratis: dove ascoltarli legalmente](/posts/audiolibri-gratis-dove-ascoltarli-legalmente-2026/)
+- [Audiolibri su Spotify: come funziona in Italia](/recensioni/spotify-audiolibri-italia-2026/)
+- [Storytel o Audible: quale scegliere](/recensioni/storytel-vs-audible-confronto-2026/)
+- [Kindle Unlimited (ora Kindle+): guida pratica](/kindle/kindle-unlimited-guida-2026/)
+- [I 10 audiolibri più ascoltati su Audible in Italia](/posts/audiolibri-piu-ascoltati-audible-italia/)"""
 
 [[params.socialIcons]]
   name = "telegram"
   url = "https://t.me/audiobookitaliani_news"
 
+
+
+
+
+
 [[menu.main]]
-  identifier = "home"
-  name = "Audiolibri"
-  url = "/"
+  identifier = "recensioni"
+  name = "Recensioni"
+  url = "/recensioni/"
   weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Guide e classifiche"
+  url = "/posts/"
+  weight = 20
 
 [[menu.main]]
   identifier = "kindle"
   name = "Kindle"
   url = "/kindle/"
-  weight = 20
-
-[[menu.main]]
-  identifier = "libri"
-  name = "Libri Cartacei"
-  url = "/libri/"
-  weight = 25
-
-[[menu.main]]
-  identifier = "posts"
-  name = "Archivio"
-  url = "/posts/"
-  weight = 27
+  weight = 30
 
 [[menu.main]]
   identifier = "about"
-  name = "Chi Siamo"
+  name = "Chi siamo"
   url = "/about/"
-  weight = 30
+  weight = 40
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -64,11 +72,6 @@ theme = 'PaperMod'
 canonifyURLs = false
 relativeURLs = false
 
-[[menu.main]]
-  identifier = "recensioni"
-  name = "Recensioni"
-  url = "/recensioni/"
-  weight = 15
 
 [markup.goldmark.renderer]
   unsafe = true
